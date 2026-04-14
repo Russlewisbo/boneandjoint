@@ -1,0 +1,1122 @@
+---
+title: "Bone and Joint Infections"
+author: "Russell E. Lewis, Pharm.D."
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+bibliography: bone-joint-infections-references.bib
+csl: diagnostic-microbiology-and-infectious-disease.csl
+---
+
+# Part I: Native Joint Septic Arthritis
+
+## Epidemiology and Risk Factors
+
+Septic arthritis (infectious arthritis) represents a medical emergency with significant morbidity and mortality if not diagnosed and treated promptly. The incidence of septic arthritis has been reported at 2–10 per 100,000 person-years, with considerable variation depending on the population studied [@Kaandorp1995; @Rutherford2016; @Kennedy2015]. This incidence is rising due to several demographic and clinical trends: an aging population, increased use of immunosuppressive therapies (particularly TNF-α inhibitors), the expanding prevalence of prosthetic joint implants, and the ongoing opioid epidemic with associated intravenous drug use (IVDU) [@Ross2020opioid; @Nossent2021].
+
+Delayed diagnosis carries severe consequences: mortality rates approach 50% in cases with delayed diagnosis and treatment [@Abram2020]. Early recognition and aggressive management are therefore essential to optimize patient outcomes.
+
+### Key Risk Factors
+
+::: {.callout-important}
+## Critical Risk Factors for Septic Arthritis
+
+The most important predisposing conditions include:
+
+- **Rheumatoid arthritis** (RA) — single most important risk factor in rheumatological settings
+- **Advanced age** (>80 years)
+- **Diabetes mellitus**
+- **Joint prosthesis** or recent joint surgery
+- **Active skin infection** (source for hematogenous seeding)
+- **Intravenous drug use** (now the most common risk factor in many populations)
+- **Immunosuppressive therapy** — particularly TNF-α inhibitors
+- **Alcohol abuse**
+- **Recent joint aspiration or injection**
+:::
+
+| Risk Factor | Clinical Significance |
+|---|---|
+| Rheumatoid arthritis | Most important in rheumatological practice; synovitis increases susceptibility |
+| Age >80 years | Increasing prevalence in aging populations |
+| Diabetes mellitus | Impaired immune function, higher infection rates |
+| Joint prosthesis | Foreign body; hematogenous seeding risk |
+| Skin infection source | Direct pathway for bacteremia |
+| IVDU | Rapid emergence as leading risk factor; unusual joint involvement |
+| TNF inhibitors | Impaired cellular immunity |
+| Hemodialysis | Vascular access complications, immunosuppression |
+
+: Predisposing Factors for Septic Arthritis {#tbl-risk-factors}
+
+## Microbiology
+
+Understanding the microbiology of septic arthritis is essential for rational empirical antimicrobial therapy. The causative organisms vary with epidemiologic context and risk factors.
+
+### Pathogen Distribution
+
+**Staphylococcus aureus** remains the most common etiologic agent overall, accounting for 40–70% of septic arthritis cases. Importantly, the prevalence of methicillin-resistant S. aureus (MRSA) is increasing, particularly in patients with IVDU where rates reach 18–40%.
+
+Streptococcal species (including Group A, Group B, and viridans streptococci) account for 15–20% of cases. Gram-negative rods (GNR), including Escherichia coli, Klebsiella, and Pseudomonas species, represent 5–25% of infections. Polymicrobial infections occur in 5–10% of cases and are more common in IVDU, diabetes, and immunocompromised patients.
+
+| Pathogen | Percentage | Notes |
+|---|---|---|
+| Staphylococcus aureus (MSSA) | 30-50% | Most common overall |
+| MRSA | 10-40% | Higher in IVDU (18-40%), healthcare-associated |
+| Streptococci (GAS, GBS, viridans) | 15-20% | GBS in diabetes/malignancy |
+| Gram-negative rods | 5-25% | E. coli, Klebsiella, Pseudomonas |
+| Polymicrobial | 5-10% | IVDU, immunocompromised |
+| Anaerobes | <5% | Rare; contiguous spread |
+| Fastidious organisms | <5% | Neisseria gonorrhoeae, H. influenzae |
+
+: Microbiology of Septic Arthritis (n=2302 cases) {#tbl-microbiology}
+
+### Clinical and Epidemiologic Associations
+
+Certain pathogens show strong associations with specific clinical scenarios and risk factors:
+
+| Pathogen | Clinical/Epidemiologic Association |
+|---|---|
+| S. aureus | Most common overall; IVDU; prosthetic joints; skin infections |
+| MRSA | IVDU; healthcare exposure; immunocompromised hosts |
+| Group A Streptococcus | Traumatic inoculation; animal exposures |
+| Group B Streptococcus | Diabetes mellitus; malignancy; pregnancy; elderly |
+| Gram-negative rods | Immunocompromised; diabetes; recent GU manipulation |
+| Pasteurella multocida | Animal bites/scratches |
+| Borrelia burgdorferi | Lyme disease; endemic areas; chronic monoarthritis |
+| Mycobacterium tuberculosis | TB exposure; extrapulmonary TB; immunocompromised |
+| Candida species | Immunocompromised; IV catheters; IVDU |
+| Neisseria gonorrhoeae | Young sexually active; disseminated gonococcal infection |
+
+: Clinical and Epidemiologic Associations for Joint Pathogens {#tbl-pathogen-associations}
+
+## Pathophysiology
+
+The pathophysiology of septic arthritis involves several key mechanisms that result in rapid joint destruction if untreated.
+
+### Routes of Infection
+
+**Hematogenous seeding** (most common route) occurs from bacteremic episodes secondary to skin, soft tissue, urinary tract, respiratory, or other infections. Bacteria lodge in the synovial microvasculature and invade the joint space.
+
+**Direct inoculation** results from penetrating trauma, arthrocentesis, arthroscopic surgery, or other iatrogenic procedures.
+
+**Contiguous spread** occurs when infection extends from adjacent bone (osteomyelitis) or soft tissue (cellulitis, bursitis) into the joint space.
+
+### Bacterial Virulence and Joint Destruction
+
+Once bacteria establish infection in the joint, rapid destruction occurs through multiple mechanisms:
+
+- **Proteolytic enzymes** (collagenase, hyaluronidase, proteases) degrade cartilage and connective tissue
+- **Cytokine response** (TNF-α, IL-1, IL-6, IL-8) triggers inflammatory cascade with neutrophil recruitment
+- **Mechanical pressure** from inflammatory exudate and swelling compromises blood supply to cartilage
+- **Direct bacterial toxins** contribute to synovial inflammation and tissue damage
+
+**Critical timing**: Joint destruction can begin within 24–48 hours of infection onset, emphasizing the urgency of diagnosis and treatment.
+
+### Staphylococcus aureus as a Paradigm
+
+S. aureus possesses multiple virulence mechanisms particularly suited to joint infection:
+
+- **Adhesins** (clumping factors, collagen-binding proteins, fibronectin-binding proteins) promote attachment to synovial tissue and bone matrix proteins
+- **Protein A** interferes with opsonization and complement activation
+- **Biofilm formation** renders organisms tolerant to antibiotics and immune killing
+- **Alpha-toxin** causes inflammatory response and direct tissue damage
+- **Phenol-soluble modulins** enhance biofilm formation and immune evasion
+
+## Clinical Manifestations
+
+### Presentation Patterns
+
+**Acute septic arthritis** typically presents with sudden onset of severe joint pain, swelling, warmth, erythema, and restriction of range of motion (ROM). Constitutional symptoms including fever, chills, and malaise are common but not universal.
+
+**Monoarticular involvement** predominates in 80–90% of cases. The **knee joint** is most frequently affected (approximately 50% of cases), followed by the **hip** (20%), **shoulder**, **ankle**, and **wrist**. Predilection for large joints reflects the anatomy of the synovial vasculature.
+
+**Polyarticular involvement** (2 or more joints) occurs in 10–20% of cases and is associated with:
+- Underlying rheumatoid arthritis
+- Immunocompromised states
+- S. aureus bacteremia
+- Certain pathogens (gonococcal arthritis, leptospirosis)
+
+### Joint-Specific Presentation Features
+
+::: {.callout-note}
+## Hip Joint Septic Arthritis
+
+Hip joint infections present particular diagnostic challenges because:
+- Deep location limits physical examination findings
+- Infants and children may present only with refusal to bear weight
+- Adults may report groin pain, anterior thigh pain, or pain on internal rotation
+- Urgent imaging (ultrasound in children, MRI in adults) is essential
+- Delays in diagnosis are more common for hip infections
+:::
+
+## Diagnosis
+
+Diagnosis of septic arthritis requires integration of clinical suspicion, laboratory findings, synovial fluid analysis, microbiologic studies, and imaging. No single test is sufficiently sensitive and specific to rule in or rule out septic arthritis without additional supportive evidence.
+
+### Peripheral Blood Laboratory Findings
+
+- **WBC count**: Elevated (>11,000/μL) in only 50–60% of cases; normal WBC does not exclude septic arthritis
+- **ESR and CRP**: Elevated in >90% of cases; ESR typically >20 mm/h, CRP often >30 mg/L
+- **Blood cultures**: Positive in 50–70% of cases; should always be obtained before initiating antibiotics
+
+### Procalcitonin
+
+Procalcitonin shows promise as a diagnostic marker with reported sensitivity of 45–80% and specificity of 67–94%, making it potentially useful in equivocal cases. However, it is not yet standard practice in most centers.
+
+### Synovial Fluid Analysis: Critical Diagnostic Table
+
+The analysis of synovial fluid aspirated from the affected joint provides the most direct diagnostic information:
+
+| Parameter | Value | Sensitivity | Specificity | LR+ |
+|---|---|---|---|---|
+| **WBC count >50,000/μL** | >50,000 | 62% | 92% | 7.7 |
+| **WBC count >25,000/μL** | >25,000 | 77% | 73% | 2.9 |
+| **PMN >90%** | >90% | 73% | 79% | 3.4 |
+| **Glucose <40 mg/dL** | <40 | 29% | 95% | 5.8 |
+| **Protein >3 g/dL** | >3 | 85% | 50% | 1.7 |
+| **LDH >1000 U/L** | >1000 | 90% | 40% | 1.5 |
+| **Positive culture** | — | 80-90% | 100% | — |
+| **Positive Gram stain** | — | 40-50% | 100% | — |
+
+: Diagnostic Parameters of Synovial Fluid in Septic Arthritis {#tbl-synovial-fluid}
+
+*Data adapted from @Margaretten2007; systematic review of diagnostic accuracy.*
+
+::: {.callout-important}
+## Key Synovial Fluid Interpretation Points
+
+1. **No single threshold is diagnostic** — use clinical context
+2. **WBC >50,000 with PMN >90%** is highly suggestive but not pathognomonic
+3. **Culture sensitivity 80-90%** — negative culture does not exclude septic arthritis
+4. **Gram stain sensitivity only 40-50%** — negative stain does not exclude infection
+5. **Send culture BEFORE antibiotics** when possible
+6. **Never delay antibiotic therapy waiting for culture results** — empirical therapy should start immediately in suspected cases
+:::
+
+### Microbiologic Diagnosis
+
+#### Conventional Culture
+
+Aerobic and anaerobic bacterial cultures remain the gold standard for microbiologic diagnosis. Culture sensitivity reaches 80–90% in untreated infections but decreases significantly if antibiotics have been administered before arthrocentesis. Multiple specimens increase diagnostic yield. Prolonged incubation (at least 5–7 days, preferably 14 days) should be requested to detect slow-growing organisms.
+
+#### Molecular Methods
+
+- **PCR-based assays** targeting bacterial 16S rRNA genes can detect a wider range of organisms including fastidious organisms and anaerobes not commonly identified by culture
+- **16S rRNA gene sequencing** provides organism identification even from culture-negative specimens
+- **Multiplex PCR panels** enable rapid detection of multiple common pathogens (S. aureus, Streptococcus pyogenes, group B Streptococcus, etc.)
+- **Metagenomic next-generation sequencing (mNGS)** offers unbiased pathogen detection but is not yet routine in most centers
+
+### Imaging
+
+#### Plain Radiography
+
+X-ray findings lag behind clinical presentation by 10–14 days:
+- Early findings: soft tissue swelling, joint effusion
+- Late findings: joint space narrowing, cartilage loss, erosions, osteolysis
+
+Plain films are useful for excluding other diagnoses (fracture, gout) but insufficient for ruling in septic arthritis.
+
+#### Magnetic Resonance Imaging (MRI)
+
+**MRI is the gold standard for early detection** of septic arthritis:
+- Sensitivity: 82–100%
+- Specificity: 75–96%
+- Detects joint effusion, synovial inflammation, cartilage changes, soft tissue involvement
+- Superior to plain radiography and CT for early diagnosis
+- Particularly valuable in equivocal cases and for assessing complications
+
+#### Computed Tomography (CT)
+
+Useful for:
+- Axial skeleton involvement (hip, sacroiliac, sternoclavicular joints)
+- Detailed cortical bone anatomy
+- Detecting sequestra in chronic cases
+- Guiding percutaneous drainage procedures
+
+#### Bone Scintigraphy
+
+- High sensitivity but low specificity
+- Useful in suspected osteomyelitis with joint involvement
+- Less commonly used with availability of MRI
+
+#### FDG-PET Imaging
+
+Emerging role in differentiation of septic from non-septic inflammatory arthritis; not yet standard practice.
+
+## Gonococcal Arthritis
+
+### Epidemiology and Clinical Syndrome
+
+Neisseria gonorrhoeae remains the most common cause of septic arthritis in young, sexually active adults. Disseminated gonococcal infection (DGI) presents with a characteristic triad:
+
+1. **Migratory polyarthralgia and polyarthritis** — typically affecting multiple small and large joints, with asymmetric involvement
+2. **Dermatitis** — pustular, vesicular, or necrotic skin lesions, often on extremities
+3. **Tenosynovitis** — particularly affecting extensors of fingers and toes, presenting as pain and swelling along tendon sheaths
+
+### Diagnostic Challenges
+
+Culture of joint fluid is positive in only 30–50% of DGI cases, making culture-negative presentations common. **Nucleic acid amplification tests (NAATs)** of urogenital, rectal, and pharyngeal sites are essential for diagnosis when joint culture is negative. Blood cultures are rarely positive.
+
+### Antimicrobial Therapy
+
+Current first-line therapy: **Ceftriaxone 500 mg–1 g IM or IV daily**
+
+- Administer until clinical improvement occurs (typically 24–48 hours)
+- Then transition to oral fluoroquinolone (ciprofloxacin 500 mg BID) to complete 7 days total therapy
+- **Important**: Antimicrobial resistance is increasing, particularly fluoroquinolone resistance
+
+::: {.callout-warning}
+## Gonococcal Resistance Concerns
+
+Fluoroquinolone-resistant N. gonorrhoeae is now widespread in many regions. Ciprofloxacin is no longer recommended in all areas. Verify local resistance patterns and consider alternative oral agents (cefixime, azithromycin if susceptible) for step-down therapy.
+:::
+
+## Septic Arthritis in Persons Who Inject Drugs (PWID)
+
+### Epidemiologic Shift
+
+Intravenous drug use has emerged as the **most common modifiable risk factor** for native joint septic arthritis in many developed countries, driven by the opioid epidemic. This population warrants special attention due to unique clinical features.
+
+### Unique Features of PWID Septic Arthritis
+
+**Unusual joint involvement**: Beyond typical large joints, PWID frequently develop infection of:
+- Sternoclavicular joints
+- Sacroiliac joints
+- Pubic symphysis
+- Acromioclavicular joints
+- Spine (vertebral osteomyelitis)
+
+**High MRSA prevalence**: 18–40% of S. aureus isolates in PWID are methicillin-resistant, compared to lower rates in other populations.
+
+**Polymicrobial infection**: More common than in non-PWID populations.
+
+**Associated complications**: Concurrent osteomyelitis, septic emboli, endocarditis, and skin/soft tissue infections are frequent.
+
+## Management
+
+### Joint Drainage
+
+Adequate drainage of infected joint fluid is essential. Three approaches are available: needle aspiration, arthroscopic drainage, and open arthrotomy.
+
+::: {.callout-note}
+## Comparative Efficacy of Drainage Methods
+
+No randomized controlled trials directly comparing drainage methods have been published. Current guidance is largely based on:
+- Retrospective series and case reports
+- Anatomic considerations (accessibility)
+- Local expertise and availability
+
+**Needle aspiration (repeated daily if necessary)**: Appropriate for accessible joints (knee); may be less effective if loculated fluid or thick debris present.
+
+**Arthroscopic drainage**: Preferred for hip, shoulder, and knee in many centers; allows visualization, debridement of fibrin and debris, and exchange of modular prosthetic components.
+
+**Open arthrotomy**: Reserved for cases refractory to needle aspiration and arthroscopy, or when significant soft tissue damage requires surgical intervention.
+:::
+
+### Empirical Antimicrobial Therapy
+
+Empirical therapy should be initiated immediately upon diagnosis without waiting for culture results. The choice of agent depends on Gram stain appearance of synovial fluid:
+
+| Gram Stain Finding | Empirical Therapy | Rationale |
+|---|---|---|
+| **Gram-positive cocci (GPC)** | Vancomycin | Covers both MSSA and MRSA |
+| **Gram-negative cocci (GNC)** | Ceftriaxone | Covers N. gonorrhoeae, N. meningitidis |
+| **Gram-negative rods (GNR)** | Cefepime or ceftazidime | Covers Pseudomonas and other GNR |
+| **No organisms seen** | Vancomycin + ceftriaxone or antipseudomonal cephalosporin | Broad empirical coverage pending culture |
+| **Multiple gram-positive cocci** | Vancomycin + gentamicin | For enterococcal coverage if suspected |
+
+: Recommended Initial Empirical Therapy for Septic Arthritis {#tbl-empirical-therapy}
+
+::: {.callout-important}
+## Empirical Therapy Principles
+
+- **Intravenous administration required** for optimal joint penetration
+- **Adequate dosing** crucial for penetration into synovial fluid
+- **Risk stratification** for MRSA:
+  - PWID: vancomycin
+  - Healthcare-associated exposure: vancomycin
+  - Community-associated, no risk factors: cephalosporin may be acceptable
+- **Do not delay therapy** awaiting culture results
+- **Adjust within 24-48 hours** based on culture and susceptibilities
+:::
+
+### Directed Antimicrobial Therapy
+
+Once culture results and susceptibilities are available, therapy should be narrowed to optimize efficacy, minimize toxicity, and reduce resistance selection.
+
+#### Methicillin-Susceptible S. aureus (MSSA)
+
+- **IV therapy**: Nafcillin or oxacillin 1.5–2 g IV Q4H, or cefazolin 2 g IV Q8H
+- **Alternatives**: Ceftriaxone (less favored but acceptable)
+- **Duration**: At least 2 weeks IV then transition to oral
+
+#### Methicillin-Resistant S. aureus (MRSA)
+
+- **Vancomycin**: Dose to achieve AUC/MIC 400–600 (typical 15–20 mg/kg IV Q8–12H); therapeutic drug monitoring recommended
+- **Alternative agents**:
+  - **Daptomycin**: 6 mg/kg IV daily; preferred by many experts for S. aureus
+  - **Linezolid**: 600 mg IV/PO BID; excellent CNS penetration; concern for marrow suppression with prolonged use
+  - **Long-acting lipoglycopeptides**: Dalbavancin, oritavancin (investigational; emerging data supporting use)
+- **Ceftaroline**: Fifth-generation cephalosporin with MRSA activity; limited clinical experience in septic arthritis
+
+#### Streptococcal Infections
+
+- **Penicillin-susceptible**: Penicillin G 2–4 million units IV Q4H or ceftriaxone 1–2 g IV Q12H
+- **Penicillin-resistant**: Ceftriaxone or vancomycin based on MICs
+
+#### Gram-Negative Rod Infections
+
+Selection depends on organism and local resistance patterns:
+- **Ceftriaxone**: First-line for most community-acquired GNR (E. coli, Klebsiella)
+- **Fluoroquinolones**: Levofloxacin or ciprofloxacin (excellent synovial penetration); consider for oral step-down
+- **For Pseudomonas**: Cefepime, meropenem, or anti-pseudomonal fluoroquinolone
+
+### Duration of Antimicrobial Therapy
+
+#### Traditional Approach
+Standard duration has been 2–3 weeks of IV therapy followed by oral step-down to complete a total course of 3–4 weeks.
+
+#### Evidence for Shorter Courses
+The **Gjika trial (2019)** randomized 83 patients with non-S. aureus septic arthritis of small joints to 2 weeks versus 4 weeks of treatment. Results demonstrated that **2 weeks was non-inferior to 4 weeks**, with similar rates of cure and relapse.
+
+::: {.callout-note}
+## Duration Recommendations by Organism
+
+- **S. aureus** (monoarticular, early diagnosis): Minimum 2 weeks IV then PO to complete 3–4 weeks total
+- **Non-S. aureus pathogens** (small joints, early diagnosis): 2 weeks IV then PO may be adequate
+- **Hip or other large joints**: Extended course (3–4 weeks) generally recommended
+- **Polyarticular or disseminated disease**: Longer courses (4+ weeks) generally used
+- **Immunocompromised hosts**: Consider extended courses regardless of organism
+:::
+
+### Adjuvant Therapy
+
+#### Corticosteroids
+
+A 2018 Cochrane Review examined the role of short-course corticosteroids in children with septic arthritis. The review found evidence that corticosteroids may reduce duration of symptoms and length of hospitalization in pediatric cases, though the evidence base remains limited.
+
+Routine use in adults is not established, and corticosteroids should not delay or substitute for appropriate surgical drainage and antimicrobial therapy.
+
+## Differential Diagnosis
+
+### Crystal Arthritis
+
+Crystal-induced arthritis (gout, pseudogout) presents with acute monoarticular inflammation and must be distinguished from septic arthritis:
+
+- **Gout**: WBC typically 5,000–50,000 with monosodium urate crystals
+- **Pseudogout**: Similar presentation with calcium pyrophosphate crystals
+- **Important caveat**: Septic arthritis and crystal arthritis can **coexist** in the same joint; presence of crystals does not exclude infection
+
+Polarizing microscopy of synovial fluid is required for crystal identification.
+
+### Reactive Arthritis
+
+Post-infectious arthritis without organism in joint fluid; follows enteric or urogenital infections.
+
+### Rheumatologic Diseases
+
+Rheumatoid arthritis flare, systemic lupus erythematosus, other autoimmune conditions can mimic septic arthritis.
+
+### Viral Arthritis
+
+Self-limited arthritis associated with various viral infections.
+
+## Viral Arthritis: Brief Overview
+
+Multiple viral pathogens cause acute arthritis through direct synovial infection or immune-mediated mechanisms:
+
+- **Parvovirus B19**: Arthralgia and arthritis (small joints) in adults
+- **Chikungunya virus**: Acute polyarthritis with migratory pattern; severe joint pain
+- **Hepatitis B and C**: Acute phase arthralgias/arthritis
+- **HIV**: Acute retroviral syndrome with arthralgia
+- **SARS-CoV-2**: COVID-19 associated arthralgia and myalgia
+
+Management is supportive; infections are usually self-limited over days to weeks. NSAIDs provide symptomatic relief.
+
+## Chronic Infectious Arthritis
+
+### Mycobacterial and Fungal Infections
+
+Chronic joint infections caused by mycobacteria and fungi present with insidious onset, indolent course, and delayed diagnosis. These infections often evade initial recognition because systemic inflammatory markers may be only mildly elevated.
+
+### Tuberculosis Arthritis
+
+- **Prevalence**: TB accounts for 10–11% of extrapulmonary tuberculosis cases
+- **Joint involvement**: Knee (25–30%), hip (20–25%), ankle, wrist, and interphalangeal joints
+- **Diagnosis**: Culture, PCR, and histopathology (caseating granulomas) from synovial biopsy
+- **Duration of therapy**: 6 months (2 months intensive + 4 months continuation) standard
+
+### Fungal Arthritis
+
+- **Candida**: Opportunistic; candida septic arthritis in immunocompromised hosts
+- **Cryptococcus**: Disseminated disease; synovial involvement rare
+- **Dimorphic fungi** (Histoplasma, Coccidioides, Blastomyces): Endemic areas; chronic monoarticular presentation
+- **Molds**: Aspergillus and Mucorales; immunocompromised hosts
+
+Diagnosis requires tissue diagnosis (biopsy, culture, histopathology) and specialized mycology expertise. Treatment duration is typically prolonged (6–12 months or longer).
+
+---
+
+# Part II: Osteomyelitis
+
+## Classification Systems
+
+### Waldvogel Classification
+
+The Waldvogel classification system (developed in 1970) categorizes osteomyelitis by the route of infection and distinguishes it by vascular status:
+
+1. **Hematogenous osteomyelitis**: Infection seeds via bloodstream from distant focus
+2. **Contiguous-focus osteomyelitis**: Infection extends from adjacent soft tissue or bone; subdivided by:
+   - Without vascular insufficiency
+   - With vascular insufficiency
+
+This anatomic categorization helps predict organism likely cause and guides therapy.
+
+### Cierny-Mader Staging System
+
+The Cierny-Mader system [@CiernyMader2003] combines anatomic classification of the infection with assessment of host factors, providing a more comprehensive staging system:
+
+#### Anatomic Types
+
+| Type | Anatomic Description | Pathophysiology |
+|---|---|---|
+| **Type I** | Medullary (endosteal) | Limited to medullary canal; early hematogenous |
+| **Type II** | Superficial | Limited to cortex and cancellous bone of involved segment; adjacent soft tissue involved |
+| **Type III** | Localized | Cortical and cancellous bone involvement with full-thickness cortical defect; extends through one cortex |
+| **Type IV** | Diffuse | Infection involves the entire thickness of bone with loss of blood supply |
+
+: Cierny-Mader Anatomic Classification {#tbl-anatomic-type}
+
+#### Host Status Classification
+
+| Host Class | Definition | Treatment Implications |
+|---|---|---|
+| **A** | Normal, non-immunocompromised host | Good healing potential; standard therapy |
+| **B** | Compromised due to local or systemic factors | Reduced healing; may limit surgical options |
+| **C** | Immunocompromised such that treatment morbidity exceeds benefit | Often palliative care; high complication risk |
+
+: Cierny-Mader Host Classification {#tbl-host-class}
+
+**Combined staging**: Combines anatomy and host status (e.g., "Type II/Host B" osteomyelitis).
+
+## Pathogenesis
+
+### Staphylococcus aureus Mechanisms of Chronic Bone Infection
+
+S. aureus possesses multiple virulence mechanisms that enable establishment and persistence of chronic osteomyelitis:
+
+#### Adhesion and Invasion
+
+- **Collagen-binding adhesins**: Fibronectin-binding proteins A and B (FnBPA, FnBPB) recognize bone matrix proteins
+- **Clumping factors**: Mediate interaction with fibrinogen and other plasma proteins
+- **Bone sialoprotein and collagen**: S. aureus possesses specific receptors for these bone matrix constituents
+- Adherence to bone is rapid and leads to intracellular invasion of osteoblasts
+
+#### Biofilm Formation
+
+Biofilm is a critical virulence mechanism in chronic osteomyelitis:
+
+- **Biofilm maturation**: Develops within **24–48 hours** of infection establishment
+- **Antimicrobial tolerance**: Bacteria within biofilms exhibit **1000-fold increased resistance** to antibiotics compared to planktonic cells
+- **Extracellular polysaccharide matrix**: Protects organisms from immune killing and antibiotic penetration
+- **Gene expression changes**: Biofilm-associated bacteria express different antigens and metabolic profiles compared to planktonic bacteria
+- **Persister cells**: A small proportion of dormant cells with minimal metabolic activity survive antimicrobial exposure
+
+**Clinical implications**: Biofilm explains why antimicrobial therapy alone rarely cures chronic osteomyelitis; surgical debridement is essential.
+
+#### Small Colony Variants (SCV)
+
+Small colony variants represent a growth-deficient phenotype of S. aureus with important clinical implications:
+
+- **Slow growth**: Reduced growth rate on culture media
+- **Intracellular location**: Preferentially survive inside osteoblasts and macrophages
+- **Antibiotic tolerance**: Enhanced tolerance to many antibiotics despite apparent susceptibility
+- **Relapse risk**: Associated with relapse and recurrent osteomyelitis after apparent cure
+- **Diagnostic challenge**: May not be detected by routine culture
+
+::: {.callout-important}
+## Small Colony Variants and Chronic Osteomyelitis
+
+Presence of SCVs in chronic osteomyelitis explains:
+- Antimicrobial therapy failures
+- Relapses occurring months after completing therapy
+- Importance of complete surgical debridement
+- Need for prolonged antimicrobial therapy
+
+Screen for SCVs if patient has recurrent or relapsing infection; specialized culture media may be required.
+:::
+
+## Diagnosis
+
+### Clinical Presentation
+
+**Acute osteomyelitis** typically presents with fever, localized bone pain, swelling, and warmth over the involved bone.
+
+**Chronic osteomyelitis** often presents with:
+- Chronic pain at the site
+- Draining sinus tracts or wounds
+- Low-grade or absent fever
+- Systemic symptoms minimal or absent
+
+### Laboratory Findings
+
+- **ESR and CRP**: Both elevated in >90% of acute osteomyelitis; CRP typically normalizes faster than ESR
+- **CRP normalization**: Useful marker of response to therapy; persistence suggests inadequate treatment
+- **WBC count**: Often normal in chronic osteomyelitis; less sensitive than in acute disease
+
+### Imaging Diagnosis
+
+#### Plain Radiography
+
+Plain films are often the initial imaging modality but have significant limitations:
+
+- **Sensitivity in early disease**: Poor; radiographic changes lag 10–14 days behind clinical onset
+- **Early findings**: Soft tissue swelling, periosteal reaction
+- **Late findings**: Periosteal elevation, cortical lysis, sclerosis, sequestra (dead bone)
+- **Chronic disease**: Thickened cortex, increased bone density
+
+#### Magnetic Resonance Imaging (MRI)
+
+**MRI is the gold standard** for osteomyelitis diagnosis:
+
+- **Sensitivity**: 82–100%
+- **Specificity**: 75–96%
+- **Early findings**: Bone marrow edema (T2-hyperintense, STIR-hyperintense) at 24–48 hours
+- **Soft tissue involvement**: Detects abscess, phlegmon, and sinus tract
+- **Advantage**: No radiation; excellent soft tissue contrast
+- **Limitation**: May be nonspecific early in disease; differentiation from bone infarction, stress reaction can be challenging
+
+#### Computed Tomography
+
+Useful for:
+
+- **Cortical detail**: Superior to MRI for cortical defects, sequestra, involucra
+- **Axial skeleton**: Better visualization than MRI for pelvis, spine, ribs
+- **Surgical planning**: Helps define extent of cortical destruction and bone loss
+- **Prosthetic joints**: Less artifact than MRI around metal implants
+
+#### Radionuclide Imaging
+
+- **Technetium-99m bone scan**: High sensitivity but low specificity; increased uptake in any process causing increased bone metabolism (infection, tumor, fracture)
+- **Indium-111 white blood cell scan**: More specific for acute infection; less useful in chronic cases
+
+#### FDG-PET Imaging
+
+Emerging role in:
+- Differentiation of active infection from healed osteomyelitis
+- Assessment of treatment response
+- Not yet standard practice in most centers
+
+### Microbiology
+
+#### Culture: Gold Standard for Diagnosis
+
+**Bone biopsy** is the gold standard for microbiologic diagnosis. Key principles:
+
+- **Avoid swab cultures**: Surface cultures do not reliably identify causative organism in bone infection
+- **Needle biopsy vs open biopsy**: Both acceptable; needle biopsy less invasive but may have lower yield
+- **Multiple specimens**: Obtain ≥2 specimens from different sites to increase yield and confirm organism identity
+- **Culture sensitivity**: 80–90% in most studies
+- **Anaerobic cultures**: Request specifically; include anaerobic transport media
+- **Prolonged incubation**: Request cultures be held ≥7–14 days for slow-growing organisms
+
+#### Molecular Methods
+
+- **16S rRNA gene PCR and sequencing**: Detects broad range of organisms including fastidious and anaerobic species
+- **Multiplex PCR panels**: Rapid identification of common pathogens (S. aureus, streptococci, GNR)
+- **Metagenomic sequencing**: Unbiased detection without organism-specific targeting
+- **Utility in culture-negative cases**: Can identify organism in 50–70% of culture-negative osteomyelitis
+
+## Antimicrobial Therapy
+
+### Principles of Therapy
+
+Successful treatment of osteomyelitis requires:
+
+1. **Surgical debridement** of necrotic and infected bone (essential; antibiotics alone insufficient)
+2. **Adequate antimicrobial therapy** for sufficient duration
+3. **Restoration of blood supply** to optimize healing
+4. **Dead space management** to prevent recurrence
+5. **Soft tissue coverage** to protect the defect
+
+### Parenteral Antimicrobial Therapy
+
+Initial IV therapy is directed by Gram stain, culture, and susceptibilities:
+
+| Pathogen | IV Regimen | Dosing |
+|---|---|---|
+| **MSSA** | Nafcillin or oxacillin | 1.5–2 g IV Q4H |
+| **MSSA alternative** | Cefazolin | 2 g IV Q8H |
+| **MRSA** | Vancomycin | 15–20 mg/kg IV Q8–12H; target AUC/MIC 400–600 |
+| **Streptococci** | Penicillin G or ceftriaxone | Penicillin G 2–4 MU IV Q4H; Ceftriaxone 1–2 g IV Q12H |
+| **Enterobacteriaceae** | Ceftriaxone | 1–2 g IV Q12H |
+| **GNR** | Fluoroquinolone IV then oral | Levofloxacin 750 mg IV/PO daily |
+| **Pseudomonas aeruginosa** | Cefepime or meropenem | Cefepime 2 g IV Q8H; Meropenem 1 g IV Q8H |
+
+: Initial Parenteral Antimicrobial Therapy for Osteomyelitis {#tbl-parenteral-therapy}
+
+### The OVIVA Trial: Paradigm Shift to Early Oral Therapy
+
+The **OVIVA trial** [@Li2019oviva] was a landmark multicenter randomized controlled trial that fundamentally changed the approach to osteomyelitis management.
+
+#### Trial Design and Population
+
+- 658 patients with bone and joint infections (mostly osteomyelitis and prosthetic joint infection)
+- Randomized to continued IV therapy vs early oral therapy
+- All patients underwent surgical intervention (debridement) when appropriate
+- Patients received ≥2 weeks IV therapy before randomization in oral arm
+
+#### Key Findings
+
+**Oral therapy was non-inferior to IV therapy**:
+- Cure rates: ~90% in both groups
+- No significant difference in relapse, recurrence, or complications
+
+#### Oral Antimicrobial Regimens for Osteomyelitis
+
+The OVIVA trial validated the following oral regimens:
+
+| Pathogen | Oral Regimen | Dosing | Duration Total |
+|---|---|---|---|
+| **MSSA** | Flucloxacillin or cephalexin; consider adding rifampin | Flucloxacillin 500 mg–1 g PO QID | 4–6 weeks IV then PO to complete |
+| **MRSA** | Trimethoprim-sulfamethoxazole ± doxycycline; + rifampin strongly considered | TMP-SMX 1–2 DS tabs PO BID–TID | 4–6 weeks IV then PO to complete |
+| **Streptococci** | Amoxicillin (penicillin-susceptible) or cephalexin | Amoxicillin 500 mg–1 g PO TID | 4–6 weeks total (IV then PO) |
+| **Enterobacteriaceae** | Fluoroquinolone (levofloxacin or ciprofloxacin) | Levofloxacin 750 mg PO daily | 4–6 weeks (IV then PO or all oral) |
+| **Pseudomonas** | Ciprofloxacin ± rifampin | Ciprofloxacin 750 mg PO BID ± rifampin | 4–6 weeks (IV then PO) |
+
+: Oral Antimicrobial Regimens for Osteomyelitis {#tbl-oral-therapy}
+
+::: {.callout-important}
+## Rifampin in Osteomyelitis Therapy
+
+Rifampin is increasingly recognized as a valuable adjunctive agent for staphylococcal osteomyelitis, particularly when biofilm formation is suspected:
+
+- **Biofilm penetration**: Superior to many other antibiotics
+- **Oral bioavailability**: 90–95%
+- **Combination therapy**: Always use with another active agent (never monotherapy due to resistance)
+- **Typical combinations**:
+  - MSSA: Fluoroquinolone + rifampin
+  - MRSA: Trimethoprim-sulfamethoxazole + rifampin or doxycycline + rifampin
+- **Duration**: 2–4 weeks as part of total therapy course
+- **Drug interactions**: Significant; rifampin induces multiple cytochrome P450 pathways
+:::
+
+### Surgical Principles
+
+Surgical management is as important as antimicrobial therapy. Surgical goals include:
+
+| Surgical Principle | Goal | Method |
+|---|---|---|
+| **Complete debridement** | Remove all necrotic and infected bone | Aggressive curettage until bleeding bone margins |
+| **Restoration of blood supply** | Ensure adequate perfusion | Remove devascularized segments; consider vascularized bone transfer |
+| **Dead space management** | Prevent abscess/seroma | Fill with muscle flap, cancellous bone graft, antibiotic cement spacer |
+| **Soft tissue coverage** | Protect defect | Soft tissue flap, skin graft when appropriate |
+| **Drainage** | Remove fluid collections | Suction drainage, open drainage in selected cases |
+
+: Surgical Principles in Osteomyelitis Management {#tbl-surgical-principles}
+
+## Special Forms of Osteomyelitis
+
+### Vertebral Osteomyelitis (Spondylodiscitis)
+
+Vertebral osteomyelitis represents a distinct clinical entity with unique features compared to long bone infection.
+
+#### Epidemiology and Microbiology
+
+- **Staphylococcus aureus**: Most common (30–50% of cases)
+- **Streptococci**: 15–20%
+- **Gram-negative bacilli**: 20–30% (E. coli, Klebsiella, Pseudomonas)
+- **Mycobacterium tuberculosis**: Important in endemic areas
+- **Brucella**: In occupational exposure settings
+
+#### Diagnosis
+
+**MRI** is the imaging modality of choice:
+- Sensitivity >90%
+- Shows vertebral body T2-hyperintensity, disc involvement, epidural abscess, spinal cord compression
+- Guides timing of intervention
+
+**Blood cultures** are positive in ~50% of cases.
+
+**Biopsy** (percutaneous needle or open) should be obtained when possible before initiating antibiotics to establish microbiologic diagnosis and guide therapy.
+
+#### Duration of Therapy
+
+**Bernard trial** [@Bernard2015]: Compared 6 weeks versus 12 weeks of IV antimicrobial therapy in uncomplicated vertebral osteomyelitis.
+
+- **Six weeks was non-inferior to 12 weeks**
+- Cure rates ~90% in both groups
+- Suggests shorter therapy may be adequate for uncomplicated cases
+
+::: {.callout-note}
+## Vertebral Osteomyelitis Treatment Duration
+
+Duration should be individualized based on:
+- **6 weeks**: Uncomplicated cases without neurologic deficit, good response to therapy
+- **12 weeks**: Immunocompromised hosts, neurologic complications, inadequate surgical debridement
+- **Longer**: Paravertebral/epidural abscess, spinal instability requiring surgery
+:::
+
+### Diabetic Foot Osteomyelitis
+
+Diabetic foot infections represent one of the most common causes of non-traumatic lower extremity amputation. Osteomyelitis in this setting has distinct features.
+
+#### Pathophysiology
+
+Osteomyelitis in diabetic foot infections occurs through **contiguous spread** from overlying soft tissue ulcer:
+- Ulcer penetrates to bone
+- Bacteria (often polymicrobial) ascend from skin flora
+- Impaired blood supply and neuropathy prevent healing
+
+#### Diagnostic Approach
+
+**Probe-to-bone test**: Simple bedside examination
+- Positive predictive value: 89% in high-risk patients
+- Perform with sterile probe; if probe reaches bone or patient reports contacting bone, osteomyelitis likely present
+- Not sensitive enough for single diagnosis but useful as triage tool
+
+**Imaging**: MRI is gold standard; X-ray may show cortical lucencies or bone destruction in advanced cases
+
+**Biopsy**: Tissue culture provides organism identification and susceptibilities
+
+#### Microbiology
+
+**Polymicrobial infections are typical** in diabetic foot osteomyelitis:
+
+- **Staphylococcus aureus**: Most common single organism
+- **Streptococci**: Frequent component
+- **Enterococci**: Common
+- **Gram-negative rods**: E. coli, Klebsiella, Pseudomonas
+- **Anaerobes**: Bacteroides, Peptostreptococcus (particularly in ulcers with necrotic tissue)
+
+#### Management
+
+Successful management requires integration of:
+1. **Aggressive surgical debridement**: Often extensive; may require multiple procedures
+2. **Antimicrobial therapy**: Broad-spectrum initially, narrowed based on cultures
+3. **Vascular assessment**: Doppler studies to assess perfusion; revascularization may be needed
+4. **Wound management**: Off-loading, dressing, local care
+5. **Diabetes control**: Optimization of glycemic control
+
+### Other Special Populations
+
+#### Sickle Cell Osteomyelitis
+
+- **Salmonella** is the most common cause (in contrast to other populations where S. aureus predominates)
+- S. aureus is also frequent
+- Trait carriers are at higher risk
+- Diagnosis often delayed due to indistinguishability from painful vaso-occlusive crises
+
+#### IVDU Osteomyelitis
+
+- **Sternoclavicular joint** osteomyelitis
+- **Pubic symphysis** osteomyelitis
+- **Vertebral osteomyelitis** (lumbar > thoracic)
+- **Pseudomonas aeruginosa** and S. aureus most common
+- Associated high mortality if endocarditis develops
+
+#### Skeletal Tuberculosis (Pott Disease)
+
+- **Lumbar spine**: 56% of vertebral TB
+- **Thoracic spine**: 49% of vertebral TB
+- **Insidious presentation**: Delayed diagnosis common
+- **Duration of therapy**: 6–9 months antimicrobial therapy plus surgical intervention when indicated
+- **Complications**: Kyphotic deformity, spinal cord compression (late complication)
+
+---
+
+# Part III: Prosthetic Joint Infection (PJI)
+
+## Definition and Classification
+
+### EBJIS Criteria
+
+The European Bone and Joint Infection Society (EBJIS) has published criteria for diagnosing prosthetic joint infection [@McNally2020], distinguishing between **definite** and **probable** PJI:
+
+| Category | Definition | Clinical Significance |
+|---|---|---|
+| **Definite PJI** | Microorganisms isolated from >2 intraoperative samples OR sinus tract communication with prosthesis confirmed | Clear evidence of PJI; proceeding to treatment |
+| **Probable PJI** | ≥3 of the following present: elevated inflammatory markers (CRP/ESR), elevated synovial WBC, positive culture from single sample, positive PCR | Sufficient evidence to warrant treatment; organism identification aids selection |
+
+: EBJIS Classification of Prosthetic Joint Infection {#tbl-ebjis-criteria}
+
+### Infection Timing Classification
+
+PJI is classified by the interval between surgery and infection detection:
+
+| Timing Category | Interval from Surgery | Clinical Features | Treatment |
+|---|---|---|---|
+| **Early postinterventional** | <4 weeks after index surgery | Acute presentation; often aggressive; organism frequently introduced at surgery | DAIR or 2-stage |
+| **Acute hematogenous** | Any time; previously well-functioning joint suddenly becomes infected | Acute onset in well-functioning prosthesis; hematogenous seeding from distant focus | DAIR if infection <4 weeks duration; if longer → 2-stage |
+| **Chronic** | >4 weeks, often months/years | Insidious onset; low-grade symptoms; loosening; sinus tract; pain | 2-stage exchange standard |
+
+: Classification of Prosthetic Joint Infection by Timing {#tbl-pji-timing}
+
+## Epidemiology
+
+- **Incidence**: 1–2% of primary total joint arthroplasties [@Zimmerli2004; @Patel2023]
+- **Higher rates**: Revision surgery (2–5%), immunocompromised hosts
+- **Increasing overall incidence**: Due to growing number of procedures performed annually
+- **Significant impact**: Increased morbidity, mortality, healthcare costs; revision surgery more complex than primary
+
+## Pathophysiology
+
+### Implant-Related Infection
+
+The presence of a foreign body (prosthetic implant) fundamentally alters the host-pathogen interaction:
+
+- **Reduced inoculum required**: Bacterial adhesion to implant surface proceeds more readily than in native tissue
+- **Foreign body giant cells**: Formation of granulomatous response; impaired phagocytosis at implant-tissue interface
+- **Frustrated phagocytosis**: Multinucleated giant cells cannot engulf implant; inflammatory mediators cause collateral tissue damage
+- **Implant surface properties**: Material composition (titanium, cobalt-chromium, polymethyl methacrylate) influences bacterial adherence
+
+### Biofilm Formation
+
+As with osteomyelitis, biofilm formation is central to PJI pathogenesis:
+- Organisms adhere to implant surface within hours
+- Biofilm matures within 24–48 hours
+- Extracellular polysaccharide matrix protects organisms
+- Antibiotic penetration severely reduced (up to 1000-fold resistance)
+
+### Common Causative Organisms
+
+| Organism | Frequency | Clinical Note |
+|---|---|---|
+| **Coagulase-negative Staphylococci** | 30–40% | Most common; often from skin flora; low virulence |
+| **Staphylococcus aureus** | 20–30% | More virulent; higher failure rates with DAIR |
+| **Streptococci** | 10–15% | GAS, GBS, viridans; intermediate virulence |
+| **Propionibacterium acnes** (Cutibacterium) | 5–20% | Especially shoulder prostheses; slowly growing; difficult to detect |
+| **Enterococci** | 5–10% | Often polymicrobial; may be contaminant vs pathogen |
+| **Gram-negative rods** | 5–20% | E. coli, Klebsiella, Pseudomonas; higher morbidity |
+| **Anaerobes** | <5% | Rare; usually in polymicrobial infections |
+
+: Common Causative Organisms in Prosthetic Joint Infection {#tbl-pji-organisms}
+
+## Diagnosis
+
+### Serum Inflammatory Markers
+
+- **CRP >10 mg/L**: Suggestive of PJI; elevated in 70–90%
+- **ESR >30 mm/h** (hip) **or >50 mm/h** (knee): Specific values vary by joint; elevated in 60–80%
+- **Combined CRP + ESR**: More sensitive when both elevated
+- **D-dimer**: Emerging marker; elevated in PJI; utility still being defined
+
+::: {.callout-note}
+## Serum Markers in PJI Diagnosis
+
+Serum inflammatory markers are useful for screening and increasing pre-test probability but:
+- Insensitive and nonspecific
+- Normal CRP/ESR do not exclude PJI
+- Mildly elevated markers can occur in aseptic loosening
+- Should always be combined with synovial fluid analysis and culture
+:::
+
+### Synovial Fluid Analysis
+
+**Lower WBC threshold than native septic arthritis**:
+
+- **WBC >2000/μL**: Suggestive of PJI (lower threshold than native joint where >25,000 more typical)
+- **PMN percentage >70%**: Supports PJI
+- **Gram stain**: Sensitivity 20–40%, specificity >95%
+- **Culture**: Most specific but sensitivity 50–70% (lower than native joint; biofilm shields organisms)
+
+#### Alpha-Defensin
+
+- **High sensitivity and specificity** for PJI diagnosis
+- Antimicrobial peptide produced in response to infection
+- Positive result strongly supports PJI diagnosis
+- Not universally available in all centers
+
+#### Leukocyte Esterase Strip
+
+- **Point-of-care test**: Results available at bedside
+- **Sensitivity/specificity**: 85–90%
+- **Advantages**: Rapid, inexpensive, no specialized laboratory needed
+- **Emerging role**: May simplify PJI diagnosis in resource-limited settings
+
+### Microbiologic Diagnosis
+
+#### Tissue Cultures
+
+- **Multiple tissue specimens** (≥3–5) obtained at time of surgery
+- **Prolonged incubation**: Request 14-day incubation to detect slow-growing organisms (Cutibacterium acnes requires 5–14 days)
+- **Anaerobic cultures**: Request specifically for polymicrobial infections
+- **Culture sensitivity**: 50–70% (lower than native joint due to biofilm)
+
+#### Sonication of Explanted Prosthesis
+
+- **Explant sonication**: Prosthesis removed and subjected to ultrasonic vibration to dislodge biofilm [@Trampuz2007sonication]
+- **Increased yield**: Increases diagnostic sensitivity by ~20% compared to tissue cultures alone
+- **Recommended**: When possible, as part of comprehensive microbiologic evaluation
+
+#### Molecular Methods
+
+- **PCR**: Detects bacterial DNA; can identify organisms from culture-negative specimens
+- **16S rRNA sequencing**: Identifies organisms not cultured
+- **mNGS**: Unbiased pathogen detection; not yet routine
+
+## Treatment Algorithm
+
+Management of PJI depends critically on:
+1. Timing of infection (early vs acute hematogenous vs chronic)
+2. Virulence of organism
+3. Stability of implant
+4. General health of host
+5. Complexity of revision surgery required
+
+### DAIR (Debridement, Antibiotics, Implant Retention)
+
+DAIR is a limb-salvaging approach that attempts to eradicate infection while retaining the prosthesis. Success rates range from 30–80% depending on timing and organism.
+
+#### Indications for DAIR
+
+- **Early postoperative infection** (<4 weeks from surgery)
+- **Acute hematogenous infection** with short symptom duration (<4 weeks from infection onset)
+- **Stable implant** (no loosening, acceptable positioning)
+- **Favorable organism** (low virulence; some experts avoid S. aureus)
+
+#### Surgical Technique
+
+- **Thorough debridement**: Aggressive removal of devitalized soft tissue and biofilm
+- **Component exchange**: Modular components (femoral head, liner) exchanged
+- **Implant retention**: Monolithic component retained if stable
+- **Irrigation**: Copious irrigation with saline or dilute antiseptic solution
+
+#### Antimicrobial Therapy after DAIR
+
+- **IV therapy**: 2–4 weeks (or longer for S. aureus)
+- **Oral continuation**: Long-term suppression with oral antibiotics often employed
+- **Rifampin combinations**: For staphylococcal infections
+
+#### Failure Rates and Rescue
+
+- **Recurrence**: 20–70% depending on organism and timing
+- **If DAIR fails**: Salvage with 2-stage exchange typically required
+
+### One-Stage Exchange
+
+One-stage exchange involves complete prosthesis explantation and reimplantation in a single procedure.
+
+#### Rationale for One-Stage Exchange
+
+- **Reduced morbidity**: Single surgery vs two
+- **Faster functional recovery**: Earlier weight-bearing, mobilization
+- **Cost**: Lower overall surgical costs in some health systems
+
+#### Prerequisites
+
+- **Known pathogen**: Organism identified before surgery
+- **Susceptible organism**: Low-resistance profile
+- **Good soft tissue**: Adequate blood supply
+- **Patient stability**: Can tolerate single extended surgery
+- **Surgeon experience**: Requires specialized expertise
+
+#### Success Rates
+
+Reported cure rates 80–90% in selected cases. More common in Europe; less commonly performed in North America.
+
+### Two-Stage Exchange
+
+Two-stage exchange (explant followed by reimplantation after interval) remains the gold standard for most cases of chronic PJI and for recurrent infections.
+
+#### Staged Approach
+
+1. **Stage 1** (Explantation): Complete removal of prosthesis and cement; thorough debridement
+   - Antibiotic-impregnated cement spacer inserted (static or articulating)
+   - Provides local antibiotic delivery during interval
+
+2. **Interval period** (6–12 weeks): Systemic antibiotics continued
+   - Duration depends on clinical response, organism, host factors
+   - Assess eradication of infection: inflammatory markers normalization, clinical improvement
+
+3. **Stage 2** (Reimplantation): Removal of spacer; new prosthesis implanted
+   - Repeat cultures obtained; negative cultures confirm eradication before reimplantation
+   - If cultures positive: postpone reimplantation; continue antibiotics; consider extended debridement
+
+#### Success Rates
+
+- **Cure rates**: 85–95% with appropriate technique and antibiotic selection
+- **Outcomes**: Superior to DAIR for chronic infections and S. aureus PJI
+
+## Antimicrobial Therapy for Prosthetic Joint Infection
+
+### General Principles
+
+- **Parenteral therapy initially**: IV agents provide better joint penetration and biofilm activity
+- **Combination therapy for biofilm**: Beta-lactam + rifampin (for staphylococci) or beta-lactam + fluoroquinolone
+- **Prolonged therapy**: 6–12 weeks or longer depending on timing and organism
+- **Oral step-down**: Increasingly performed after initial IV phase based on OVIVA trial principles
+
+### Organism-Specific Therapy
+
+| Organism | IV Therapy | Oral Step-Down | Combinations |
+|---|---|---|---|
+| **MSSA** | Flucloxacillin or cefazolin IV | Flucloxacillin or cephalexin PO | Add rifampin ± LVX or co-trimoxazole |
+| **MRSA** | Vancomycin or daptomycin IV | TMP-SMX or doxycycline PO | Add rifampin (critical) |
+| **Streptococci** | Penicillin G or ceftriaxone IV | Amoxicillin PO | Monotherapy typically adequate |
+| **Enterococci** | Ampicillin ± gentamicin IV | Amoxicillin PO | Avoid single-agent therapy |
+| **Cutibacterium acnes** | Penicillin G or ampicillin IV | Amoxicillin PO | Rifampin combinations effective |
+| **E. coli, Klebsiella** | Ceftriaxone or fluoroquinolone IV | Fluoroquinolone (levofloxacin) PO | Monotherapy usually adequate |
+| **Pseudomonas** | Cefepime or meropenem IV | Ciprofloxacin or levofloxacin PO | Consider rifampin addition |
+
+: Antimicrobial Therapy for Prosthetic Joint Infection {#tbl-pji-therapy}
+
+::: {.callout-important}
+## Rifampin in Prosthetic Joint Infection
+
+Rifampin is considered integral to treatment of staphylococcal PJI:
+
+- **Biofilm penetration**: Superior penetration into biofilm compared to other agents
+- **Combination therapy essential**: Never use as monotherapy (resistance emerges rapidly)
+- **Typical combinations**:
+  - MSSA: Beta-lactam + rifampin, or fluoroquinolone + rifampin
+  - MRSA: Vancomycin/daptomycin + rifampin + second agent (fluoroquinolone, TMP-SMX)
+- **Duration**: 2–6 weeks as part of total therapy course
+- **Monitoring**: Baseline LFTs, monitor for hepatotoxicity; adjust dosing with renal impairment
+:::
+
+## Prevention of Prosthetic Joint Infection
+
+### Perioperative Antimicrobial Prophylaxis
+
+Proper perioperative prophylaxis is critical for prevention:
+
+- **Cefazolin**: Standard prophylaxis for prosthetic joint surgery
+- **Timing**: Administer within 60 minutes before incision (120 minutes for vancomycin/clindamycin)
+- **Redosing**: Administer additional doses if procedure exceeds 2 half-lives
+- **Duration**: Single preoperative dose; redose intraoperatively if prolonged surgery
+- **Discontinuation**: D/C within 24 hours postoperatively (48 hours if cardiac surgery)
+
+::: {.callout-tip}
+## Antibiotic Prophylaxis Timing
+
+Optimal prophylaxis requires:
+- Adequate serum/tissue concentrations at time of incision
+- No prolonged courses (one dose preop optimal)
+- Redosing during lengthy procedures
+- Prompt discontinuation postoperatively to minimize resistance selection
+:::
+
+### Open Fracture Classification and Prophylaxis
+
+Open fractures require classification-based antimicrobial prophylaxis:
+
+| Fracture Type | Description | Antimicrobial Prophylaxis |
+|---|---|---|
+| **Type I** | Clean wound <1 cm; minimal contamination; low-energy mechanism | Cefazolin 1–2 g IV within 3 hours |
+| **Type II** | Laceration >1 cm; minimal soft tissue injury; moderate contamination | Cefazolin 1–2 g IV |
+| **Type III** | Extensive soft tissue damage; devitalization; high contamination; vascular injury | Cefazolin 1–2 g IV + gentamicin 2.4 mg/kg IV (single dose) ± clindamycin if anaerobic contamination likely |
+| **Type III (marine/heavily contaminated)** | Saltwater exposure, gross contamination | Consider extended prophylaxis (3–72 hours) based on contamination severity |
+
+: Open Fracture Classification and Antimicrobial Prophylaxis {#tbl-open-fracture}
+
+**Duration**: Prophylaxis typically limited to single dose or brief course (<24 hours); prolonged prophylaxis selected for heavily contaminated injuries.
+
+---
+
+## References {.unnumbered}
+
+::: {#refs}
+:::
