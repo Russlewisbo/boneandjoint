@@ -103,15 +103,14 @@ each in depth.
 -   **Risk:** Mortality increases with age \>65 years, comorbidities,
     delayed diagnosis
 
-::: notes
+::: aside
 The incidence varies by population studied and region. In developed
 countries, opioid-driven IVDU has significantly increased rates of
 unusual sites like sternoclavicular and pubic joints. Mortality remains
 substantial even with modern care, emphasizing the need for rapid
 diagnosis and appropriate therapy. Permanent joint damage is common even
 in treated cases, underscoring that this is truly a medical emergency.
-Kaandorp et al., *Arthritis Rheum*, 1995; Rutherford et al.,
-*Rheumatology*, 2016; Abram et al., *Lancet Infect Dis*, 2020
+[@Kaandorp1995; @Rutherford2016; @Abram2020]
 :::
 
 ## Risk factors for septic arthritis
@@ -144,18 +143,26 @@ factors—don't anchor on "this patient is too healthy."
 
 <br>
 
+::::: columns
+::: {.column width="50%"}
+![](bone-joint-infections-images/arthritis.png)
+:::
+
+::: {.column width="50%"}
 -   **Staphylococcus aureus:** 40-70% of cases (increasing)
 -   **Streptococci (Groups A, B, G):** 15-20%
 -   **Gram-negative rods (E. coli, Klebsiella, Pseudomonas):** 5-25%
 -   **Coagulase-negative staphylococci:** \<5% (native joint)
 -   **Anaerobes:** Rare in native joint (\<3%)
 -   **Fastidious organisms:** N. gonorrhoeae, Haemophilus influenzae,
-    Brucella
+    Brucelleosis
+:::
+:::::
 
 ::: aside
-*S. aureus* dominates and its prevalence is increasing, driven by IVDU and
-community-acquired MRSA. Young, sexually active patients should raise
-suspicion for *N. gonorrhoeae*—it's the most common cause in that
+*S. aureus* dominates and its prevalence is increasing, driven by IVDU
+and community-acquired MRSA. Young, sexually active patients should
+raise suspicion for *N. gonorrhoeae*—it's the most common cause in that
 demographic. Gram-negative organisms are overrepresented in IVDU and
 elderly patients. The organisms matter because they guide empirical
 therapy. Always think about Gram stain results to narrow the
@@ -166,7 +173,7 @@ differential within minutes of aspiration.
 
 <br>
 
-| Category | Typical Organisms |
+| Category | Typical organisms |
 |------------------------------------|------------------------------------|
 | **Community-acquired, low risk** | S. aureus (MSSA), streptococci |
 | **IVDU/Needle users** | S. aureus (MRSA \>\>), Pseudomonas, Gram-negatives |
@@ -184,12 +191,16 @@ animal scratch and finger joint swelling? Pasteurella is likely. These
 clinical epidemiologic links are how you optimize initial therapy.
 :::
 
-
-
-## MRSA Septic Arthritis: Emerging Problem
+## MRSA septic arthritis: Emerging problem
 
 <br>
 
+::::: columns
+::: {.column width="50%"}
+![](bone-joint-infections-images/Screenshot%202026-04-14%20at%2018.25.14.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
 -   **MRSA prevalence in septic arthritis:** 18-40% in IVDU populations;
     15-25% overall in developed countries
 -   **Community-acquired MRSA:** USA300 strain predominates; more
@@ -200,32 +211,48 @@ clinical epidemiologic links are how you optimize initial therapy.
     failures reported
 -   **Implications:** Empirical vancomycin or daptomycin required if
     MRSA risk present
-
-::: notes
-The emergence of CA-MRSA with PVL toxin has changed the landscape.
-USA300 doesn't require healthcare exposure—it spreads in the community,
-especially among IVDU. This means empirical vancomycin coverage is now
-standard in many settings, even for outpatient-acquired septic
-arthritis. The toxin may explain higher recurrence rates. Always
-de-escalate from vancomycin to nafcillin if MSSA is confirmed;
-vancomycin is inferior for MSSA infections.
 :::
-
-## Routes of Infection in Joint Infections
+:::::
 
 <br>
 
-**Hematogenous (Most Common)** - Transient bacteremia from skin, GI, GU,
-or respiratory source - Occurs in \~85% of cases - S. aureus,
-streptococci most common
+::: aside
+The emergence of CA-MRSA with PVL toxin has changed the landscape. This
+means empirical vancomycin coverage is now standard in many settings,
+even for outpatient-acquired septic arthritis. The toxin may explain
+higher recurrence rates. Always de-escalate from vancomycin to nafcillin
+if MSSA is confirmed; vancomycin is inferior for MSSA infections.
+:::
 
-**Direct Inoculation** - Arthrocentesis, surgery, bite/laceration over
-joint - IVDU with joint site injection - Gram-negatives, S. aureus
+## Routes of infection in joint infections
 
-**Contiguous Spread** - Adjacent bone or soft tissue infection extending
-to joint - Osteomyelitis → septic arthritis - Often polymicrobial
+<br>
 
-::: notes
+-   **Hematogenous (Most common)**
+
+    -   Transient bacteremia from skin, GI, GU, or respiratory source
+
+    -   Occurs in \~85% of cases
+
+    -   S. aureus, streptococci most common
+
+-   **Direct inoculation**
+
+    -   Arthrocentesis, surgery, bite/laceration over joint
+
+    -   IVDU with joint site injection
+
+    -   Gram-negatives, S. aureus
+
+-   **Contiguous spread**
+
+    -   Adjacent bone or soft tissue infection extending to joint
+
+    -   Osteomyelitis → septic arthritis
+
+    -   Often polymicrobial
+
+::: aside
 Hematogenous seeding is most common, which is why blood cultures
 matter—positive in \~50% of cases. Direct inoculation now includes IVDU
 with direct joint injection, which has increased in incidence.
@@ -234,7 +261,13 @@ frequent but still important in diabetic patients and those with complex
 fractures.
 :::
 
-## Pathophysiology: Joint Destruction Timeline
+## Joint aspiration
+
+<br>
+
+![](bone-joint-infections-images/jopint aspiration.png){fig-align="center"}
+
+## Pathophysiology: Joint destruction timeline
 
 <br>
 
@@ -244,44 +277,54 @@ fractures.
 | **48-72 hours** | Proteolytic enzyme release (collagenase, hyaluronidase), cartilage surface erosion begins | Cartilage erosion, fibrin deposition |
 | **\>5-7 days** | Deep cartilage invasion, subchondral bone erosion, potential ankylosis | Advanced necrosis |
 
-**S. aureus Virulence** - Protein A, coagulase inhibit
+***S. aureus*** **virulence** - Protein A, coagulase inhibit
 opsonophagocytosis - α-toxin causes direct cellular damage - Biofilm
 formation (intracellular sequestration)
 
 ::: notes
 This timeline is why *rapid* joint aspiration and drainage matter. If
 you can aspirate at 24-48 hours, you may prevent permanent cartilage
-loss. By 5-7 days, structural damage is often irreversible. S. aureus is
-particularly destructive due to its toxin arsenal and ability to evade
-the immune system. Even with therapy, permanent disability occurs in
-25-50% of cases, which reflects the destructive power of these
+loss. By 5-7 days, structural damage is often irreversible. <br> *S.
+aureus* is particularly destructive due to its toxin arsenal and ability
+to evade the immune system. Even with therapy, permanent disability
+occurs in 25-50% of cases, which reflects the destructive power of these
 pathogens.
 :::
 
-## Clinical Presentation: Acute Septic Arthritis
+## Clinical Presentation: Acute septic arthritis
 
 <br>
 
-**Classic Tetrad (80-90% of cases)** - Acute monoarticular arthritis
-(sudden onset) - Pain, swelling, warmth, erythema - Restricted range of
-motion (pain-limited) - Fever (present in 70-90%)
+**Classic tetrad (80-90% of cases)**
 
-**Atypical Presentations** - Polyarticular arthritis (10-20%, worse
-prognosis) - Subacute course (weeks, especially gonococcal) - Low-grade
-fever or afebrile in immunocompromised - Minimal systemic toxicity
-(elderly, immunosuppressed)
+-   Acute monoarticular arthritis (sudden onset) - Pain, swelling,
+    warmth, erythema
 
-::: notes
+-   Restricted range of motion (pain-limited)
+
+-   Fever (present in 70-90%)
+
+**Atypical presentations**
+
+-   Polyarticular arthritis (10-20%, worse prognosis)
+
+-   Subacute course (weeks, especially gonococcal)
+
+-   Low-grade fever or afebrile in immunocompromised
+
+-   Minimal systemic toxicity (elderly, immunosuppressed)
+
+::: aside
 The classic "hot joint" with fever is only present in about 70% of
 cases. Don't be falsely reassured by absence of fever—elderly and
 immunocompromised patients may present with subtle findings.
 Polyarticular arthritis is uncommon but important to recognize; it
-usually indicates S. aureus bacteremia with seeding of multiple joints.
-Always examine multiple joints systematically, especially in febrile
-patients with arthralgia.
+usually indicates \*S. aureus \* bacteremia with seeding of multiple
+joints. Always examine multiple joints systematically, especially in
+febrile patients with arthralgia.
 :::
 
-## Joint Distribution and Frequency
+## Joint distribution and frequency
 
 <br>
 
@@ -292,20 +335,24 @@ patients with arthralgia.
 -   **Wrist:** 3-5%
 -   **Other:** Sternoclavicular, sacroiliac (especially IVDU)
 
-**IVDU Exception** - Sternoclavicular and sacroiliac joints more
-common - Unusual sites reflect direct injection at those sites - S.
-aureus and Pseudomonas predominate
+**IVDU Exception**
 
-::: notes
+-   Sternoclavicular and sacroiliac joints more common
+
+-   Unusual sites reflect direct injection at those sites
+
+-   S. aureus and Pseudomonas predominate
+
+::: aside
 The knee dominates because it's large and mobile. Hip infection is more
 serious because it's deeper and diagnosis may be delayed. In IVDU, think
 beyond the usual joints—sternoclavicular and SI joint infections are
 increasingly recognized and can be subtle (fever, shoulder/back pain
-without obvious joint swelling). Hip infections in children and some
+without obvious joint swelling). <br>Hip infections in children and some
 adults can have high mortality from delayed diagnosis.
 :::
 
-## Polyarticular Septic Arthritis
+## Polyarticular septic arthritis
 
 <br>
 
@@ -313,45 +360,69 @@ adults can have high mortality from delayed diagnosis.
 
 **Frequency:** 10-20% of septic arthritis cases
 
-**Associated Risk Factors** - S. aureus bacteremia (most common organism
-in polyarticular disease) - Rheumatoid arthritis on TNF inhibitors -
-Immunocompromised patients (HIV, post-transplant) - Disseminated
-gonococcal infection (DGI)
+**Associated risk factors**
+
+-   *S. aureus* bacteremia (most common organism in polyarticular
+    disease)
+
+-   Rheumatoid arthritis on TNF inhibitors
+
+-   Immunocompromised patients (HIV, post-transplant)
+
+-   Disseminated gonococcal infection (DGI)
 
 **Prognosis:** Worse than monoarticular; requires careful assessment of
 all joints
 
-::: notes
+::: aside
 Polyarticular septic arthritis is often missed initially if the
 clinician focuses on one painful joint. A patient with RA presenting
 with acute knee pain might not have an RA flare—systematically examine
-hips, shoulders, wrists, elbows. S. aureus bacteremia can seed multiple
-joints, and each one needs drainage. DGI classically presents with
-polyarthritis. The presence of polyarticular involvement should increase
-suspicion for bacteremia and drive blood culture collection.
+hips, shoulders, wrists, elbows.
+
+<br> S. aureus bacteremia can seed multiple joints, and each one needs
+drainage. DGI classically presents with polyarthritis. The presence of
+polyarticular involvement should increase suspicion for bacteremia and
+drive blood culture collection.
 :::
 
-## Diagnostic Approach: Systematic Workup
+## Diagnostic approach: Systematic workup
+
+-   **Step 1: Clinical Suspicion**
+
+    -   Acute monoarticular or polyarticular arthritis + fever = septic
+        arthritis until proven otherwise
+
+-   **Step 2: Joint Aspiration (Same Day)**
+
+    -   Urgent procedure if septic arthritis suspected
+
+    -   Send fluid for: cell count, Gram stain, culture, glucose, LDH,
+        protein
+
+    -   Molecular testing if available
+
+-   **Step 3: Blood Cultures**
+
+    -   Before antibiotics
+
+    -   Positive in 50-60% of cases; guides therapy
+
+-   **Step 4: Imaging**
+
+    -   X-ray (baseline, assess for bone involvement)
+
+    -   MRI if imaging delays diagnosis or if deep joint (hip)
+
+-   **Step 5: Start Empirical Therapy**
+
+    -   Do NOT wait for culture results
+
+    -   Base on Gram stain if available; otherwise broad coverage
 
 <br>
 
-**Step 1: Clinical Suspicion** - Acute monoarticular or polyarticular
-arthritis + fever = septic arthritis until proven otherwise
-
-**Step 2: Joint Aspiration (Same Day)** - Urgent procedure if septic
-arthritis suspected - Send fluid for: cell count, Gram stain, culture,
-glucose, LDH, protein - Molecular testing if available
-
-**Step 3: Blood Cultures** - Before antibiotics - Positive in 50-60% of
-cases; guides therapy
-
-**Step 4: Imaging** - X-ray (baseline, assess for bone involvement) -
-MRI if imaging delays diagnosis or if deep joint (hip)
-
-**Step 5: Start Empirical Therapy** - Do NOT wait for culture results -
-Base on Gram stain if available; otherwise broad coverage
-
-::: notes
+::: aside
 This algorithm prioritizes speed. Joint aspiration is both diagnostic
 and therapeutic—don't delay it for imaging unless deep anatomy (hip)
 requires ultrasound guidance. Gram stain results within minutes drive
@@ -361,7 +432,7 @@ assume negative cultures mean no infection; 10-20% of cases are
 culture-negative despite synovial fluid showing sepsis.
 :::
 
-## Laboratory Findings: Peripheral Blood
+## Laboratory findings: Peripheral blood
 
 <br>
 
@@ -417,7 +488,7 @@ septic arthritis based on crystal findings.
 **Margaretten et al., JAMA 2007 (2302 cases)**
 
 | WBC Count          | Sensitivity | Specificity | Notes                        |
-|----------------|----------------|----------------|-------------------------|
+|------------------|------------------|------------------|-------------------|
 | \>50,000           | 62%         | 92%         | High spec, misses \~40%      |
 | \>25,000           | 77%         | 73%         | Better sensitivity           |
 | PMN \>90%          | 73%         | 79%         | Complements WBC count        |
