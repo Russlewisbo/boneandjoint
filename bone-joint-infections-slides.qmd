@@ -48,11 +48,11 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 **By the end of this lecture, you will be able to:**
 
--   Diagnose septic arthritis, osteomyelitis, and prosthetic joint infection using clinical, laboratory, and imaging criteria
--   Interpret synovial fluid, bone biopsy, and molecular diagnostics appropriately
--   Select empirical and directed antimicrobial therapy based on patient risk factors and local epidemiology
--   Manage source control decisions (joint aspiration, debridement, prosthesis exchange)
--   Apply evidence from key trials (OVIVA, Gjika, Zimmerli) to clinical practice
+- Diagnose septic arthritis, osteomyelitis, and prosthetic joint infection using clinical, laboratory, and imaging criteria
+- Interpret synovial fluid, bone biopsy, and molecular diagnostics appropriately
+- Select empirical and directed antimicrobial therapy based on patient risk factors and local epidemiology
+- Manage source control decisions (joint aspiration, debridement, prosthesis exchange)
+- Apply evidence from key trials (OVIVA, Gjika, Zimmerli) to clinical practice
 
 ::: notes
 These five learning objectives anchor the entire session. You should be comfortable with diagnosis first—missing septic arthritis or osteomyelitis is costly. Then antimicrobial selection, which depends on both the organism and the site (native joint, bone, implant). Finally, source control and surgical decision-making, which separates good outcomes from poor ones. We'll reference evidence-based trials throughout.
@@ -62,23 +62,23 @@ These five learning objectives anchor the entire session. You should be comforta
 
 <br>
 
--   **Native Joint Infection**
+- **Native Joint Infection**
 
-    -   Acute bacterial arthritis (septic arthritis)
+  - Acute bacterial arthritis (septic arthritis)
 
-    -   Gonococcal and non-gonococcal arthritis
+  - Gonococcal and non-gonococcal arthritis
 
--   **Bone Infection**
+- **Bone Infection**
 
-    -   Acute hematogenous osteomyelitis
+  - Acute hematogenous osteomyelitis
 
-    -   Chronic osteomyelitis (contiguous, vascular insufficiency)
+  - Chronic osteomyelitis (contiguous, vascular insufficiency)
 
-    -   Vertebral osteomyelitis
+  - Vertebral osteomyelitis
 
--   **Prosthetic Implant Infection**
+- **Prosthetic Implant Infection**
 
-    -   Early, acute hematogenous, chronic prosthetic joint infection
+  - Early, acute hematogenous, chronic prosthetic joint infection
 
 ::: aside
 This taxonomy reflects the Waldvogel and Cierny-Mader classifications you'll see throughout. The key distinction is the site (joint vs bone vs implant) and timing (acute vs chronic). <br> Each has different epidemiology, organisms, and management strategies. We'll go through each in depth.
@@ -90,11 +90,11 @@ This taxonomy reflects the Waldvogel and Cierny-Mader classifications you'll see
 
 <br>
 
--   **Incidence:** 2-10 per 100,000 population annually
--   **Trend:** Rising incidence, particularly in older adults and IVDU populations
--   **Mortality:** 5-15% overall; 30-50% in bacteremic septic arthritis
--   **Morbidity:** 25-50% of survivors have permanent joint dysfunction
--   **Risk:** Mortality increases with age \>65 years, comorbidities, delayed diagnosis
+- **Incidence:** 2-10 per 100,000 population annually
+- **Trend:** Rising incidence, particularly in older adults and IVDU populations
+- **Mortality:** 5-15% overall; 30-50% in bacteremic septic arthritis
+- **Morbidity:** 25-50% of survivors have permanent joint dysfunction
+- **Risk:** Mortality increases with age \>65 years, comorbidities, delayed diagnosis
 
 ::: aside
 The incidence varies by population studied and region. In developed countries, opioid-driven IVDU has significantly increased rates of unusual sites like sternoclavicular and pubic joints. Mortality remains substantial even with modern care, emphasizing the need for rapid diagnosis and appropriate therapy. Permanent joint damage is common even in treated cases, underscoring that this is truly a medical emergency. [@Kaandorp1995; @Rutherford2016; @Abram2020]
@@ -130,12 +130,12 @@ Risk factors cluster into two groups: those that predispose to bacteremia (IVDU,
 :::
 
 ::: {.column width="50%"}
--   **Staphylococcus aureus:** 40-70% of cases (increasing)
--   **Streptococci (Groups A, B, G):** 15-20%
--   **Gram-negative rods (E. coli, Klebsiella, Pseudomonas):** 5-25%
--   **Coagulase-negative staphylococci:** \<5% (native joint)
--   **Anaerobes:** Rare in native joint (\<3%)
--   **Fastidious organisms:** N. gonorrhoeae, Haemophilus influenzae, Brucelleosis
+- **Staphylococcus aureus:** 40-70% of cases (increasing)
+- **Streptococci (Groups A, B, G):** 15-20%
+- **Gram-negative rods (E. coli, Klebsiella, Pseudomonas):** 5-25%
+- **Coagulase-negative staphylococci:** \<5% (native joint)
+- **Anaerobes:** Rare in native joint (\<3%)
+- **Fastidious organisms:** N. gonorrhoeae, Haemophilus influenzae, Brucelleosis
 :::
 :::::
 
@@ -170,11 +170,11 @@ These associations are critical for empirical therapy before culture results. A 
 :::
 
 ::: {.column width="50%"}
--   **MRSA prevalence in septic arthritis:** 18-40% in IVDU populations; 15-25% overall in developed countries
--   **Community-acquired MRSA:** USA300 strain predominates; more virulent (PVL toxin)
--   **Clinical features:** No different from MSSA; may have higher recurrence rates
--   **Prognosis:** Mortality similar to MSSA; more frequent treatment failures reported
--   **Implications:** Empirical vancomycin or daptomycin required if MRSA risk present
+- **MRSA prevalence in septic arthritis:** 18-40% in IVDU populations; 15-25% overall in developed countries
+- **Community-acquired MRSA:** USA300 strain predominates; more virulent (PVL toxin)
+- **Clinical features:** No different from MSSA; may have higher recurrence rates
+- **Prognosis:** Mortality similar to MSSA; more frequent treatment failures reported
+- **Implications:** Empirical vancomycin or daptomycin required if MRSA risk present
 :::
 :::::
 
@@ -188,29 +188,29 @@ The emergence of CA-MRSA with PVL toxin has changed the landscape. This means em
 
 <br>
 
--   **Hematogenous (Most common)**
+- **Hematogenous (Most common)**
 
-    -   Transient bacteremia from skin, GI, GU, or respiratory source
+  - Transient bacteremia from skin, GI, GU, or respiratory source
 
-    -   Occurs in \~85% of cases
+  - Occurs in \~85% of cases
 
-    -   S. aureus, streptococci most common
+  - S. aureus, streptococci most common
 
--   **Direct inoculation**
+- **Direct inoculation**
 
-    -   Arthrocentesis, surgery, bite/laceration over joint
+  - Arthrocentesis, surgery, bite/laceration over joint
 
-    -   IVDU with joint site injection
+  - IVDU with joint site injection
 
-    -   Gram-negatives, S. aureus
+  - Gram-negatives, S. aureus
 
--   **Contiguous spread**
+- **Contiguous spread**
 
-    -   Adjacent bone or soft tissue infection extending to joint
+  - Adjacent bone or soft tissue infection extending to joint
 
-    -   Osteomyelitis → septic arthritis
+  - Osteomyelitis → septic arthritis
 
-    -   Often polymicrobial
+  - Often polymicrobial
 
 ::: aside
 Hematogenous seeding is most common, which is why blood cultures matter—positive in \~50% of cases. Direct inoculation now includes IVDU with direct joint injection, which has increased in incidence. Contiguous spread used to be more common historically; now it's less frequent but still important in diabetic patients and those with complex fractures.
@@ -236,11 +236,11 @@ Hematogenous seeding is most common, which is why blood cultures matter—positi
 
 ***S. aureus*** **virulence**
 
--   Protein A, coagulase inhibit opsonophagocytosis
+- Protein A, coagulase inhibit opsonophagocytosis
 
--   α-toxin causes direct cellular damage
+- α-toxin causes direct cellular damage
 
--   Biofilm formation (intracellular sequestration)
+- Biofilm formation (intracellular sequestration)
 
 ::: notes
 This timeline is why *rapid* joint aspiration and drainage matter. If you can aspirate at 24-48 hours, you may prevent permanent cartilage loss. By 5-7 days, structural damage is often irreversible. <br> *S. aureus* is particularly destructive due to its toxin arsenal and ability to evade the immune system. Even with therapy, permanent disability occurs in 25-50% of cases, which reflects the destructive power of these pathogens.
@@ -252,21 +252,21 @@ This timeline is why *rapid* joint aspiration and drainage matter. If you can as
 
 **Classic tetrad (80-90% of cases)**
 
--   Acute monoarticular arthritis (sudden onset) - Pain, swelling, warmth, erythema
+- Acute monoarticular arthritis (sudden onset) - Pain, swelling, warmth, erythema
 
--   Restricted range of motion (pain-limited)
+- Restricted range of motion (pain-limited)
 
--   Fever (present in 70-90%)
+- Fever (present in 70-90%)
 
 **Atypical presentations**
 
--   Polyarticular arthritis (10-20%, worse prognosis)
+- Polyarticular arthritis (10-20%, worse prognosis)
 
--   Subacute course (weeks, especially gonococcal)
+- Subacute course (weeks, especially gonococcal)
 
--   Low-grade fever or afebrile in immunocompromised
+- Low-grade fever or afebrile in immunocompromised
 
--   Minimal systemic toxicity (elderly, immunosuppressed)
+- Minimal systemic toxicity (elderly, immunosuppressed)
 
 ::: aside
 The classic "hot joint" with fever is only present in about 70% of cases. Don't be falsely reassured by absence of fever—elderly and immunocompromised patients may present with subtle findings. Polyarticular arthritis is uncommon but important to recognize; it usually indicates \*S. aureus \* bacteremia with seeding of multiple joints. Always examine multiple joints systematically, especially in febrile patients with arthralgia.
@@ -276,20 +276,20 @@ The classic "hot joint" with fever is only present in about 70% of cases. Don't 
 
 <br>
 
--   **Knee:** 50% of cases (large, superficial, mobile)
--   **Hip:** 20% of cases (deeper, higher mortality if delayed)
--   **Shoulder:** 10%
--   **Ankle/foot:** 5-10%
--   **Wrist:** 3-5%
--   **Other:** Sternoclavicular, sacroiliac (especially IVDU)
+- **Knee:** 50% of cases (large, superficial, mobile)
+- **Hip:** 20% of cases (deeper, higher mortality if delayed)
+- **Shoulder:** 10%
+- **Ankle/foot:** 5-10%
+- **Wrist:** 3-5%
+- **Other:** Sternoclavicular, sacroiliac (especially IVDU)
 
 **IVDU Exception**
 
--   Sternoclavicular and sacroiliac joints more common
+- Sternoclavicular and sacroiliac joints more common
 
--   Unusual sites reflect direct injection at those sites
+- Unusual sites reflect direct injection at those sites
 
--   *S. aureus* and *Pseudomonas* predominate
+- *S. aureus* and *Pseudomonas* predominate
 
 ::: aside
 The knee dominates because it's large and mobile. Hip infection is more serious because it's deeper and diagnosis may be delayed. In IVDU, think beyond the usual joints—sternoclavicular and SI joint infections are increasingly recognized and can be subtle (fever, shoulder/back pain without obvious joint swelling). <br>Hip infections in children and some adults can have high mortality from delayed diagnosis.
@@ -305,13 +305,13 @@ The knee dominates because it's large and mobile. Hip infection is more serious 
 
 **Associated risk factors**
 
--   *S. aureus* bacteremia (most common organism in polyarticular disease)
+- *S. aureus* bacteremia (most common organism in polyarticular disease)
 
--   Rheumatoid arthritis on TNF inhibitors
+- Rheumatoid arthritis on TNF inhibitors
 
--   Immunocompromised patients (HIV, post-transplant)
+- Immunocompromised patients (HIV, post-transplant)
 
--   Disseminated gonococcal infection (DGI)
+- Disseminated gonococcal infection (DGI)
 
 **Prognosis:** Worse than monoarticular; requires careful assessment of all joints
 
@@ -321,35 +321,35 @@ Polyarticular septic arthritis is often missed initially if the clinician focuse
 
 ## Diagnostic approach: Systematic workup
 
--   **Step 1: Clinical Suspicion**
+- **Step 1: Clinical Suspicion**
 
-    -   Acute monoarticular or polyarticular arthritis + fever = septic arthritis until proven otherwise
+  - Acute monoarticular or polyarticular arthritis + fever = septic arthritis until proven otherwise
 
--   **Step 2: Joint Aspiration (Same Day)**
+- **Step 2: Joint Aspiration (Same Day)**
 
-    -   Urgent procedure if septic arthritis suspected
+  - Urgent procedure if septic arthritis suspected
 
-    -   Send fluid for: cell count, Gram stain, culture, glucose, LDH, protein
+  - Send fluid for: cell count, Gram stain, culture, glucose, LDH, protein
 
-    -   Molecular testing if available
+  - Molecular testing if available
 
--   **Step 3: Blood Cultures**
+- **Step 3: Blood Cultures**
 
-    -   Before antibiotics
+  - Before antibiotics
 
-    -   Positive in 50-60% of cases; guides therapy
+  - Positive in 50-60% of cases; guides therapy
 
--   **Step 4: Imaging**
+- **Step 4: Imaging**
 
-    -   X-ray (baseline, assess for bone involvement)
+  - X-ray (baseline, assess for bone involvement)
 
-    -   MRI if imaging delays diagnosis or if deep joint (hip)
+  - MRI if imaging delays diagnosis or if deep joint (hip)
 
--   **Step 5: Start Empirical Therapy**
+- **Step 5: Start Empirical Therapy**
 
-    -   Do NOT wait for culture results
+  - Do NOT wait for culture results
 
-    -   Base on Gram stain if available; otherwise broad coverage
+  - Base on Gram stain if available; otherwise broad coverage
 
 <br>
 
@@ -415,35 +415,35 @@ This landmark study is cited widely because it demolishes the myth of a single d
 
 ## Microbiologic diagnosis: Culture methods
 
--   **Conventional culture (Gold standard)**
+- **Conventional culture (Gold standard)**
 
-    -   Sensitivity 80-90% in non-pretreated cases
+  - Sensitivity 80-90% in non-pretreated cases
 
-    -   Hold 14 days for fastidious organisms
+  - Hold 14 days for fastidious organisms
 
-    -   Requires adequate specimen volume (\>1 mL ideally)
+  - Requires adequate specimen volume (\>1 mL ideally)
 
-    -   Slow (48-72 hours to identification and susceptibility)
+  - Slow (48-72 hours to identification and susceptibility)
 
--   **Blood Cultures**
+- **Blood Cultures**
 
-    -   Positive in 50-60% of cases
+  - Positive in 50-60% of cases
 
-    -   Send 2-3 sets before antibiotics
+  - Send 2-3 sets before antibiotics
 
-    -   Enables organism identification even if joint culture negative
+  - Enables organism identification even if joint culture negative
 
-    -   May grow same organism as joint (confirms diagnosis)
+  - May grow same organism as joint (confirms diagnosis)
 
--   **Culture-negative cases (10-20%)**
+- **Culture-negative cases (10-20%)**
 
-    -   Prior antibiotic therapy (most common)
+  - Prior antibiotic therapy (most common)
 
-    -   Fastidious organisms (Brucella, Coxiella, Mycobacteria)
+  - Fastidious organisms (Brucella, Coxiella, Mycobacteria)
 
-    -   Fungi, viruses
+  - Fungi, viruses
 
-    -   Technical issues (inadequate inoculum, processing)
+  - Technical issues (inadequate inoculum, processing)
 
 ::: aside
 Culture remains the gold standard because it allows organism identification and susceptibility testing. However, 10-20% of septic arthritis cases are culture-negative despite clinical and synovial fluid evidence of infection. This is increasingly recognized and drives the use of molecular methods. Never withhold therapy based on negative cultures if clinical picture is convincing. Always inoculate blood culture bottles (or holding medium like thioglycollate) if joint culture bottles are unavailable—this increases yield substantially.
@@ -455,33 +455,33 @@ Culture remains the gold standard because it allows organism identification and 
 
 **16S rDNA PCR**
 
--   Universal bacterial primers
+- Universal bacterial primers
 
--   Detects fastidious and unculturable organisms
+- Detects fastidious and unculturable organisms
 
--   Sensitivity 80-95% in some studies
+- Sensitivity 80-95% in some studies
 
--   Turnaround time 24-48 hours
+- Turnaround time 24-48 hours
 
 **Multiplex PCR Panels**
 
--   Simultaneously identify common organisms
+- Simultaneously identify common organisms
 
--   BioFire, Cobas, other platforms available in many centers
+- BioFire, Cobas, other platforms available in many centers
 
--   Turnaround time 1-2 hours - Cost higher but speeds diagnosis
+- Turnaround time 1-2 hours - Cost higher but speeds diagnosis
 
 **Metagenomic Next-Generation Sequencing (mNGS)**
 
--   Culture-independent, organism-agnostic
+- Culture-independent, organism-agnostic
 
--   Identifies unexpected organisms
+- Identifies unexpected organisms
 
--   Increasing availability; still expensive
+- Increasing availability; still expensive
 
--   Role in culture-negative cases growing
+- Role in culture-negative cases growing
 
--   **Current Status:** Not standard of care; reserve for culture-negative cases or unusual presentations
+- **Current Status:** Not standard of care; reserve for culture-negative cases or unusual presentations
 
 ::: aside
 Molecular methods are transformative but not yet widely integrated into routine practice. The cost and turnaround time are barriers. However, they're increasingly used in research and in complex cases. A 35-year-old with septic arthritis that's culture-negative despite appropriate workup? Molecular testing is reasonable. A patient with Brucella exposure or TB risk? PCR can identify organisms conventional culture might miss. As these methods become faster and cheaper, their role will expand.
@@ -495,27 +495,27 @@ Molecular methods are transformative but not yet widely integrated into routine 
 ::: {.column width="50%"}
 **X-ray**: First-line imaging
 
--   Early findings: soft tissue swelling, capsular distension
+- Early findings: soft tissue swelling, capsular distension
 
--   Late findings: cartilage loss, bone erosions, subluxation
+- Late findings: cartilage loss, bone erosions, subluxation
 
--   Lag time: damage visible 10-14 days into infection - Use: Baseline assessment, assess for fracture or dislocation
+- Lag time: damage visible 10-14 days into infection - Use: Baseline assessment, assess for fracture or dislocation
 
 **MRI**: Gold standard for soft tissue and cartilage assessment
 
--   Sensitivity 82-100%, specificity 75-96%
+- Sensitivity 82-100%, specificity 75-96%
 
--   Can assess synovial inflammation, extent of damage
+- Can assess synovial inflammation, extent of damage
 
--   Use: Hip infections (confirm diagnosis, guide aspiration), depth assessment
+- Use: Hip infections (confirm diagnosis, guide aspiration), depth assessment
 
 **Ultrasound**: Real-time guidance for aspiration
 
--   Identify effusion (sensitivity \>90%)
+- Identify effusion (sensitivity \>90%)
 
--   Used for hip, shoulder guidance
+- Used for hip, shoulder guidance
 
--   Avoids radiation, improves aspiration success
+- Avoids radiation, improves aspiration success
 :::
 
 ::: {.column width="50%"}
@@ -537,7 +537,7 @@ X-rays often appear normal early, which can falsely reassure. Don't exclude sept
 ::: {.column width="50%"}
 A 20-year-old woman presented to the emergency department with a rash involving the arms, legs, trunk, and scalp, which had erupted that morning. <br> <br> She also reported generalized muscle aches, fever, and pain in both ankles. Two weeks earlier, the patient had had vaginal intercourse with a new partner without barrier protection.
 
-<br> <br> The physical examination was notable for erythematous pustules near the wrist and on the fingers (Panel A) and on the trunk, scalp, and both ankles. There was mild swelling and pain with passive motion in the right ankle and tenosynovitis involving the tendons of both ankles. Given a high suspicion for disseminated gonococcal infection, treatment with ceftriaxone and azithromycin was initiated. <br> <br> Blood cultures grew gram negative diplococci (Panel B) that were identified as *Neisseria gonorrhoeae*, which confirmed the diagnosis. The patient’s symptoms abated with antibiotic treatment. At 3 months of follow-up, the patient was feeling well, with no recurrence of skin lesions or joint pain
+<br> The physical examination was notable for erythematous pustules near the wrist and on the fingers (Panel A) and on the trunk, scalp, and both ankles. There was mild swelling and pain with passive motion in the right ankle and tenosynovitis involving the tendons of both ankles. Given a high suspicion for disseminated gonococcal infection, treatment with ceftriaxone and azithromycin was initiated. <br> Blood cultures grew gram negative diplococci (Panel B) that were identified as *Neisseria gonorrhoeae*, which confirmed the diagnosis. The patient’s symptoms abated with antibiotic treatment. At 3 months of follow-up, the patient was feeling well, with no recurrence of skin lesions or joint pain
 :::
 :::::
 
@@ -551,13 +551,13 @@ A 20-year-old woman presented to the emergency department with a rash involving 
 
 **Epidemiology**
 
--   Most common cause of septic arthritis in sexually active adults (age 15-40)
+- Most common cause of septic arthritis in sexually active adults (age 15-40)
 
--   Occurs in 1-3% of untreated urogenital gonorrhea
+- Occurs in 1-3% of untreated urogenital gonorrhea
 
--   Female predominance (2-3:1)
+- Female predominance (2-3:1)
 
--   Often acquired from asymptomatic partners
+- Often acquired from asymptomatic partners
 
 **Classic Triad of DGI**
 
@@ -567,9 +567,7 @@ A 20-year-old woman presented to the emergency department with a rash involving 
 
 3.  Tenosynovitis (wrist, ankle tendons)
 
-::: aside
-DGI should be in your differential for any young patient with polyarticular arthritis and rash. The organism is sensitive to antibiotics, so outcomes are generally good if treatment is prompt. The challenge is diagnosis—gonococcal cultures are fastidious and often negative. Blood cultures positive in \~40%, joint cultures positive in \~10-50% depending on culture media. That's why NAATs are essential.
-:::
+<br> <br> ::: aside DGI should be in the differential for any young patient with polyarticular arthritis and rash. The organism is sensitive to antibiotics, so outcomes are generally good if treatment is prompt. The challenge is diagnosis—gonococcal cultures are fastidious and often negative. Blood cultures positive in \~40%, joint cultures positive in \~10-50% depending on culture media. That's why NAATs are essential. :::
 
 ## Gonococcal arthritis: Diagnosis and treatment
 
@@ -577,27 +575,27 @@ DGI should be in your differential for any young patient with polyarticular arth
 
 **Diagnosis**
 
--   Culture negative in \>50% of cases
+- Culture negative in \>50% of cases
 
--   NAATs (nucleic acid amplification tests) essential—test urogenital, rectal, pharyngeal
+- NAATs (nucleic acid amplification tests) essential—test urogenital, rectal, pharyngeal
 
--   Gram stain of joint fluid rarely positive
+- Gram stain of joint fluid rarely positive
 
--   High clinical suspicion critical (sexual history, rash, polyarthritis)
+- High clinical suspicion critical (sexual history, rash, polyarthritis)
 
 **Therapy** - **Ceftriaxone 500 mg to 1 g IV/IM once daily × 7-10 days**
 
--   Alternative (allergy): Spectinomycin, fluoroquinolone (if susceptible)
+- Alternative (allergy): Spectinomycin, fluoroquinolone (if susceptible)
 
--   Excellent joint penetration
+- Excellent joint penetration
 
--   Early therapy prevents progression to chronic arthritis
+- Early therapy prevents progression to chronic arthritis
 
 **Partner Management**
 
--   Screen and treat sexual partners
+- Screen and treat sexual partners
 
--   Test for chlamydia co-infection (25-40%)
+- Test for chlamydia co-infection (25-40%)
 
 ::: aside
 Empirical ceftriaxone for gonococcal arthritis is reasonable if NAAT pending or clinical suspicion high. Resistance to older agents (penicillin, tetracycline, fluoroquinolones) is rising globally, so ceftriaxone is now first-line. Unlike most septic arthritis, gonococcal arthritis usually doesn't require repeated joint aspiration—antibiotics alone are often sufficient. Outcomes are excellent with prompt treatment, making this one of the better-prognosis septic arthritis types.
@@ -609,71 +607,69 @@ Empirical ceftriaxone for gonococcal arthritis is reasonable if NAAT pending or 
 
 **Epidemiologic Shift**
 
--   IVDU now the most common risk factor for septic arthritis in many developed countries
+- IVDU now the most common risk factor for septic arthritis in many developed countries
 
--   Accounts for 30-60% of adult septic arthritis in urban centers
+- Accounts for 30-60% of adult septic arthritis in urban centers
 
--   Often unrecognized due to atypical joint involvement
+- Often unrecognized due to atypical joint involvement
 
 **Unusual Joint Sites in IVDU**
 
--   Sternoclavicular joint
+- Sternoclavicular joint
 
--   Sacroiliac joint
+- Sacroiliac joint
 
--   Manubriosternal joint
+- Manubriosternal joint
 
--   Acromioclavicular joint
+- Acromioclavicular joint
 
 **Microbiology**
 
--   S. aureus predominates (\>70%), especially MRSA
+- S. aureus predominates (\>70%), especially MRSA
 
--   Pseudomonas aeruginosa (25-40%)
+- Pseudomonas aeruginosa (25-40%), gram-negatives (E. coli, Klebsiella)
 
--   Gram-negatives (E. coli, Klebsiella)
+- Polymicrobial in 15-25%
 
--   Polymicrobial in 15-25%
+<br> <br>
 
 ::: aside
-If your patient has fever and joint pain but denies typical drug use, always ask about injection practices. Some IVDU patients inject into joints directly. Sternoclavicular and SI joint infections can present subtly (fever, shoulder/back pain) without obvious joint swelling, so imaging and high clinical suspicion are essential. MRSA predominance means empirical vancomycin (or daptomycin) + Pseudomonas coverage (piperacillin-tazobactam, cephalosporin, fluoroquinolone) initially.
+Some IVDU patients inject into joints directly. Sternoclavicular and SI joint infections can present subtly (fever, shoulder/back pain) without obvious joint swelling, so imaging and high clinical suspicion are essential. MRSA predominance means empirical vancomycin (or daptomycin) + Pseudomonas coverage (piperacillin-tazobactam, cephalosporin, fluoroquinolone) initially.
 :::
 
 ## Septic arthritis in immunocompromised patients
 
 <br>
 
--   **HIV/AIDS (CD4 \<200)**
+- **HIV/AIDS (CD4 \<200)**
 
-    -   Higher incidence septic arthritis
+  - Higher incidence septic arthritis
 
-    -   Similar organisms to immunocompetent (S. aureus predominates) but can have atypical organisms (MAC, mycobacteria, fungi)
+  - Similar organisms to immunocompetent (S. aureus predominates) but can have atypical organisms (MAC, mycobacteria, fungi)
 
-    -   ART initiation improves immune response; may paradoxically flare with IRIS
+  - ART initiation improves immune response; may paradoxically flare with IRIS
 
--   **TNF Inhibitor therapy**
+- **TNF Inhibitor therapy**
 
-    -   Increased risk, especially infliximab \>etanercept
+  - Increased risk, especially infliximab \>etanercept
 
-    -   *S. aureus* common; atypical organisms (TB, fungi) possible
+  - *S. aureus* common; atypical organisms (TB, fungi) possible
 
-    -   Consider TB risk before starting TNFi
+  - Consider TB risk before starting TNFi
 
--   **Post-Transplant**
+- **Post-Transplant**
 
-    -   Bacteria common early; fungi/viruses/atypical later
+  - Bacteria common early; fungi/viruses/atypical later
 
-    -   Higher mortality
+  - Higher mortality
 
 **Clinical Implications**
 
--   Don't assume atypical organisms without evidence. *S. aureus* remains most common even in AIDS
+- Don't assume atypical organisms without evidence. *S. aureus* remains most common even in AIDS
 
--   Culture and molecular testing critical for organism identification
+- Culture and molecular testing critical for organism identification
 
-::: aside
-The key clinical point is that immunocompromised patients can still have S. aureus septic arthritis, which is the most common cause. However, you need to maintain a broader differential and be more aggressive with diagnostics. Fungi (Candida, Coccidioides, Histoplasma) can cause joint infections in immunocompromised patients. Mycobacterial infections (including TB) can present as monoarticular arthritis with chronic course. Always obtain adequate microbiologic specimens in these patients.
-:::
+<br> <br> ::: aside The key clinical point is that immunocompromised patients can still have S. aureus septic arthritis, which is the most common cause. However, you need to maintain a broader differential and be more aggressive with diagnostics. Fungi (Candida, Coccidioides, Histoplasma) can cause joint infections in immunocompromised patients. Mycobacterial infections (including TB) can present as monoarticular arthritis with chronic course. Always obtain adequate microbiologic specimens in these patients. :::
 
 ## Management Principles: Source control + antimicrobials
 
@@ -683,37 +679,37 @@ The key clinical point is that immunocompromised patients can still have S. aure
 ::: {.column width="50%"}
 **Source Control Is Essential**
 
--   Repeated joint aspiration or arthroscopic drainage
+- Repeated joint aspiration or arthroscopic drainage
 
-    -   Removes bacterial burden, inflammatory mediators, and pus
+  - Removes bacterial burden, inflammatory mediators, and pus
 
-    -   Reduces time to sterilization
+  - Reduces time to sterilization
 
-    -   Relieves pain, restores function
+  - Relieves pain, restores function
 
 **Antimicrobial Therapy**
 
--   Empirical (broad) → Directed (organism-specific)
+- Empirical (broad) → Directed (organism-specific)
 
-    -   IV access required initially
+  - IV access required initially
 
-    -   High-dose regimens to maximize joint penetration
+  - High-dose regimens to maximize joint penetration
 
-    -   Duration: typically 2-4 weeks (evidence evolving)
+  - Duration: typically 2-4 weeks (evidence evolving)
 :::
 
 ::: {.column width="50%"}
 **Outcome Determinants**
 
--   Time to diagnosis (\<1 week ideal)
+- Time to diagnosis (\<1 week ideal)
 
--   Joint involvement (hip worse than knee)
+- Joint involvement (hip worse than knee)
 
--   Organism virulence (S. aureus \> streptococci)
+- Organism virulence (S. aureus \> streptococci)
 
--   Adequacy of source control
+- Adequacy of source control
 
--   Comorbidities and immunity
+- Comorbidities and immunity
 :::
 :::::
 
@@ -764,20 +760,20 @@ If the Gram stain shows gram-negative rods in a patient with risk factors for en
 
 1.  **Cefazolin 2 g IV q8h** (maximum 6 g/day)
 
-    -   Alternative if mild beta-lactam allergy
-    -   Good joint penetration
-    -   Lower cost, less nephrotoxicity vs. anti-staphylococcal PCNs
+    - Alternative if mild beta-lactam allergy
+    - Good joint penetration
+    - Lower cost, less nephrotoxicity vs. anti-staphylococcal PCNs
 
 2.  **Nafcillin 2 g IV q4h** or **Oxacillin 2 g IV q4h** (maximum 12 g/day)
 
-    -   Excellent bone/joint penetration
-    -   First-line for MSSA
-    -   Allergy risk: cross-reactivity 1-2%, recent data suggesting higher rates of nephrotoxicity vs. cefazolin
+    - Excellent bone/joint penetration
+    - First-line for MSSA
+    - Allergy risk: cross-reactivity 1-2%, recent data suggesting higher rates of nephrotoxicity vs. cefazolin
 
 3.  **Ceftriaxone 2 g IV q12h**
 
-    -   Alternative; slightly less optimal than nafcillin for staph
-    -   Use if concern for other gram-negatives
+    - Alternative; slightly less optimal than nafcillin for staph
+    - Use if concern for other gram-negatives
 
 **Duration:** 3-4 weeks IV, or IV→oral switch after clinical improvement <br> <br>
 
@@ -785,39 +781,35 @@ If the Gram stain shows gram-negative rods in a patient with risk factors for en
 Cefazolin is now preferrred over antistaphylococal PCNs. Nafcillin and oxacillin are superior to cephalosporins for MSSA because of better bacterial killing and lower resistance rates. If the patient is allergic to beta-lactams, cephalosporins (especially cefazolin) are preferred over vancomycin because of lower MICs. Vancomycin is inferior for MSSA—don't use it unless true IgE-mediated allergy. Fluoroquinolone monotherapy (like levofloxacin) is inferior and not recommended. Duration is traditionally 3-4 weeks, though shorter courses (2 weeks) are being studied (see Gjika trial below).
 :::
 
-## Directed therapy: MRSA (Methicillin-resistant *S. aureus*) {.smaller}
+## Directed therapy: MRSA (Methicillin-resistant *S. aureus*)
 
-1.  **Daptomycin** (excellent alternative)
+1.  **Daptomycin**
 
-    -   Dose: 10 mg/kg IV daily
-    -   Superior bactericidal activity vs. vancomycin in animal models
-    -   Excellent intracellular penetration
-    -   Emerging preference in some centers
+    - Dose: 10 mg/kg IV daily
+    - Superior bactericidal activity vs. vancomycin in animal models
+    - Excellent intracellular penetration
+    - Emerging preference in some centers
 
-2.  **Vancomycin**
+2.  **Vancomycin** (alternative)
 
-    -   Dose: 15-20 mg/kg IV q8-12h (target AUC/MIC 400-600)
+    - Dose: 15-20 mg/kg IV q8-12h (target AUC/MIC 400-600- old recommendation trough 12-20 μg/mL)
 
-    -   Joint penetration \~50% of serum
+    - Joint penetration \~50% of serum
 
-    -   Monitor serum levels (goal trough 15-20 μg/mL)
+    - Monitor serum levels (goal target AUC 400-600
 
-    -   Nephrotoxicity, ototoxicity risk with high doses
+    - Nephrotoxicity, risk with higher exposures
 
 3.  **Linezolid** (backup)
 
-    -   Dose: 600 mg IV/PO q12h
-    -   Good joint penetration, oral available
-    -   Bone marrow toxicity with prolonged use (\>2 weeks)- Higher rates of thrombocytopenia when Cmin \> \~8; target: 2–7 mg/L
-    -   Serotonin syndrome risk with concurrent serotonergic drugs
+    - Dose: 600 mg IV/PO q12h
+    - Good joint penetration, oral available
+    - Bone marrow toxicity with prolonged use (\>2 weeks)- Higher rates of thrombocytopenia when Cmin \> \~8; target: 2–7 mg/L
+    - Theoretical serotonin syndrome risk with concurrent serotonergic drugs (actually less than 0.5%)
 
 **Duration:** 3-4 weeks IV; consider oral switch to doxycycline + rifampin or linezolid after clinical improvement
 
 <br> <br>
-
-::: aside
-Daptomycin is increasingly preferred for MRSA joint infections because of superior killing kinetics and intracellular penetration. If using daptomycin, ensure dosing is 10 mg/kg IV daily—lower doses are inadequate. Linezolid offers the advantage of oral bioavailability but reserve for bone marrow toxicity risk mitigation (shorter durations) and ensure no serotonergic drug interactions.
-:::
 
 ## Emerging agents for septic arthritis
 
@@ -825,24 +817,24 @@ Daptomycin is increasingly preferred for MRSA joint infections because of superi
 
 **Long-Acting Lipopeptides**
 
--   **Dalbavancin:** Every 7-day dosing (1500 mg × 2 doses)
+- **Dalbavancin:** Every 7-day dosing (1500 mg × 2 doses)
 
--   Clinical data limited but growing (DOTS trial) [@turner2025a]
+- Clinical data limited but growing (DOTS trial) [@turner2025a]
 
--   Excellent MRSA coverage
+- Excellent MRSA coverage
 
--   Investigational for prosthetic infections
+- Investigational for prosthetic infections
 
--   **Oritavancin:** Single 1200 mg IV dose
+- **Oritavancin:** Single 1200 mg IV dose
 
-    -   Limited data in joint infections
-    -   Not yet standard of care
+  - Limited data in joint infections
+  - Not yet standard of care
 
--   **Ceftaroline:** 600 mg IV q12h
+- **Ceftaroline:** 600 mg IV q12h
 
-    -   MRSA-active , Limited clinical data in septic arthritis
+  - MRSA-active , Limited clinical data in septic arthritis
 
-    -   May be useful for empirical therapy if concern for both MSSA and MRSA
+  - May be useful for empirical therapy if concern for both MSSA and MRSA
 
 **Current Status:** Daptomycin and remain standard; emerging agents may expand options
 
@@ -856,23 +848,23 @@ Dalbavancin is interesting because less frequent dosing may improve adherence, b
 
 **Traditional Dogma:** 3-4 weeks IV antibiotics
 
--   **Gjika et al. 2019** (RCT, streptococcal arthritis) [@Gjika2019a]
+- **Gjika et al. 2019** (RCT, streptococcal arthritis) [@Gjika2019a]
 
-    -   2 weeks IV therapy non-inferior to 4 weeks
+  - 2 weeks IV therapy non-inferior to 4 weeks
 
-    -   Primary endpoint: clinical cure at 24 weeks
+  - Primary endpoint: clinical cure at 24 weeks
 
-        -   2-week group: 80% cure vs. 4-week: 82%
+    - 2-week group: 80% cure vs. 4-week: 82%
 
-        -   Post-hoc analysis: *S. aureus* may need longer therapy
+    - Post-hoc analysis: *S. aureus* may need longer therapy
 
--   **Practical Implications**: Streptococcal septic arthritis: 2 weeks reasonable
+- **Practical Implications**: Streptococcal septic arthritis: 2 weeks reasonable
 
-    -   S. aureus: traditional 3-4 weeks prudent pending further evidence
+  - S. aureus: traditional 3-4 weeks prudent pending further evidence
 
-    -   Oral switch: consider after clinical improvement if MSSA (fluoroquinolone + rifampin) or MRSA (linezolid, doxycycline + rifampin)
+  - Oral switch: consider after clinical improvement if MSSA (fluoroquinolone + rifampin) or MRSA (linezolid, doxycycline + rifampin)
 
--   **Factors Favoring Longer Duration** - S. aureus bacteremia - Delayed diagnosis (\>7 days) - Immunocompromised host - Prosthetic material
+- **Factors Favoring Longer Duration** - S. aureus bacteremia - Delayed diagnosis (\>7 days) - Immunocompromised host - Prosthetic material
 
 ::: aside
 The Gjika trial was practice-changing for streptococcal arthritis, but *S. aureus* remains unproven at 2 weeks. The trial included mostly streptococci, which are less destructive than S. aureus. Don't reflexively shorten S. aureus therapy to 2 weeks outside a clinical trial. Oral step-down after initial IV therapy is becoming more accepted, especially for uncomplicated cases and MSSA. Always ensure adequate oral bioavailability and organism susceptibility before switching.
@@ -902,37 +894,37 @@ A patient with known gout can absolutely have acute septic arthritis. The presen
 
 <br>
 
--   **Viral Arthritis** (usually self-limited)
+- **Viral Arthritis** (usually self-limited)
 
-    -   Parvovirus B19 (acute polyarthritis, especially women)
+  - Parvovirus B19 (acute polyarthritis, especially women)
 
-    -   Chikungunya (acute polyarthritis, fever, rash)
+  - Chikungunya (acute polyarthritis, fever, rash)
 
-    -   Hepatitis B, C (chronic arthritis)
+  - Hepatitis B, C (chronic arthritis)
 
-    -   HIV (acute polyarticular syndrome in seroconversion)
+  - HIV (acute polyarticular syndrome in seroconversion)
 
-    -   SARS-CoV-2 (polyarticular arthralgia, rarely arthritis)
+  - SARS-CoV-2 (polyarticular arthralgia, rarely arthritis)
 
--   **Fungal Arthritis** (chronic presentation)
+- **Fungal Arthritis** (chronic presentation)
 
-    -   Candida (hematogenous or catheter-related)
+  - Candida (hematogenous or catheter-related)
 
-    -   Cryptococcus (disseminated, especially AIDS)
+  - Cryptococcus (disseminated, especially AIDS)
 
-    -   Dimorphic fungi: *Coccidioides, Histoplasma, Blastomyces*
+  - Dimorphic fungi: *Coccidioides, Histoplasma, Blastomyces*
 
-    -   Aspergillus (rare, immunocompromised)
+  - Aspergillus (rare, immunocompromised)
 
--   **Mycobacterial Arthritis** (chronic)
+- **Mycobacterial Arthritis** (chronic)
 
-    -   Tuberculosis (Pott disease of spine, large joints)
+  - Tuberculosis (Pott disease of spine, large joints)
 
-    -   MAC (disseminated, AIDS)
+  - MAC (disseminated, AIDS)
 
-    -   M. marinum (slowly progressive from water exposure)
+  - M. marinum (slowly progressive from water exposure)
 
--   **Clinical Approach:** Culture, molecular diagnostics, consider imaging for chronic infections
+- **Clinical Approach:** Culture, molecular diagnostics, consider imaging for chronic infections
 
 ::: aside
 These atypical infections usually present chronically (weeks to months), not acutely. However, early recognition is important. Fungi should be suspected in immunocompromised patients with chronic monoarticular arthritis and negative bacterial cultures. TB joint infections are underdiagnosed—always ask about TB risk and consider biopsy for acid-fast stain and TB culture if imaging suggests chronic infection.
@@ -942,29 +934,29 @@ These atypical infections usually present chronically (weeks to months), not acu
 
 <br>
 
--   **Epidemiology** : Occurs in 10-20% of patients with disseminated TB
+- **Epidemiology** : Occurs in 10-20% of patients with disseminated TB
 
-    -   Most common joint infection in TB-endemic areas
+  - Most common joint infection in TB-endemic areas
 
-    -   Spine most common (lumbar \> thoracic)
+  - Spine most common (lumbar \> thoracic)
 
-    -   Hip, knee less common
+  - Hip, knee less common
 
--   **Clinical Presentation** : Subacute to chronic (weeks to months)
+- **Clinical Presentation** : Subacute to chronic (weeks to months)
 
-    -   Low-grade fever, weight loss, joint pain
+  - Low-grade fever, weight loss, joint pain
 
-    -   Spinal involvement → back pain, neurologic symptoms
+  - Spinal involvement → back pain, neurologic symptoms
 
-    -   Often monoarticular
+  - Often monoarticular
 
--   **Diagnosis** : Synovial fluid: high protein, low glucose (mimics bacterial), negative culture initially
+- **Diagnosis** : Synovial fluid: high protein, low glucose (mimics bacterial), negative culture initially
 
-    -   Microscopy: AFB smear often negative; culture take 2-6 weeks
+  - Microscopy: AFB smear often negative; culture take 2-6 weeks
 
-    -   Biopsy: caseating granulomas pathognomonic
+  - Biopsy: caseating granulomas pathognomonic
 
-    -   Molecular: PCR for TB can speed diagnosis
+  - Molecular: PCR for TB can speed diagnosis
 
 <br>
 
@@ -983,15 +975,15 @@ TB joint infections are easily missed because they're chronic and look like infl
 **Waldvogel Classification (by pathogenesis)**
 
 1.  **Hematogenous osteomyelitis**
-    -   Most common in children; also in IVDU, bacteremic adults
-    -   Metaphysis of long bones common
-    -   Often single organism (S. aureus)
+    - Most common in children; also in IVDU, bacteremic adults
+    - Metaphysis of long bones common
+    - Often single organism (S. aureus)
 2.  **Osteomyelitis secondary to contiguous focus**
-    -   Adjacent soft tissue, bone, or joint infection
-    -   Common in diabetic foot, post-surgical
+    - Adjacent soft tissue, bone, or joint infection
+    - Common in diabetic foot, post-surgical
 3.  **Osteomyelitis with vascular insufficiency**
-    -   Vascular disease, severe diabetes, venous insufficiency
-    -   Polymicrobial common
+    - Vascular disease, severe diabetes, venous insufficiency
+    - Polymicrobial common
 :::
 
 ::: {.column width="50%"}
@@ -1642,18 +1634,18 @@ Prosthetic joint infections are complex and outcomes depend on early diagnosis, 
 **The "Three Commandments" of Bone and Joint Infection**
 
 1.  **Diagnosis First, Therapy Second**
-    -   Aspiration/biopsy before empirical antibiotics when possible
-    -   Know the organism—this guides optimal therapy
-    -   Culture and susceptibility are non-negotiable
+    - Aspiration/biopsy before empirical antibiotics when possible
+    - Know the organism—this guides optimal therapy
+    - Culture and susceptibility are non-negotiable
 2.  **Combine Medical and Surgical Approaches**
-    -   Antibiotics + source control (drainage, debridement, exchange)
-    -   Neither alone is sufficient
-    -   Surgical and medical teams must communicate
+    - Antibiotics + source control (drainage, debridement, exchange)
+    - Neither alone is sufficient
+    - Surgical and medical teams must communicate
 3.  **Duration and Bioavailability Matter**
-    -   High-dose IV therapy for bone/joint penetration
-    -   Transition to oral with proven bioavailability (fluoroquinolone, linezolid, etc.)
-    -   Shorter durations are evidence-supported for streptococci; Staph needs longer
-    -   Rifampin for biofilm-related infections (PJI, chronic OM)
+    - High-dose IV therapy for bone/joint penetration
+    - Transition to oral with proven bioavailability (fluoroquinolone, linezolid, etc.)
+    - Shorter durations are evidence-supported for streptococci; Staph needs longer
+    - Rifampin for biofilm-related infections (PJI, chronic OM)
 
 ::: notes
 These three principles underpin all successful outcomes in bone and joint infections. Rushing to empirical broad-spectrum antibiotics without diagnosis, neglecting source control, or using suboptimal bioavailability in oral phase leads to failure. The evidence from OVIVA (osteomyelitis), Zimmerli (PJI), Bernard (vertebral OM), and Gjika (septic arthritis) supports shorter, more targeted therapy with high bioavailability agents. Apply these principles and outcomes improve.
