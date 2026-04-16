@@ -2199,7 +2199,7 @@ Obtaining multiple tissue samples from different sites increases diagnostic yiel
 The diagnostic algorithm balances speed with accuracy. A patient with acute fever, purulent drainage from sinus tract, and WBC 10,000 in synovial fluid has PJI until proven otherwise—go to surgery. A patient with insidious pain, elevated ESR, but negative initial aspiration might warrant repeat aspiration or observation. Culture-negative results require correlation with clinical suspicion and operative findings.
 :::
 
-## Treatment Algorithm: <br> DAIR vs. One-Stage vs. Two-Stage Exchange
+## Treatment Algorithm: <br> DAIR vs. One-Stage vs. Two-Stage Exchange {.smaller}
 
 <br>
 
