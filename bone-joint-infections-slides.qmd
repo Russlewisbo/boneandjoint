@@ -2201,8 +2201,6 @@ The diagnostic algorithm balances speed with accuracy. A patient with acute feve
 
 ## Treatment Algorithm: <br> DAIR vs. One-Stage vs. Two-Stage Exchange {.smaller}
 
-<br>
-
 -   **DAIR (Debridement, Antibiotics, Implant Retention)**
 
     -   **Indications:** Early infection (\<4 weeks), acute hematogenous (if caught early), patient refuses exchange
@@ -2243,18 +2241,18 @@ The choice of surgical strategy depends on the infection (early vs. chronic), or
 
 <br>
 
-+-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| Organism    | IV Phase                                                                     | Oral/Suppressive Phase                                                       | Duration                                             |
-+=============+==============================================================================+==============================================================================+======================================================+
-| **MSSA**    | Nafcillin 2g q4h or Cefazolin 2g q8h                                         | Cephalexin 500-750 PO q6h OR Levofloxacin 750 daily + Rifampin 600 daily     | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
-+-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| **MRSA**    | Vancomycin 15-20 mg/kg q8-12h (AUC/MIC 400-600) OR Daptomycin 10 mg/kg daily | Linezolid 600 mg PO q12h OR Levofloxacin 750 + Rifampin 600 (if susceptible) | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
-+-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| **CoNS**    | Vancomycin 15-20 mg/kg q8-12h OR Daptomycin 10 mg/kg daily                   | Linezolid 600 mg q12h OR Levofloxacin + Rifampin                             | IV 2 wks, then PO 4-6 wks (DAIR); longer if exchange |
-+-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
++-------------+-------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
+| Organism    | IV Phase                                                                      | Oral/Suppressive Phase                                                       | Duration                                             |
++=============+===============================================================================+==============================================================================+======================================================+
+| **MSSA**    | Cefazolin 2g q8h or oxacillin/nafcillin 2g q4h                                | Cephalexin 500-750 PO q6h OR Levofloxacin 750 daily + Rifampin 600 daily     | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
++-------------+-------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
+| **MRSA**    | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h (AUC/MIC 400-600)  | Linezolid 600 mg PO q12h OR Levofloxacin 750 + Rifampin 600 (if susceptible) | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
++-------------+-------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
+| **CoNS**    | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h                    | Linezolid 600 mg q12h OR Levofloxacin + Rifampin                             | IV 2 wks, then PO 4-6 wks (DAIR); longer if exchange |
++-------------+-------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
 
-::: notes
-The organisms guide therapy. MSSA responds well to nafcillin or cephalosporins. MRSA and CoNS require vancomycin or daptomycin initially. Rifampin is often added to the oral phase because of its biofilm activity, though evidence for benefit is stronger in PJI than elsewhere. Duration depends on surgical strategy: DAIR may be shorter if successful; two-stage exchange typically 6 weeks IV spacer + 4-6 weeks final antibiotics = 10-12 weeks total.
+::: aside
+The organisms guide therapy. MSSA responds well to cephalosporins or anti-staphylococcal penicllins. MRSA and CoNS require daptomycin or vancomycin initially. Rifampin is often added to the oral phase because of its biofilm activity, though evidence for benefit is stronger in PJI than elsewhere. Duration depends on surgical strategy: DAIR may be shorter if successful; two-stage exchange typically 6 weeks IV spacer + 4-6 weeks final antibiotics = 10-12 weeks total.
 :::
 
 ## Pathogen-Specific Therapy for PJI (Part 2)
