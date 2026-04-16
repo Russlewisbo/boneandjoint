@@ -2073,33 +2073,89 @@ The modifiable risk factors (obesity, DM control) should be optimized pre-operat
 Serum markers help guide suspicion and are useful in combination (ESR + CRP elevated together = higher pretest probability). However, aseptic loosening can also elevate these, so they're not diagnostic. Aspiration is always required if PJI suspected. D-dimer is being studied as a rapid assessment tool before aspiration—a negative D-dimer might lower suspicion, but data are limited.
 :::
 
-## Synovial Fluid Analysis in PJI
+## Synovial fluid analysis in PJI
 
 <br>
 
-**Key Differences from Native Joint** - Lower WBC threshold for concern (\>2,000 /μL suggestive, vs. \>50,000 for native joint) - PMN % \>70% supportive but not diagnostic - Glucose less useful than in native joint - Negative culture doesn't exclude PJI (10-30% culture-negative in some series)
+::::: columns
+::: {.column width="50%"}
+![](bone-joint-infections-images/aspiration 3.png){fig-align="center" width="350"}
+:::
 
-**Novel Biomarkers (Synovial)** - **Alpha-defensin:** Sensitivity 95-97%, Specificity 97-99%; excellent discrimination - **Leukocyte esterase:** Rapid (15 min), high sensitivity/specificity - **IL-6, IL-8:** Research markers; not yet standard clinical use - **PCR:** Culture-independent; positive if organism DNA detected
+::: {.column width="50%"}
+**Key differences from native joint**
 
-::: notes
+-   Lower WBC threshold for concern (\>2,000 /μL suggestive, vs. \>50,000 for native joint)
+
+-   PMN % \>70% supportive but not diagnostic
+
+-   Glucose less useful than in native joint
+
+-   Negative culture doesn't exclude PJI (10-30% culture-negative in some series)
+
+**Novel biomarkers (synovial)**
+
+-   **Alpha-defensin:** Sensitivity 95-97%, Specificity 97-99%; excellent discrimination
+
+-   **Leukocyte esterase:** Rapid (15 min), high sensitivity/specificity
+
+-   **IL-6, IL-8:** Research markers; not yet standard clinical use
+
+-   **PCR:** Culture-independent; positive if organism DNA detected
+:::
+:::::
+
+::: aside
 Alpha-defensin is an antimicrobial peptide elevated in infected joints; it's highly sensitive and specific for PJI and available as a simple test (LE.culture system). Leukocyte esterase strip testing is cheaper and faster but perhaps less sensitive than alpha-defensin. Molecular testing (PCR) is especially useful for culture-negative cases or fastidious organisms (Cutibacterium).
 :::
 
-## Intraoperative Diagnosis: Sonication and Culturing Strategy
+## Intraoperative diagnosis: Sonication and culturing strategy
 
 <br>
 
-**Sonication of Explanted Prosthesis** - Ultrasonic disaggregation of biofilm from explanted implant - Increases culture sensitivity by \~20% vs. standard tissue culture - Sends fluid for culture, Gram stain, PCR - Can be done simultaneously with standard cultures
-
-**Tissue/Fluid Culture Strategy** - Obtain ≥3-5 tissue samples (each in separate culture bottle) - Samples from different locations (synovium, periprosthetic, opposite side) - Aerobic and anaerobic cultures - Hold cultures minimum 14 days (CoNS, Cutibacterium slow) - Gram stain, AFB if TB risk
-
-**Molecular Diagnostics** - PCR for common organisms - 16S rDNA, mNGS for culture-negative/fastidious organisms - Useful especially for Cutibacterium acnes
-
-::: aside
-Trampuz et al., *N Engl J Med*, 2007
+::::: columns
+::: {.column width="35%"}
+![](bone-joint-infections-images/sonication.png){width="600"}
 :::
 
-::: notes
+::: {.column width="65%"}
+-   **Sonication of explanted prosthesis**
+
+    -   Ultrasonic disaggregation of biofilm from explanted implant
+
+    -   Increases culture sensitivity by \~20% vs. standard tissue culture
+
+    -   Sends fluid for culture, Gram stain, PCR
+
+    -   Can be done simultaneously with standard cultures
+
+-   **Tissue/fluid culture strategy**
+
+    -   Obtain ≥3-5 tissue samples (each in separate culture bottle)
+
+    -   Samples from different locations (synovium, periprosthetic, opposite side)
+
+    -   Aerobic and anaerobic cultures
+
+    -   Hold cultures minimum 14 days (CoNS, Cutibacterium slow)
+
+    -   Gram stain, AFB if TB risk
+
+-   **Molecular diagnostics**
+
+    -   PCR for common organisms
+
+    -   16S rDNA, mNGS for culture-negative/fastidious organisms
+
+    -   Useful especially for *Cutibacterium acnes*
+:::
+:::::
+
+::: aside
+[@Trampuz2007]
+:::
+
+::: aside
 Obtaining multiple tissue samples from different sites increases diagnostic yield and confidence (≥2 positive samples = diagnostic for PJI per EBJIS criteria). Sonication is increasingly standard practice in PJI surgery centers. The 14-day holding period is essential—don't sign out as negative at 48 hours. CoNS and Cutibacterium may take 5-7 days to grow.
 :::
 
@@ -2107,29 +2163,79 @@ Obtaining multiple tissue samples from different sites increases diagnostic yiel
 
 <br>
 
-**Step 1: Clinical Assessment** - Symptoms (pain, drainage, warmth, swelling) - Labs (CRP, ESR) - Imaging (loosening, peri-implant lucencies, sinus tract)
+-   **Step 1: Clinical assessment**
 
-**Step 2: Joint Aspiration** - Urgent if acute symptoms or high suspicion - Synovial fluid: WBC, PMN, glucose, culture, Gram stain - Novel biomarkers (alpha-defensin) if available - Molecular testing if culture-negative suspected
+    -   Symptoms (pain, drainage, warmth, swelling)
 
-**Step 3: Imaging** - X-ray (baseline, assess loosening) - MRI/CT if diagnosis unclear or surgical planning needed
+    -   Labs (CRP, ESR)
 
-**Step 4: Decision Point** - If high pretest probability: proceed to operative aspiration/biopsy - If intermediate: repeat labs in 1-2 weeks or proceed to surgery - If low: conservative management, serial follow-up
+    -   Imaging (loosening, peri-implant lucencies, sinus tract)
 
-::: notes
+-   **Step 2: Joint aspiration**
+
+    -   Urgent if acute symptoms or high suspicion
+
+    -   Synovial fluid: WBC, PMN, glucose, culture, Gram stain
+
+    -   Novel biomarkers (alpha-defensin) if available
+
+    -    Molecular testing if culture-negative suspected
+
+-   **Step 3: Imaging**
+
+    -   X-ray (baseline, assess loosening)
+
+    -   MRI/CT if diagnosis unclear or surgical planning needed
+
+-   **Step 4: Decision point**
+
+    -   If high pretest probability: proceed to operative aspiration/biopsy
+
+    -   If intermediate: repeat labs in 1-2 weeks or proceed to surgery
+
+    -   If low: conservative management, serial follow-up
+
+::: aside
 The diagnostic algorithm balances speed with accuracy. A patient with acute fever, purulent drainage from sinus tract, and WBC 10,000 in synovial fluid has PJI until proven otherwise—go to surgery. A patient with insidious pain, elevated ESR, but negative initial aspiration might warrant repeat aspiration or observation. Culture-negative results require correlation with clinical suspicion and operative findings.
 :::
 
-## Treatment Algorithm: DAIR vs. One-Stage vs. Two-Stage Exchange
+## Treatment Algorithm: <br> DAIR vs. One-Stage vs. Two-Stage Exchange
 
 <br>
 
-**DAIR (Debridement, Antibiotics, Implant Retention)** - **Indications:** Early infection (\<4 weeks), acute hematogenous (if caught early), patient refuses exchange - **Procedure:** Thorough debridement, modular exchange (if possible), preservation of primary implant - **Success:** 50-70% eradication (varies by organism, timing, duration) - **Advantages:** Single surgery, preservation of bone stock - **Disadvantages:** Failure rates 30-50%; requires close follow-up
+-   **DAIR (Debridement, Antibiotics, Implant Retention)**
 
-**One-Stage Exchange** - **Growing evidence for success (70-90%)** - **Indications:** Selected cases (good bone stock, controlled infection, no systemic sepsis, adequate soft tissue) - **Advantages:** Single surgery, patient tolerates better - **Disadvantages:** Technically demanding, higher morbidity if infection persists
+    -   **Indications:** Early infection (\<4 weeks), acute hematogenous (if caught early), patient refuses exchange
 
-**Two-Stage Exchange** (Gold Standard for Chronic PJI) - **Procedure:** Explant → 6-week antibiotic spacer phase → Reimplantation - **Success:** 85-95% eradication - **Advantages:** Highest success rate, bone stock remodeling, staged risk - **Disadvantages:** Two surgeries, extended treatment period, temporary disability
+    -   **Procedure:** Thorough debridement, modular exchange (if possible), preservation of primary implant
 
-::: notes
+    -   **Success:** 50-70% eradication (varies by organism, timing, duration)
+
+    -   **Advantages:** Single surgery, preservation of bone stock
+
+    -   **Disadvantages:** Failure rates 30-50%; requires close follow-up
+
+-   **One-Stage Exchange** - **Growing evidence for success (70-90%)**
+
+    -   **Indications:** Selected cases (good bone stock, controlled infection, no systemic sepsis, adequate soft tissue)
+
+    -   **Advantages:** Single surgery, patient tolerates better
+
+    -   **Disadvantages:** Technically demanding, higher morbidity if infection persists
+
+-   **Two-Stage Exchange** (Gold Standard for Chronic PJI)
+
+    -   **Procedure:** Explant → 6-week antibiotic spacer phase → Reimplantation
+
+    -   **Success:** 85-95% eradication
+
+    -   **Advantages:** Highest success rate, bone stock remodeling, staged risk
+
+    -    **Disadvantages:** Two surgeries, extended treatment period, temporary disability
+
+    <br> <br>
+
+::: aside
 The choice of surgical strategy depends on the infection (early vs. chronic), organism (biofilm burden), patient factors (age, comorbidities), and bone quality. DAIR works best in early infections caught within 2 weeks and with susceptible organisms like streptococci. Two-stage is the traditional gold standard for chronic infections with high success rates. One-stage exchange is gaining acceptance as outcomes data accumulate and surgical techniques improve.
 :::
 
