@@ -10,7 +10,6 @@ format:
     controls: true
     pointer: true
     center-title-slide: false
-    transition: fade
     transition-speed: fast
     scrollable: true
     slide-number: true
@@ -355,7 +354,7 @@ Polyarticular septic arthritis is often missed initially if the clinician focuse
 <br>
 
 ::: aside
-This algorithm prioritizes speed. Joint aspiration is both diagnostic and therapeutic—don't delay it for imaging unless deep anatomy (hip) requires ultrasound guidance. Gram stain results within minutes drive empirical therapy choices. Blood cultures take 24-48 hours but are essential for confirmation and potentially changing therapy. Don't assume negative cultures mean no infection; 10-20% of cases are culture-negative despite synovial fluid showing sepsis.
+Joint aspiration is both diagnostic and therapeutic—don't delay it for imaging unless deep anatomy (hip) requires ultrasound guidance. Gram stain results within minutes drive empirical therapy choices. Blood cultures take 24-48 hours but are essential for confirmation and potentially changing therapy. Don't assume negative cultures mean no infection; 10-20% of cases are culture-negative despite synovial fluid showing sepsis.
 :::
 
 ## Laboratory findings: Peripheral blood
@@ -399,7 +398,7 @@ Septic fluid is inflammatory (high WBC, high PMN percentage) with very high prot
 **Margaretten et al., JAMA 2007 (2302 cases)** [@Margaretten2007]
 
 | WBC Count          | Sensitivity | Specificity | Notes                        |
-|------------------|------------------|------------------|--------------------|
+|------------------|------------------|------------------|-------------------|
 | \>50,000           | 62%         | 92%         | High spec, misses \~40%      |
 | \>25,000           | 77%         | 73%         | Better sensitivity           |
 | PMN \>90%          | 73%         | 79%         | Complements WBC count        |
@@ -450,7 +449,7 @@ This landmark study is cited widely because it demolishes the myth of a single d
 Culture remains the gold standard because it allows organism identification and susceptibility testing. However, 10-20% of septic arthritis cases are culture-negative despite clinical and synovial fluid evidence of infection. This is increasingly recognized and drives the use of molecular methods. Never withhold therapy based on negative cultures if clinical picture is convincing. Always inoculate blood culture bottles (or holding medium like thioglycollate) if joint culture bottles are unavailable—this increases yield substantially.
 :::
 
-## Molecular diagnostics: PCR and beyond
+## Molecular diagnostics: PCR and beyond {.smaller}
 
 <br>
 
@@ -528,7 +527,7 @@ Molecular methods are transformative but not yet widely integrated into routine 
 X-rays often appear normal early, which can falsely reassure. Don't exclude septic arthritis based on normal X-rays in the first 48-72 hours. MRI is excellent if you need to confirm a hip infection or assess damage extent, but it shouldn't delay aspiration. US-guided aspiration increases first-tap success, especially in hips and shoulders. Avoid delays in aspiration waiting for imaging; if clinical suspicion is high and joint is accessible, aspirate. Imaging guides the extent of damage and helps explain prognosis, not diagnosis.
 :::
 
-## Clinical case
+## Clinical case {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -975,7 +974,7 @@ TB joint infections are easily missed because they're chronic and look like infl
 
 # Part II: Osteomyelitis {background-color="#b20e10"}
 
-## Classification Systems: Waldvogel and Cierny-Mader
+## Classification systems: Waldvogel and Cierny-Mader
 
 <br>
 
