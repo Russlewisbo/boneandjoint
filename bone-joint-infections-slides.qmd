@@ -380,21 +380,21 @@ Joint aspiration is both diagnostic and therapeutic—don't delay it for imaging
 
 <br>
 
-+------------------------+------------------------------------------------------------------+
-| Parameter              | Typical finding                                                  |
-+========================+==================================================================+
-| WBC                    | Often elevated (\>12,000) but can be normal; higher in S. aureus |
-+------------------------+------------------------------------------------------------------+
-| ESR                    | Elevated \>90 mmHg in septic arthritis; rises within 24-48 hours |
-+------------------------+------------------------------------------------------------------+
-| CRP                    | Elevated 10-15 mg/dL; more sensitive than ESR in early infection |
-+------------------------+------------------------------------------------------------------+
-| Procalcitonin          | Marked elevation (\>2 ng/mL) suggests bacteremia                 |
-+------------------------+------------------------------------------------------------------+
-| Blood cultures         | Positive in 50-60%                                               |
-+------------------------+------------------------------------------------------------------+
-| Lactate                | Elevated if bacteremic/septic state                              |
-+------------------------+------------------------------------------------------------------+
++----------------+------------------------------------------------------------------+
+| Parameter      | Typical finding                                                  |
++================+==================================================================+
+| WBC            | Often elevated (\>12,000) but can be normal; higher in S. aureus |
++----------------+------------------------------------------------------------------+
+| ESR            | Elevated \>90 mmHg in septic arthritis; rises within 24-48 hours |
++----------------+------------------------------------------------------------------+
+| CRP            | Elevated 10-15 mg/dL; more sensitive than ESR in early infection |
++----------------+------------------------------------------------------------------+
+| Procalcitonin  | Marked elevation (\>2 ng/mL) suggests bacteremia                 |
++----------------+------------------------------------------------------------------+
+| Blood cultures | Positive in 50-60%                                               |
++----------------+------------------------------------------------------------------+
+| Lactate        | Elevated if bacteremic/septic state                              |
++----------------+------------------------------------------------------------------+
 
 ::: aside
 Peripheral markers are nonspecific but support the diagnosis. A normal WBC doesn't exclude septic arthritis—up to 30% have WBC \<12,000. ESR is slow to rise, so absence in first 24 hours doesn't exclude disease. CRP is more sensitive early. Procalcitonin is high in septic arthritis (not just inflammation from RA or crystal disease), making it useful for differentiation. Positive blood culture changes management—indicates Staph aureus bacteremia with likely endocarditis risk, requiring echo and longer therapy consideration.
@@ -606,7 +606,11 @@ A 20-year-old woman presented to the emergency department with a rash involving 
 
 3.  Tenosynovitis (wrist, ankle tendons)
 
-<br> <br> ::: aside DGI should be in the differential for any young patient with polyarticular arthritis and rash. The organism is sensitive to antibiotics, so outcomes are generally good if treatment is prompt. The challenge is diagnosis—gonococcal cultures are fastidious and often negative. Blood cultures positive in \~40%, joint cultures positive in \~10-50% depending on culture media. That's why NAATs are essential. :::
+<br> <br>
+
+::: aside
+DGI should be in the differential for any young patient with polyarticular arthritis and rash. The organism is sensitive to antibiotics, so outcomes are generally good if treatment is prompt. The challenge is diagnosis—gonococcal cultures are fastidious and often negative. Blood cultures positive in \~40%, joint cultures positive in \~10-50% depending on culture media. That's why NAATs are essential.
+:::
 
 ## Gonococcal arthritis: Diagnosis and treatment
 
@@ -1084,7 +1088,7 @@ The Waldvogel classification is still used because it guides management and prog
 This staging is more detailed and helps guide surgical planning. A Type I, A-host osteomyelitis might respond to antibiotics alone. A Type IV, C-host patient (e.g., extensive debridement, amputation) may warrant amputation rather than limb-salvage. The C-host classification is important ethically—acknowledge when aggressive surgery would worsen quality of life.
 :::
 
-## Acute hematogenous osteomyelitis: Clinical presentation
+## Acute hematogenous osteomyelitis: Clinical presentation {.smaller}
 
 <br>
 
@@ -1358,7 +1362,7 @@ Gram-negative OM is challenging because fluoroquinolones, while oral-available, 
 
 <br>
 
-![](bone-joint-infections-images/OVIVA.png)
+![](bone-joint-infections-images/OVIVA.png){fig-align="center" width="800"}
 
 **Design**: RCT, 200 adult patients with bone/joint infection
 
@@ -1381,7 +1385,7 @@ Gram-negative OM is challenging because fluoroquinolones, while oral-available, 
     -   Clinical improvement within 2 weeks
 
 ::: aside
- <center> [@li2019] </center>
+[@li2019]
 :::
 
 ## Oral therapy regimens for osteomyelitis (Part 1)
@@ -1424,36 +1428,72 @@ The OVIVA trial used fluoroquinolones + rifampin for Staph OM because of excelle
 For enterobacteria and Pseudomonas, fluoroquinolone monotherapy (especially levofloxacin 750 mg daily) has decent outcomes in OM because of excellent bone penetration. However, resistance development is a risk—add rifampin for combination therapy if biofilm suspected. Always ensure adequate absorptive capacity (no severe diarrhea, functional GI tract).
 :::
 
-## Rifampin in Bone and Joint Infections
+## Rifampin in bone and joint infections {.smaller}
 
 <br>
 
-**Unique Properties** - Excellent intracellular penetration - Kills biofilm-associated bacteria (10-100× better than monotherapy) - Penetrates bone better than most antibiotics - Achieves high synovial concentrations
+::::: columns
+::: {.column width="50%"}
+![](bone-joint-infections-images/rifampin.png)
+:::
 
-**Rules for Use** 1. **NEVER monotherapy** — rapidly selects resistance 2. Always combine with second agent (fluoroquinolone, beta-lactam, or linezolid) 3. Monitor for drug interactions (CYP3A4 inducer; reduces protease inhibitors, warfarin, many others) 4. Monitor hepatotoxicity (AST/ALT baseline and repeat) 5. Can cause orange discoloration of body fluids (benign)
+::: {.column width="50%"}
+-   **Unique Properties**:
+
+    -   Excellent intracellular penetration, kills biofilm-associated bacteria (10-100× better than monotherapy)
+
+    -   Penetrates bone better than most antibiotics - Achieves high synovial concentrations
+
+-   **Rules for Use**
+
+    -   **NEVER monotherapy** — rapidly selects resistance
+
+    -   Always combine with second agent (fluoroquinolone, beta-lactam, or linezolid)
+
+    -   Monitor for drug interactions (CYP3A4 inducer; reduces protease inhibitors, warfarin, many others)
+
+    -   Monitor hepatotoxicity (AST/ALT baseline and repeat)
+
+    -   Can cause orange discoloration of body fluids (benign)
 
 **Dosing:** 600 mg IV/PO daily
+:::
+:::::
 
-::: notes
-Rifampin is a game-changer for biofilm infections like osteomyelitis and prosthetic joint infections. But it MUST be paired with another agent. Resistance emerges within days if used alone. Warn patients about orange urine/saliva and check for interactions before prescribing. The CYP3A4 induction is significant—monitor INR if on warfarin, virologic response if on ARVs.
+::: aside
+Warn patients about orange urine/saliva and check for interactions before prescribing. The CYP3A4 induction is significant—monitor INR if on warfarin, virologic response if on ARVs.
 :::
 
-## Vertebral Osteomyelitis Treatment Duration
+## Vertebral osteomyelitis treatment duration {.smaller}
 
 <br>
 
-**Bernard et al., Lancet 2015** (RCT, vertebral OM) - Compared 6 weeks vs. 12 weeks IV antibiotics - Primary outcome: clinical and microbiologic cure at 2 years - 6-week group: 82% cure - 12-week group: 84% cure - **Non-inferiority of 6 weeks demonstrated**
-
-**Practical Implications** - 6 weeks IV (or IV → PO switch) standard for vertebral OM - No benefit to prolonging beyond 6 weeks - Imaging (MRI) normalizes slowly (weeks to months); don't use as endpoint - Assess by clinical improvement + inflammatory marker decline
-
-**Caveats** - Requires adequate source control (rarely needs surgery) - Monitor for spinal cord compression (urgent imaging/decompression needed) - TB and fungal OM may require longer therapy
-
-::: aside
-Bernard et al., *Lancet*, 2015
+::::: columns
+::: {.column width="50%"}
+-   **Bernard et al., Lancet 2015** (RCT, vertebral OM)
+    -   Compared 6 weeks vs. 12 weeks IV antibiotics
+    -   Primary outcome: clinical and microbiologic cure at 2 years
+    -   6-week group: 82% cure
+    -   12-week group: 84% cure
+    -   **Non-inferiority of 6 weeks demonstrated**
+-   **Practical Implications**
+    -   6 weeks IV (or IV → PO switch) standard for vertebral OM
+    -   No benefit to prolonging beyond 6 weeks
+    -   Imaging (MRI) normalizes slowly (weeks to months); don't use as endpoint
+    -   Assess by clinical improvement + inflammatory marker decline
+-   **Caveats**
+    -   Requires adequate source control (rarely needs surgery)
+    -   Monitor for spinal cord compression (urgent imaging/decompression needed)
+    -   TB and fungal OM may require longer therapy
 :::
 
-::: notes
-Vertebral OM is usually hematogenous and single-organism (S. aureus common). Surgery is rarely needed unless there's instability or neurologic compression. The 6-week therapy is adequate if the patient is improving clinically and inflammatory markers declining. Don't be fooled by persistent MRI abnormalities—they lag clinical improvement by weeks.
+::: {.column width="50%"}
+![](bone-joint-infections-images/fluid_collection.png){fig-align="center" width="350"}
+:::
+:::::
+
+::: aside
+Vertebral OM is usually hematogenous and single-organism (S. aureus common). Surgery is rarely needed unless there's instability or neurologic compression. The 6-week therapy is adequate if the patient is improving clinically and inflammatory markers declining. Don't be fooled by persistent MRI abnormalities—they lag clinical improvement by weeks [@bernard2015].
 :::
 
 ## Diabetic Foot Osteomyelitis: Epidemiology and Pathogenesis
@@ -1953,7 +1993,12 @@ These landmark trials and papers form the evidence backbone for modern practice.
 5.  **By 7-10 days:** Clinical improvement visible? Continue course.
 6.  **Consider early:** Oral step-down if organism susceptible and improving.
 
-**The Red Flags** - Hip infection with delayed diagnosis → permanent necrosis - IVDU with fever and back pain → vertebral OM - Diabetic with probe-to-bone → osteomyelitis present - PJI with persistent fever despite surgery → inadequate source control or biofilm
+**The Red Flags**
+
+-   Hip infection with delayed diagnosis → permanent necrosis
+-   IVDU with fever and back pain → vertebral OM
+-   Diabetic with probe-to-bone → osteomyelitis present
+-   PJI with persistent fever despite surgery → inadequate source control or biofilm
 
 ::: notes
 This rapid assessment framework integrates diagnosis, therapy, and clinical monitoring into a coherent workflow. The red flags are the "don't miss" presentations that, if overlooked, lead to permanent disability or death. Keep them front-of-mind when evaluating febrile patients with joint or bone complaints.
