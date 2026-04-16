@@ -1501,7 +1501,7 @@ For enterobacteria and Pseudomonas, fluoroquinolone monotherapy (especially levo
 
     -   Can cause orange discoloration of body fluids (benign)
 
-**Dosing:** 600 mg IV/PO daily
+-   **Dosing:** 600 mg IV/PO daily
 :::
 :::::
 
@@ -1514,6 +1514,10 @@ Warn patients about orange urine/saliva and check for interactions before prescr
 <br>
 
 ::::: columns
+::: {.column width="50%"}
+![](images/clipboard-2144550722.png){width="350"}
+:::
+
 ::: {.column width="50%"}
 -   **Bernard et al., Lancet 2015** (RCT, vertebral OM)
     -   Compared 6 weeks vs. 12 weeks IV antibiotics
@@ -1531,20 +1535,16 @@ Warn patients about orange urine/saliva and check for interactions before prescr
     -   Monitor for spinal cord compression (urgent imaging/decompression needed)
     -   TB and fungal OM may require longer therapy
 :::
-
-::: {.column width="50%"}
-![](bone-joint-infections-images/fluid_collection.png){fig-align="center" width="350"}
-:::
 :::::
 
 ::: aside
-Vertebral OM is usually hematogenous and single-organism (S. aureus common). Surgery is rarely needed unless there's instability or neurologic compression. The 6-week therapy is adequate if the patient is improving clinically and inflammatory markers declining. Don't be fooled by persistent MRI abnormalities—they lag clinical improvement by weeks [@bernard2015].
+[@bernard2015]
 :::
 
-## Diabetic foot osteomyelitis: <br> Epidemiology and pathogenesis {.smaller}
+## Diabetic foot osteomyelitis {.smaller}
 
 ::::: columns
-::: {.column width="50%"}
+::: {.column width="65%"}
 -   **Risk Factors**
     -   Ulceration (duration \>4 weeks increases OM risk \~40%)
     -   Neuropathy (loss of protective sensation)
@@ -1562,7 +1562,7 @@ Vertebral OM is usually hematogenous and single-organism (S. aureus common). Sur
     -   Rising incidence with obesity and IVDU epidemic
 :::
 
-::: {.column width="50%"}
+::: {.column width="35%"}
 ![](bone-joint-infections-images/diabetic_foot.png){fig-align="center" width="300"}
 :::
 :::::
@@ -1679,7 +1679,7 @@ The choice between medical and surgical management should be individualized. A p
 Culture-negative OM is challenging but not uncommon. Don't give up on diagnosis—persistent fever, abnormal imaging, and elevated markers in the setting of clinical OM warrant continued investigation. Molecular diagnostics (16S rDNA PCR, mNGS) are increasingly available and can identify organisms missed by conventional culture. Prior antibiotics are the most common reason for negative cultures; ask about recent therapy.
 :::
 
-## Special forms: Vertebral osteomyelitis (spondylodiscitis) {.smaller}
+## Vertebral osteomyelitis (spondylodiscitis) {.smaller}
 
 <br>
 
@@ -1769,11 +1769,43 @@ Sickle cell patients with osteomyelitis need cover Salmonella empirically. Most 
 
 <br>
 
--   **Epidemiology** - 10-20% of TB patients have skeletal involvement - Spine: lumbar 50%, thoracic 49%, cervical 1% - Hip, knee: rarer - Increasing in TB-endemic areas; re-emerging in developed countries
+::::: columns
+::: {.column width="75%"}
+-   **Epidemiology**
 
--   **Pathogenesis** - Hematogenous seeding (usually from pulmonary TB) - Affects vertebral bodies (not disc initially) - Slow progression with granulomatous inflammation - Can cause severe kyphosis, spinal cord compression
+    -   10-20% of TB patients have skeletal involvement
 
--   **Diagnosis** - MRI shows vertebral involvement - Biopsy: caseating granulomas (pathognomonic) - Culture: slow (4-8 weeks); PCR faster - Always evaluate for pulmonary TB concurrently
+    -   Spine: lumbar 50%, thoracic 49%, cervical 1%
+
+    -   Hip, knee: rarer
+
+    -   Increasing in TB-endemic areas; re-emerging in developed countries
+
+-   **Pathogenesis**
+
+    -   Hematogenous seeding (usually from pulmonary TB)
+
+    -   Affects vertebral bodies (not disc initially)
+
+    -   Slow progression with granulomatous inflammation
+
+    -   Can cause severe kyphosis, spinal cord compression
+
+-   **Diagnosis**
+
+    -   MRI shows vertebral involvement
+
+    -   Biopsy: caseating granulomas (pathognomonic)
+
+    -   Culture: slow (4-8 weeks); PCR faster
+
+    -   Always evaluate for pulmonary TB concurrently
+:::
+
+::: {.column width="25%"}
+![](bone-joint-infections-images/Pott's.png){fig-align="center"}
+:::
+:::::
 
 ::: aside
 TB OM is easy to miss because it's chronic and imaging-intensive work-up is needed. Always ask about TB exposure, cough, constitutional symptoms in patients with chronic vertebral pain. Early diagnosis and anti-TB therapy prevent permanent neurologic damage. Pyrazinamide is critical for TB OM (penetrates bone well); standard TB regimens are 2 months intensive (HRZE) + 4 months continuation (HR).
@@ -1839,9 +1871,27 @@ IVDU-related OM is a growing problem. The organisms are predictable (Staph, Pseu
 
 ::::: columns
 ::: {.column width="50%"}
-**Incidence** - 1-2% of primary total joint arthroplasties (TJA) - Rising due to aging population, increased TJA volume - Costs: \$50,000-100,000+ per episode - Can be devastating (functional loss, multiple surgeries, potential amputation)
+**Incidence**
 
-**EBJIS Definition (European Bone and Joint Infection Society)** - Major criterion: Positive culture of ≥2 tissue/fluid samples - OR purulent joint fluid - OR sinus tract communicating to joint - Plus one minor criterion: elevated inflammatory markers + symptoms
+-   1-2% of primary total joint arthroplasties (TJA)
+
+-   Rising due to aging population, increased TJA volume
+
+-   Costs: \$50,000-100,000+ per episode
+
+-   Can be devastating (functional loss, multiple surgeries, potential amputation)
+
+**EBJIS Definition (European Bone and Joint Infection Society)**
+
+-   Major criterion: Positive culture of ≥2 tissue/fluid samples
+
+    -    *OR* purulent joint fluid
+
+    -   *OR* sinus tract communicating to joint
+
+-   Plus one minor criterion:
+
+    -   elevated inflammatory markers + symptoms
 :::
 
 ::: {.column width="50%"}
@@ -1850,11 +1900,15 @@ IVDU-related OM is a growing problem. The organisms are predictable (Staph, Pseu
 :::::
 
 ::: aside
-[@patel2023a]
+PJI is becoming more common and more expensive to treat. Prevention through perioperative prophylaxis is essential. Treatment is complex, often requiring surgery, and outcomes even with modern therapy are imperfect (success rates 70-90% depending on strategy). The cost and morbidity motivate aggressive prevention [@patel2023a].
 :::
 
+## Prosthetic joint infection
+
+![](bone-joint-infections-images/prosthetic_joint.png){fig-align="center" width="500"}
+
 ::: aside
-PJI is becoming more common and more expensive to treat. Prevention through perioperative prophylaxis is essential. Treatment is complex, often requiring surgery, and outcomes even with modern therapy are imperfect (success rates 70-90% depending on strategy). The cost and morbidity motivate aggressive prevention.
+[@patel2023a]
 :::
 
 ## Classification of prosthetic joint infection
@@ -1871,6 +1925,8 @@ PJI is becoming more common and more expensive to treat. Prevention through peri
 | **Chronic**            | \>4 weeks (usually months to years)  | CoNS (esp. if indolent), S. aureus, Cutibacterium (shoulder), gram-negatives | Two-stage exchange standard                       |
 +------------------------+--------------------------------------+------------------------------------------------------------------------------+---------------------------------------------------+
 
+<br>
+
 **Early vs. Chronic Distinction**
 
 -   Early: organisms typically from surgical site/inoculation
@@ -1881,16 +1937,6 @@ PJI is becoming more common and more expensive to treat. Prevention through peri
 
 ::: aside
 The classification by timing helps frame management decisions. Early infection caught within days of surgery might be salvageable with DAIR (debridement, antibiotics, implant retention). Chronic infection with established biofilm usually requires exchange. However, acute hematogenous infection (even years post-op) may respond to DAIR if caught early in the course.
-:::
-
-## Pathogenesis
-
-<br>
-
-![](bone-joint-infections-images/prosthetic_joint.png){fig-align="center"}
-
-::: aside
-[@patel2023a]
 :::
 
 ## Pathogenesis: Biofilm on prosthetic implants {.smaller}
@@ -1927,7 +1973,9 @@ The classification by timing helps frame management decisions. Early infection c
 :::
 
 ::: {.column width="50%"}
-![](bone-joint-infections-images/biofilm.png)
+<br> <br>
+
+![](bone-joint-infections-images/biofilm.png){fig-align="center" width="400"}
 :::
 :::::
 
@@ -1935,26 +1983,50 @@ The classification by timing helps frame management decisions. Early infection c
 The biofilm paradigm explains why PJI treatment requires both surgery (remove the implant and biofilm) and prolonged antibiotics (suppress remaining bacteria). Bacteria in biofilm are up to 1000× more resistant to antibiotics than free-floating cells, which is why standard durations and doses often fail. This is also why DAIR (keeping the implant) only works in early infection before mature biofilm forms.
 :::
 
-## Microbiologic Features of Prosthetic Joint Infection
+## Microbiologic features of prosthetic joint infection
 
 <br>
 
-**Most Common Organisms Overall** - **Coagulase-negative staphylococci (CoNS):** 30-40% (most common) - **Staphylococcus aureus:** 20-30% (most virulent) - **Streptococci:** 10-15% - **Gram-negative rods:** 5-10% - **Anaerobes:** 3-5% - **Culture-negative:** 5-10%
+-   **Most common organisms overall**
 
-**Site-Specific Patterns** - **Shoulder:** Cutibacterium acnes (formerly Propionibacterium), skin flora - **Knee/Hip:** CoNS, S. aureus dominate - **IVDU patients:** S. aureus (MRSA common), Pseudomonas, polymicrobial
+    -   **Coagulase-negative staphylococci (CoNS):** 30-40% (most common)
 
-**Organism-Prognosis Correlation** - CoNS: slower course, lower mortality, easier to treat - S. aureus: faster, more virulent, higher failure rates, consider endocarditis risk - Gram-negatives: challenging, require potent agents
+    -   **Staphylococcus aureus:** 20-30% (most virulent)
 
-::: notes
+    -   **Streptococci:** 10-15%
+
+    -   **Gram-negative rods:** 5-10%
+
+    -   **Anaerobes:** 3-5%
+
+    -   **Culture-negative:** 5-10%
+
+-   **Site-specific patterns**
+
+    -   **Shoulder:** *Cutibacterium acnes* (formerly Propionibacterium), skin flora
+
+    -   **Knee/Hip:** CoNS, S. aureus dominate
+
+    -    **IVDU patients:** S. aureus (MRSA common), Pseudomonas, polymicrobial
+
+-   **Organism-prognosis correlation**
+
+    -   CoNS: slower course, lower mortality, easier to treat
+
+    -   S. aureus: faster, more virulent, higher failure rates, consider endocarditis risk
+
+    -   Gram-negatives: challenging, require potent agents
+
+::: aside
 The organism matters for prognosis and therapy selection. CoNS may present insidiously with sinus drainage and mild symptoms. S. aureus presents acutely with pain, fever, systemic toxicity. Cutibacterium acnes on the shoulder may be difficult to culture (slow growth, fastidious), requiring prolonged incubation and molecular diagnostics. Culture and organism ID are critical for optimal therapy.
 :::
 
-## Risk Factors for Prosthetic Joint Infection
+## Risk factors for prosthetic joint infection
 
 <br>
 
 +----------------------------------------------+-----------------------------------------------+---------------+
-| Risk Factor                                  | Mechanism                                     | Relative Risk |
+| Risk factor                                  | Mechanism                                     | Relative risk |
 +==============================================+===============================================+===============+
 | **Obesity**                                  | Impaired immune response, wound complications | 1.5-2×        |
 +----------------------------------------------+-----------------------------------------------+---------------+
@@ -1971,7 +2043,7 @@ The organism matters for prognosis and therapy selection. CoNS may present insid
 | **Male sex** (controversial)                 | Possibly worse wound healing                  | 1.2-1.5×      |
 +----------------------------------------------+-----------------------------------------------+---------------+
 
-::: notes
+::: aside
 The modifiable risk factors (obesity, DM control) should be optimized pre-operatively. The non-modifiable factors (prior surgery, immunosuppression) should inform perioperative prophylaxis intensity and duration. Anticipate higher infection risk in obese, diabetic, or immunosuppressed patients and consider extended prophylaxis or alternative strategies.
 :::
 
@@ -1979,23 +2051,25 @@ The modifiable risk factors (obesity, DM control) should be optimized pre-operat
 
 <br>
 
-+-------------------+-------------+-------------+------------------------------------------------------------------------------+
-| Marker            | Sensitivity | Specificity | Notes                                                                        |
-+===================+=============+=============+==============================================================================+
-| **CRP**           | 85-90%      | 60-65%      | Elevated \>10 mg/L suggestive; returns to normal within weeks of eradication |
-+-------------------+-------------+-------------+------------------------------------------------------------------------------+
-| **ESR**           | 75-80%      | 50-60%      | Less specific; rises slowly; slower to normalize than CRP                    |
-+-------------------+-------------+-------------+------------------------------------------------------------------------------+
-| **D-dimer**       | 85-90%      | 40-50%      | Emerging marker; promising but not yet standard                              |
-+-------------------+-------------+-------------+------------------------------------------------------------------------------+
-| **Procalcitonin** | Variable    | Variable    | Limited data in PJI; not standard                                            |
-+-------------------+-------------+-------------+------------------------------------------------------------------------------+
-| **Combination**   | \>95%       | \>70%       | ESR + CRP improves discrimination from aseptic loosening                     |
-+-------------------+-------------+-------------+------------------------------------------------------------------------------+
++-------------------+-------------+-------------+----------------------------------------------------------------------------------+
+| Marker            | Sensitivity | Specificity | Notes                                                                            |
++===================+=============+=============+==================================================================================+
+| **CRP**           | 85-90%      | 60-65%      | Elevated \>10 mg/L suggestive; <br>returns to normal within weeks of eradication |
++-------------------+-------------+-------------+----------------------------------------------------------------------------------+
+| **ESR**           | 75-80%      | 50-60%      | Less specific; rises slowly; slower to normalize than CRP                        |
++-------------------+-------------+-------------+----------------------------------------------------------------------------------+
+| **D-dimer**       | 85-90%      | 40-50%      | Emerging marker; promising but not yet standard                                  |
++-------------------+-------------+-------------+----------------------------------------------------------------------------------+
+| **Procalcitonin** | Variable    | Variable    | Limited data in PJI; not standard                                                |
++-------------------+-------------+-------------+----------------------------------------------------------------------------------+
+| **Combination**   | \>95%       | \>70%       | ESR + CRP improves discrimination from aseptic loosening                         |
++-------------------+-------------+-------------+----------------------------------------------------------------------------------+
+
+<br>
 
 **Limitation:** No serum test rules in or out PJI; aspiration essential for diagnosis
 
-::: notes
+::: aside
 Serum markers help guide suspicion and are useful in combination (ESR + CRP elevated together = higher pretest probability). However, aseptic loosening can also elevate these, so they're not diagnostic. Aspiration is always required if PJI suspected. D-dimer is being studied as a rapid assessment tool before aspiration—a negative D-dimer might lower suspicion, but data are limited.
 :::
 
