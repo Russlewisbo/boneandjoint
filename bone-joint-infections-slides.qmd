@@ -805,7 +805,7 @@ Cefazolin is now preferrred over antistaphylococal PCNs. Nafcillin and oxacillin
     - Dose: 600 mg IV/PO q12h
     - Good joint penetration, oral available
     - Bone marrow toxicity with prolonged use (\>2 weeks)- Higher rates of thrombocytopenia when Cmin \> \~8; target: 2–7 mg/L
-    - Theoretical serotonin syndrome risk with concurrent serotonergic drugs (actually less than 0.5%)
+    - Theoretical serotonin syndrome risk with concurrent serotonergic drugs (actually less than 0.5%)[@bai2022]
 
 **Duration:** 3-4 weeks IV; consider oral switch to doxycycline + rifampin or linezolid after clinical improvement
 
