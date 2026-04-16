@@ -7,8 +7,8 @@ $font-family-sans-serif: 'Jost', Helvetica, Arial, sans-serif !default;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
   "Liberation Mono", "Courier New", monospace !default;
 $presentation-font-size-root: 24px !default;
-$presentation-font-smaller: 0.8 !default;
-$presentation-line-height: 1.0 !default;
+$presentation-font-smaller: 0.85 !default;
+$presentation-line-height: 1.02 !default;
 
 // main colors
 $body-bg: #fff !default;
@@ -17,7 +17,7 @@ $heading-color: #9B0014 !default;
 $text-muted: lighten($body-color, 30%) !default;
 
 // link colors
-$link-color: #222 !default;
+$link-color: #6b9fd4 !default;
 $link-color-hover: lighten($link-color, 10%) !default;
 
 // selection colors
@@ -154,6 +154,18 @@ $selectionColor: $selection-color !default;
 }
 
 /*-- scss:rules --*/
+
+// Color citation parentheses to match link color
+.reveal .citation {
+  color: $link-color;
+}
+
+// Ensure bullet markers are not clipped at the left edge of the slide
+.reveal ul,
+.reveal ol {
+  padding-left: 1.5em;
+}
+
 
 // Vertically center content on dark-background section divider slides
 // Uses !important to override Reveal.js scrollable slide styles

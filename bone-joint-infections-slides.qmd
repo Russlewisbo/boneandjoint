@@ -4,6 +4,7 @@ author: "Russell E. Lewis, Pharm.D."
 date: today
 format:
   revealjs:
+    smaller: true
     self-contained: true
     spotlight: true
     touch: true
@@ -62,13 +63,13 @@ These five learning objectives anchor the entire session. You should be comforta
 
 <br>
 
--   **Native Joint Infection**
+-   **Native joint infection**
 
     -   Acute bacterial arthritis (septic arthritis)
 
     -   Gonococcal and non-gonococcal arthritis
 
--   **Bone Infection**
+-   **Bone infection**
 
     -   Acute hematogenous osteomyelitis
 
@@ -76,12 +77,12 @@ These five learning objectives anchor the entire session. You should be comforta
 
     -   Vertebral osteomyelitis
 
--   **Prosthetic Implant Infection**
+-   **Prosthetic implant infection**
 
     -   Early, acute hematogenous, chronic prosthetic joint infection
 
 ::: aside
-This taxonomy reflects the Waldvogel and Cierny-Mader classifications you'll see throughout. The key distinction is the site (joint vs bone vs implant) and timing (acute vs chronic). <br> Each has different epidemiology, organisms, and management strategies. We'll go through each in depth.
+This taxonomy reflects the Waldvogel and Cierny-Mader classifications you'll see throughout. The key distinction is the site (joint vs bone vs implant) and timing (acute vs chronic). Each has different epidemiology, organisms, and management strategies. We'll go through each in depth.
 :::
 
 # Septic arthritis {background-color="#b20e10"}
@@ -338,7 +339,9 @@ The knee dominates because it's large and mobile. Hip infection is more serious 
 Polyarticular septic arthritis is often missed initially if the clinician focuses on one painful joint. A patient with RA presenting with acute knee pain might not have an RA flare—systematically examine hips, shoulders, wrists, elbows. S. aureus bacteremia can seed multiple joints, and each one needs drainage. DGI classically presents with polyarthritis. The presence of polyarticular involvement should increase suspicion for bacteremia and drive blood culture collection.
 :::
 
-## Diagnostic approach: Systematic workup
+## Diagnostic approach: Systematic workup {.smaller}
+
+<br>
 
 -   **Step 1: Clinical Suspicion**
 
@@ -428,7 +431,7 @@ Septic fluid is inflammatory (high WBC, high PMN percentage) with very high prot
 
 <br>
 
-**Margaretten et al., JAMA 2007 (2302 cases)** [@Margaretten2007]
+**JAMA 2007 (2302 cases)** [@Margaretten2007]
 
 +--------------------+--------------+--------------+------------------------------+
 | WBC Count          | Sensitivity  | Specificity  | Notes                        |
@@ -452,7 +455,7 @@ Septic fluid is inflammatory (high WBC, high PMN percentage) with very high prot
 This landmark study is cited widely because it demolishes the myth of a single diagnostic cutoff. A WBC of 40,000 with 95% PMN and low glucose is septic arthritis until proven otherwise. A WBC of 2,000 doesn't exclude it. The diagnosis is probabilistic: combine WBC count, PMN percentage, glucose, Gram stain, and clinical context. Early disease (\<24 hours) may have lower WBC counts. Immunocompromised patients may not mount high WBC responses. That's why Gram stain and culture remain critical—they're specific even if WBC is modest
 :::
 
-## Microbiologic diagnosis: Culture methods
+## Microbiologic diagnosis: Culture methods {.smaller}
 
 -   **Conventional culture (Gold standard)**
 
@@ -523,12 +526,10 @@ Culture remains the gold standard because it allows organism identification and 
 -   **Current Status:** Not standard of care; reserve for culture-negative cases or unusual presentations
 
 ::: aside
-Molecular methods are transformative but not yet widely integrated into routine practice. The cost and turnaround time are barriers. However, they're increasingly used in research and in complex cases. A 35-year-old with septic arthritis that's culture-negative despite appropriate workup? Molecular testing is reasonable. A patient with Brucella exposure or TB risk? PCR can identify organisms conventional culture might miss. As these methods become faster and cheaper, their role will expand.
+Cost and turnaround time are barriers. However, they're increasingly used in research and in complex cases. A 35-year-old with septic arthritis that's culture-negative despite appropriate workup? Molecular testing is reasonable. A patient with Brucella exposure or TB risk? PCR can identify organisms conventional culture might miss.
 :::
 
 ## Imaging in septic arthritis {.smaller}
-
-<br>
 
 ::::: columns
 ::: {.column width="50%"}
@@ -570,13 +571,15 @@ X-rays often appear normal early, which can falsely reassure. Don't exclude sept
 
 ::::: columns
 ::: {.column width="50%"}
+<br> <br>
+
 ![](bone-joint-infections-images/gonococcal.png)
 :::
 
 ::: {.column width="50%"}
 A 20-year-old woman presented to the emergency department with a rash involving the arms, legs, trunk, and scalp, which had erupted that morning. <br> <br> She also reported generalized muscle aches, fever, and pain in both ankles. Two weeks earlier, the patient had had vaginal intercourse with a new partner without barrier protection.
 
-<br> The physical examination was notable for erythematous pustules near the wrist and on the fingers (Panel A) and on the trunk, scalp, and both ankles. There was mild swelling and pain with passive motion in the right ankle and tenosynovitis involving the tendons of both ankles. Given a high suspicion for disseminated gonococcal infection, treatment with ceftriaxone and azithromycin was initiated. <br> Blood cultures grew gram negative diplococci (Panel B) that were identified as *Neisseria gonorrhoeae*, which confirmed the diagnosis. The patient’s symptoms abated with antibiotic treatment. At 3 months of follow-up, the patient was feeling well, with no recurrence of skin lesions or joint pain
+<br> The physical examination was notable for erythematous pustules near the wrist and on the fingers (Panel A) and on the trunk, scalp, and both ankles. There was mild swelling and pain with passive motion in the right ankle and tenosynovitis involving the tendons of both ankles. Given a high suspicion for disseminated gonococcal infection, treatment with ceftriaxone and azithromycin was initiated. <br> <br> Blood cultures grew gram negative diplococci (Panel B) that were identified as *Neisseria gonorrhoeae*, which confirmed the diagnosis. The patient’s symptoms abated with antibiotic treatment. At 3 months of follow-up, the patient was feeling well, with no recurrence of skin lesions or joint pain
 :::
 :::::
 
@@ -612,7 +615,7 @@ A 20-year-old woman presented to the emergency department with a rash involving 
 DGI should be in the differential for any young patient with polyarticular arthritis and rash. The organism is sensitive to antibiotics, so outcomes are generally good if treatment is prompt. The challenge is diagnosis—gonococcal cultures are fastidious and often negative. Blood cultures positive in \~40%, joint cultures positive in \~10-50% depending on culture media. That's why NAATs are essential.
 :::
 
-## Gonococcal arthritis: Diagnosis and treatment
+## Gonococcal arthritis: Diagnosis and treatment {.smaller}
 
 <br>
 
@@ -626,7 +629,7 @@ DGI should be in the differential for any young patient with polyarticular arthr
 
 -   High clinical suspicion critical (sexual history, rash, polyarthritis)
 
-**Therapy** - **Ceftriaxone 500 mg to 1 g IV/IM once daily × 7-10 days**
+**Therapy**: **Ceftriaxone 500 mg to 1 g IV/IM once daily × 7-10 days**
 
 -   Alternative (allergy): Spectinomycin, fluoroquinolone (if susceptible)
 
@@ -640,11 +643,13 @@ DGI should be in the differential for any young patient with polyarticular arthr
 
 -   Test for chlamydia co-infection (25-40%)
 
+<br> <br>
+
 ::: aside
 Empirical ceftriaxone for gonococcal arthritis is reasonable if NAAT pending or clinical suspicion high. Resistance to older agents (penicillin, tetracycline, fluoroquinolones) is rising globally, so ceftriaxone is now first-line. Unlike most septic arthritis, gonococcal arthritis usually doesn't require repeated joint aspiration—antibiotics alone are often sufficient. Outcomes are excellent with prompt treatment, making this one of the better-prognosis septic arthritis types.
 :::
 
-## Septic arthritis in IVDU: Emerging epidemiology
+## Septic arthritis in IVDU: Emerging epidemiology {.smaller}
 
 <br>
 
@@ -680,7 +685,7 @@ Empirical ceftriaxone for gonococcal arthritis is reasonable if NAAT pending or 
 Some IVDU patients inject into joints directly. Sternoclavicular and SI joint infections can present subtly (fever, shoulder/back pain) without obvious joint swelling, so imaging and high clinical suspicion are essential. MRSA predominance means empirical vancomycin (or daptomycin) + Pseudomonas coverage (piperacillin-tazobactam, cephalosporin, fluoroquinolone) initially.
 :::
 
-## Septic arthritis in immunocompromised patients
+## Septic arthritis in immunocompromised patients {.smaller}
 
 <br>
 
@@ -706,13 +711,17 @@ Some IVDU patients inject into joints directly. Sternoclavicular and SI joint in
 
     -   Higher mortality
 
-**Clinical Implications**
+-   **Clinical Implications**
 
--   Don't assume atypical organisms without evidence. *S. aureus* remains most common even in AIDS
+    -   Don't assume atypical organisms without evidence. *S. aureus* remains most common even in AIDS
 
--   Culture and molecular testing critical for organism identification
+    -   Culture and molecular testing critical for organism identification
 
-<br> <br> ::: aside The key clinical point is that immunocompromised patients can still have S. aureus septic arthritis, which is the most common cause. However, you need to maintain a broader differential and be more aggressive with diagnostics. Fungi (Candida, Coccidioides, Histoplasma) can cause joint infections in immunocompromised patients. Mycobacterial infections (including TB) can present as monoarticular arthritis with chronic course. Always obtain adequate microbiologic specimens in these patients. :::
+<br> <br>
+
+::: aside
+The key clinical point is that immunocompromised patients can still have S. aureus septic arthritis, which is the most common cause. However, you need to maintain a broader differential and be more aggressive with diagnostics. Fungi (Candida, Coccidioides, Histoplasma) can cause joint infections in immunocompromised patients. Mycobacterial infections (including TB) can present as monoarticular arthritis with chronic course. Always obtain adequate microbiologic specimens in these patients.
+:::
 
 ## Management Principles: Source control + antimicrobials
 
@@ -827,10 +836,12 @@ If the Gram stain shows gram-negative rods in a patient with risk factors for en
     -   Alternative; slightly less optimal than nafcillin for staph
     -   Use if concern for other gram-negatives
 
-**Duration:** 3-4 weeks IV, or IV→oral switch after clinical improvement <br> <br>
+**Duration:** 3-4 weeks IV, or IV→oral switch after clinical improvement
+
+<br> <br>
 
 ::: aside
-Cefazolin is now preferrred over antistaphylococal PCNs. Nafcillin and oxacillin are superior to cephalosporins for MSSA because of better bacterial killing and lower resistance rates. If the patient is allergic to beta-lactams, cephalosporins (especially cefazolin) are preferred over vancomycin because of lower MICs. Vancomycin is inferior for MSSA—don't use it unless true IgE-mediated allergy. Fluoroquinolone monotherapy (like levofloxacin) is inferior and not recommended. Duration is traditionally 3-4 weeks, though shorter courses (2 weeks) are being studied (see Gjika trial below).
+Cefazolin is now preferred over antistaphylococal PCNs. Nafcillin and oxacillin are superior to cephalosporins for MSSA because of better bacterial killing and lower resistance rates. If the patient is allergic to beta-lactams, cephalosporins (especially cefazolin) are preferred over vancomycin because of lower MICs. Vancomycin is inferior for MSSA—don't use it unless true IgE-mediated allergy. Fluoroquinolone monotherapy (like levofloxacin) is inferior and not recommended. Duration is traditionally 3-4 weeks, though shorter courses (2 weeks) are being studied (see Gjika trial below).
 :::
 
 ## Directed therapy: MRSA (Methicillin-resistant *S. aureus*)
@@ -855,7 +866,7 @@ Cefazolin is now preferrred over antistaphylococal PCNs. Nafcillin and oxacillin
     -   Dose: 600 mg IV/PO q12h
     -   Good joint penetration, oral available
     -   Bone marrow toxicity with prolonged use (\>2 weeks)- Higher rates of thrombocytopenia when Cmin \> \~8; target: 2–7 mg/L
-    -   Theoretical serotonin syndrome risk with concurrent serotonergic drugs (actually less than 0.5%)[@bai2022]
+    -   Theoretical serotonin syndrome risk with concurrent serotonergic drugs (less than 0.5%) [@bai2022]
 
 **Duration:** 3-4 weeks IV; consider oral switch to doxycycline + rifampin or linezolid after clinical improvement
 
@@ -867,7 +878,7 @@ Cefazolin is now preferrred over antistaphylococal PCNs. Nafcillin and oxacillin
 
 -   **Dalbavancin:** Every 7-day dosing (1500 mg × 2 doses)
 
--   Clinical data limited but growing (DOTS trial) [@turner2025a]
+-   Clinical data limited but growing (See DOTS trial) [@turner2025a]
 
 -   Excellent MRSA coverage
 
@@ -896,7 +907,7 @@ Dalbavancin is interesting because less frequent dosing may improve adherence, b
 
 **Traditional Dogma:** 3-4 weeks IV antibiotics
 
--   **Gjika et al. 2019** (RCT, streptococcal arthritis) [@Gjika2019a]
+-   **RCT, streptococcal arthritis** [@Gjika2019a]
 
     -   2 weeks IV therapy non-inferior to 4 weeks
 
@@ -996,11 +1007,13 @@ A patient with known gout can absolutely have acute septic arthritis. The presen
 These atypical infections usually present chronically (weeks to months), not acutely. Fungi should be suspected in immunocompromised patients with chronic monoarticular arthritis and negative bacterial cultures. TB joint infections are underdiagnosed—always ask about TB risk and consider biopsy for acid-fast stain and TB culture if imaging suggests chronic infection.
 :::
 
-## Chronic infectious arthritis: Tuberculosis (Pott's Disease)
+## Chronic infectious arthritis: <br> Tuberculosis (Pott's Disease)
 
 <br>
 
--   **Epidemiology** : Occurs in 10-20% of patients with disseminated TB
+-   **Epidemiology**:
+
+    -   Occurs in 10-20% of patients with disseminated TB
 
     -   Most common joint infection in TB-endemic areas
 
@@ -1008,7 +1021,9 @@ These atypical infections usually present chronically (weeks to months), not acu
 
     -   Hip, knee less common
 
--   **Clinical Presentation** : Subacute to chronic (weeks to months)
+-   **Clinical Presentation**:
+
+    -   Subacute to chronic (weeks to months)
 
     -   Low-grade fever, weight loss, joint pain
 
@@ -1016,7 +1031,11 @@ These atypical infections usually present chronically (weeks to months), not acu
 
     -   Often monoarticular
 
--   **Diagnosis** : Synovial fluid: high protein, low glucose (mimics bacterial), negative culture initially
+<!-- -->
+
+-   **Diagnosis**:
+
+    -   Synovial fluid: high protein, low glucose (mimics bacterial), negative culture initially
 
     -   Microscopy: AFB smear often negative; culture take 2-6 weeks
 
@@ -1074,11 +1093,17 @@ The Waldvogel classification is still used because it guides management and prog
 -   Type III: Localized (cortical + medullary, 1-2 cm zone)
 -   Type IV: Diffuse (entire bone involvement, significant structural loss)
 
-**Host Status (Systemic)** - A-host: Normal immunity, good healing - B-host: Compromised (local or systemic factors: DM, CKD, immunosuppression) - C-host: Treatment worse than disease; comfort care preferred
+**Host Status (Systemic)**
+
+-   A-host: Normal immunity, good healing
+
+-   B-host: Compromised (local or systemic factors: DM, CKD, immunosuppression)
+
+-   C-host: Treatment worse than disease; comfort care preferred
 
 <br>
 
-**Combined Assessment:**: Type + host determines operative urgency and extent
+**Combined Assessment:** Type + host determines operative urgency and extent
 
 ::: aside
 @cierny2003
@@ -1088,11 +1113,11 @@ The Waldvogel classification is still used because it guides management and prog
 This staging is more detailed and helps guide surgical planning. A Type I, A-host osteomyelitis might respond to antibiotics alone. A Type IV, C-host patient (e.g., extensive debridement, amputation) may warrant amputation rather than limb-salvage. The C-host classification is important ethically—acknowledge when aggressive surgery would worsen quality of life.
 :::
 
-## Acute hematogenous osteomyelitis: Clinical presentation {.smaller}
+## Acute hematogenous osteomyelitis: <br> Clinical presentation {.smaller}
 
 <br>
 
--   **Classic Presentation**
+-   **Classic presentation**
 
     -   Acute onset (days)
 
@@ -1102,7 +1127,7 @@ This staging is more detailed and helps guide surgical planning. A Type I, A-hos
 
     -   Restricted motion of adjacent joint
 
--   **Atypical Presentations**
+-   **Atypical presentations**
 
     -   Subacute course (weeks, especially vertebral)
 
@@ -1112,7 +1137,7 @@ This staging is more detailed and helps guide surgical planning. A Type I, A-hos
 
     -   Can present with spinal cord compression (vertebral)
 
--   **Biofilm Phase (Chronic OM)**
+-   **Biofilm phase (Chronic OM)**
 
     -   Transition to chronic (\>3 months duration)
 
@@ -1146,19 +1171,23 @@ The transition from acute to chronic is insidious. Inadequately treated or delay
 | **Lactate**        | —           | —           | Elevated if acute with systemic toxicity  |
 +--------------------+-------------+-------------+-------------------------------------------+
 
+<br> <br>
+
 **Limitation:** No lab marker is diagnostic; clinical + imaging correlation essential
 
 ::: notes
 Lab markers support diagnosis but aren't specific. A patient with CRP 50 mg/dL and clinical symptoms needs imaging, not just antibiotics. Serial CRP is useful to monitor response to therapy—it should decline over days to weeks. Persistent elevation suggests inadequate source control.
 :::
 
-## Imaging: X-ray, MRI, advanced modalities {.smaller}
+## Imaging: X-ray, MRI, advanced modalities
 
 <br>
 
 ::::: columns
 ::: {.column width="50%"}
--   **X-ray:** First study, Acute findings: soft tissue swelling, periosteal reaction (2 weeks)
+-   **X-ray:**
+
+    -   First study, Acute findings: soft tissue swelling, periosteal reaction (2 weeks)
 
     -   Chronic findings: sequestra, involucrum, sinus tract
 
@@ -1166,19 +1195,15 @@ Lab markers support diagnosis but aren't specific. A patient with CRP 50 mg/dL a
 
     -   Don't exclude OM based on normal early X-rays
 
--   **MRI**: Gold standard - Sensitivity 82-100%, Specificity 75-96%
+-   **MRI**:
+
+    -   Gold standard - Sensitivity 82-100%, Specificity 75-96%
 
     -   Allows assessment of marrow involvement, soft tissue, sequestration
 
     -   Excellent for differentiating OM from soft tissue infection
 
     -   Can guide biopsy location
-
--   **Advanced Imaging** - **CT:** Cortical detail, sequestra, bone destruction; useful when MRI unavailable
-
--   **Bone scan:** Lower sensitivity/specificity; useful if MRI contraindicated
-
--   **FDG-PET:** Emerging role, especially chronic OM and diabetic foot; detects metabolic activity
 :::
 
 ::: {.column width="50%"}
@@ -1187,15 +1212,35 @@ Lab markers support diagnosis but aren't specific. A patient with CRP 50 mg/dL a
 :::::
 
 ::: aside
-MRI is the best single imaging study for OM diagnosis and extent assessment. It shows bone marrow edema (T2 hyperintensity), which is very sensitive for OM even before structural changes appear. FDG-PET can differentiate OM from Charcot joint in diabetes (Charcot shows normal uptake; OM shows high uptake). Always correlate imaging with clinical findings—isolated imaging abnormality without clinical correlation can lead to overtreatment.
+MRI is the best single imaging study for OM diagnosis and extent assessment. It shows bone marrow edema (T2 hyperintensity), which is very sensitive for OM even before structural changes appear.
 :::
 
-## Microbiologic diagnosis: Bone biopsy gold standard {.smaller}
+## Imaging: Advanced modalities
 
 <br>
 
 ::::: columns
 ::: {.column width="50%"}
+-   **CT:** Cortical detail, sequestra, bone destruction; useful when MRI unavailable
+
+-   **Bone scan:** Lower sensitivity/specificity; useful if MRI contraindicated
+
+-   **FDG-PET:** Emerging role, especially chronic OM and diabetic foot; detects metabolic activity
+:::
+
+::: {.column width="50%"}
+![](bone-joint-infections-images/fdg_pet.png)
+:::
+:::::
+
+::: aside
+FDG-PET can differentiate OM from Charcot joint in diabetes (Charcot shows normal uptake; OM shows high uptake) and detect missed distal sites of infection. Always correlate imaging with clinical findings—isolated imaging abnormality without clinical correlation can lead to overtreatment [@arterMissedTspineOsteomyelitis2020].
+:::
+
+## Microbiologic diagnosis: <br> Bone biopsy gold standard {.smaller}
+
+::::: columns
+::: {.column width="75%"}
 -   **Why Biopsy?**
 
     -   Identifies organism (80-90% culture yield with proper technique)
@@ -1223,7 +1268,7 @@ MRI is the best single imaging study for OM diagnosis and extent assessment. It 
 -   **Challenge:** Urge to start antibiotics immediately may delay biopsy; balance speed with diagnostic yield
 :::
 
-::: {.column width="50%"}
+::: {.column width="25%"}
 ![](bone-joint-infections-images/bone_bx.png){fig-align="center"}
 :::
 :::::
@@ -1288,11 +1333,11 @@ Many clinicians start antibiotics empirically without bone culture, which create
 [@massis2005]
 :::
 
-## Treatment principles: Combined medical + surgical
+## Treatment principles: <br> Combined medical + surgical
 
 <br>
 
-**Source Control (Surgical)**: Debridement of all necrotic, infected bone and soft tissue
+**Source control (Surgical)**: Debridement of all necrotic, infected bone and soft tissue
 
 -   Adequate to achieve bleeding margin
 
@@ -1300,7 +1345,7 @@ Many clinicians start antibiotics empirically without bone culture, which create
 
 -   Dead space management (flap, cement spacer, bone graft)
 
-**Antimicrobial Therapy (Medical)**: IV phase: weeks 1-4 (sometimes longer)
+**Antimicrobial therapy (Medical)**: IV phase: weeks 1-4 (sometimes longer)
 
 -   Oral phase: weeks 4+ after clinical improvement
 
@@ -1340,7 +1385,7 @@ Surgery is often underappreciated in OM treatment. Adequate debridement is more 
 Historical preference for antistaphylococcal penicillins over cefazolin for deep-seated infections was based on theoretical concerns about the inoculum effect and bone penetration rather than clinical evidence.
 :::
 
-## IV Antimicrobial therapy for osteomyelitis (Part 2)
+## IV antimicrobial therapy for osteomyelitis (Part 2)
 
 <br>
 
@@ -1359,8 +1404,6 @@ Gram-negative OM is challenging because fluoroquinolones, while oral-available, 
 :::
 
 ## Oral step-down therapy: OVIVA trial paradigm shift {.smaller}
-
-<br>
 
 ![](bone-joint-infections-images/OVIVA.png){fig-align="center" width="800"}
 
@@ -1383,6 +1426,8 @@ Gram-negative OM is challenging because fluoroquinolones, while oral-available, 
     -   No endocarditis
 
     -   Clinical improvement within 2 weeks
+
+<br>
 
 ::: aside
 [@li2019]
@@ -1428,7 +1473,7 @@ The OVIVA trial used fluoroquinolones + rifampin for Staph OM because of excelle
 For enterobacteria and Pseudomonas, fluoroquinolone monotherapy (especially levofloxacin 750 mg daily) has decent outcomes in OM because of excellent bone penetration. However, resistance development is a risk—add rifampin for combination therapy if biofilm suspected. Always ensure adequate absorptive capacity (no severe diarrhea, functional GI tract).
 :::
 
-## Rifampin in bone and joint infections {.smaller}
+## Rifampin in bone and joint infections
 
 <br>
 
@@ -1496,139 +1541,323 @@ Warn patients about orange urine/saliva and check for interactions before prescr
 Vertebral OM is usually hematogenous and single-organism (S. aureus common). Surgery is rarely needed unless there's instability or neurologic compression. The 6-week therapy is adequate if the patient is improving clinically and inflammatory markers declining. Don't be fooled by persistent MRI abnormalities—they lag clinical improvement by weeks [@bernard2015].
 :::
 
-## Diabetic Foot Osteomyelitis: Epidemiology and Pathogenesis
+## Diabetic foot osteomyelitis: <br> Epidemiology and pathogenesis {.smaller}
 
-<br>
+::::: columns
+::: {.column width="50%"}
+-   **Risk Factors**
+    -   Ulceration (duration \>4 weeks increases OM risk \~40%)
+    -   Neuropathy (loss of protective sensation)
+    -   Poor glycemic control
+    -   Peripheral vascular disease
+    -   Prior ulceration
+-   **Pathogenesis**
+    -   Contiguous spread from infected ulcer to bone
+    -   Usually direct extension from soft tissue focus
+    -   Polymicrobial (3-5 organisms common)
+    -   Biofilm formation common
+-   **Epidemiology**
+    -   Affects 10-20% of diabetic patients with foot ulcers
+    -   Leading infectious cause of non-traumatic amputation
+    -   Rising incidence with obesity and IVDU epidemic
+:::
 
-**Risk Factors** - Ulceration (duration \>4 weeks increases OM risk \~40%) - Neuropathy (loss of protective sensation) - Poor glycemic control - Peripheral vascular disease - Prior ulceration
+::: {.column width="50%"}
+![](bone-joint-infections-images/diabetic_foot.png){fig-align="center" width="300"}
+:::
+:::::
 
-**Pathogenesis** - Contiguous spread from infected ulcer to bone - Usually direct extension from soft tissue focus - Polymicrobial (3-5 organisms common) - Biofilm formation common
-
-**Epidemiology** - Affects 10-20% of diabetic patients with foot ulcers - Leading infectious cause of non-traumatic amputation - Rising incidence with obesity and IVDU epidemics
-
-::: notes
+::: aside
 Diabetic foot OM is mostly preventable with good wound care, glycemic control, and timely identification of at-risk ulcers. The key is early recognition—if an ulcer doesn't improve in 2-4 weeks, image for OM. Recurrence is common (up to 30%), emphasizing ongoing wound care.
 :::
 
-## Diabetic Foot Osteomyelitis: Diagnosis and Microbiology
+## Diabetic foot osteomyelitis: <br> Diagnosis and microbiology {.smaller}
 
 <br>
 
-**Diagnosis** - **Probe-to-bone test:** PPV 89% in high-risk patients; simple bedside test - **Imaging:** X-ray (late findings), MRI gold standard - **Culture:** Preferably from bone biopsy; superficial swab unreliable - **Lab markers:** CRP elevated; WBC often normal
+::::: columns
+::: {.column width="50%"}
+-   **Diagnosis** - **Probe-to-bone test:** PPV 89% in high-risk patients; simple bedside test
 
-**Microbiology** (polymicrobial) - **Common:** S. aureus, streptococci, E. coli, Pseudomonas, Enterococcus - **Anaerobes:** Often present (Peptostreptococcus, Prevotella, Bacteroides) - **MRSA:** Risk if prior antimicrobials or hospitalization - **Unusual:** Mycobacterium, fungi (if immunocompromised)
+-   **Imaging:** X-ray (late findings), MRI gold standard
 
-::: notes
+-   **Culture:** Preferably from bone biopsy; superficial swab unreliable
+
+-   **Lab markers:** CRP elevated; WBC often normal
+
+-   **Microbiology** (polymicrobial)
+
+    -   **Common:** *S. aureus, streptococci, E. coli, Pseudomonas, Enterococcus*
+
+    -   **Anaerobes:** Often present (*Peptostreptococcus, Prevotella, Bacteroides*)
+
+    -   **MRSA:** Risk if prior antimicrobials or hospitalization
+
+    -   **Unusual:** Mycobacterium, fungi (if immunocompromised)
+:::
+
+::: {.column width="50%"}
+![](bone-joint-infections-images/probe_to_bone.png){fig-align="center"}
+:::
+:::::
+
+::: aside
 The probe-to-bone test is your rapid clinical assessment—if you can pass a sterile probe through a diabetic ulcer to bone, OM is present until proven otherwise. Empirical therapy must cover gram-positives, gram-negatives, and anaerobes. Many regimens use a fluoroquinolone (for gram-negative and anaerobic coverage) + additional agent, or broad-spectrum agent like piperacillin-tazobactam.
 :::
 
-## Diabetic Foot Osteomyelitis: Medical vs. Surgical Management
+## Diabetic foot osteomyelitis: <br> Medical vs. surgical management {.smaller}
 
 <br>
 
-**Medical Management** - Indications: Limited bone involvement, good perfusion, able to heal - Duration: 4-6 weeks, often oral after initial IV phase - Requires adequate debridement of surrounding soft tissue - Success: \~60-70% in selected cases
+-   **Medical Management**
 
-**Surgical Management** - Indications: Extensive bone involvement, vascular insufficiency, sepsis - Goal: Remove all infected bone - May require partial foot amputation (\>50% cases) - Often combined with vascular intervention
+    -   Indications: Limited bone involvement, good perfusion, able to heal
 
-**Amputation Rates** - \~20-30% of patients with diabetic foot OM undergo amputation - Higher if vascular disease present - Lower with early aggressive debridement and optimal antibiotics
+    -   Duration: 4-6 weeks, often oral after initial IV phase
 
-::: notes
+    -   Requires adequate debridement of surrounding soft tissue
+
+    -   Success: \~60-70% in selected cases
+
+-   **Surgical Management**
+
+    -   Indications: Extensive bone involvement, vascular insufficiency, sepsis
+
+    -   Goal: Remove all infected bone
+
+    -   May require partial foot amputation (\>50% cases)
+
+    -   Often combined with vascular intervention
+
+-   **Amputation Rates**
+
+    -   \~20-30% of patients with diabetic foot OM undergo amputation
+
+    -   Higher if vascular disease present
+
+    -   Lower with early aggressive debridement and optimal antibiotics
+
+::: aside
 The choice between medical and surgical management should be individualized. A patient with well-perfused foot, limited cortical erosions on imaging, and mild systemic symptoms might be a candidate for medical therapy. A patient with necrotizing fascia, extensive bone involvement, or severe vascular disease likely needs amputation. Vascular assessment is critical—antibiotics alone won't work if there's no blood supply.
 :::
 
-## Culture-Negative Osteomyelitis: Approach and Empirical Therapy
+## Culture-negative osteomyelitis {.smaller}
 
 <br>
 
-**Common Causes** - Prior antibiotic therapy (30-50% of cases) - Slow-growing or fastidious organisms (mycobacteria, fungi, Brucella) - Technical sampling issues (inadequate specimen, contamination) - Fastidious organisms (Bartonella, Coxiella, Mycoplasma)
+-   **Common causes**
 
-**Diagnostic Approach** - Repeat biopsy with careful technique - Hold cultures 14 days minimum - Gram stain, AFB, fungal cultures - Molecular testing (PCR, 16S rDNA, mNGS) if available
+    -   Prior antibiotic therapy (30-50% of cases)
 
-**Empirical Therapy** - Continue antibiotics based on most likely organism(s) - S. aureus coverage essential (high prevalence) - Consider TB coverage if risk factors or imaging suggestive - Fungal coverage if immunocompromised
+    -   Slow-growing or fastidious organisms (mycobacteria, fungi, Brucella)
 
-::: notes
+    -   Technical sampling issues (inadequate specimen, contamination)
+
+    -   Fastidious organisms (Bartonella, Coxiella, Mycoplasma)
+
+-   **Diagnostic approach**
+
+    -   Repeat biopsy with careful technique
+
+    -   Hold cultures 14 days minimum
+
+    -   Gram stain, AFB, fungal cultures
+
+    -   Molecular testing (PCR, 16S rDNA, mNGS) if available
+
+-   **Empirical therapy**
+
+    -   Continue antibiotics based on most likely organism(s)
+
+    -   *S. aureus* coverage essential (high prevalence)
+
+    -   Consider TB coverage if risk factors or imaging suggestive
+
+    -   Fungal coverage if immunocompromised
+
+::: aside
 Culture-negative OM is challenging but not uncommon. Don't give up on diagnosis—persistent fever, abnormal imaging, and elevated markers in the setting of clinical OM warrant continued investigation. Molecular diagnostics (16S rDNA PCR, mNGS) are increasingly available and can identify organisms missed by conventional culture. Prior antibiotics are the most common reason for negative cultures; ask about recent therapy.
 :::
 
-## Special Forms: Vertebral Osteomyelitis (Spondylodiscitis)
+## Special forms: Vertebral osteomyelitis (spondylodiscitis) {.smaller}
 
 <br>
 
-**Epidemiology** - 1-2% of all OM cases; increasing incidence - Risk factors: IVDU, age \>60, DM, immunosuppression - Most common location: lumbar spine (50%), thoracic 40%, cervical 10%
+::::: columns
+::: {.column width="50%"}
+**Epidemiology**
 
-**Microbiology** - S. aureus: 30-70% (especially IVDU) - Streptococci: 10-20% - Gram-negative: 5-15% (more common in IVDU) - TB, Brucella: Consider if epidemiologic risk
+-   1-2% of all OM cases; increasing incidence
 
-**Presentation** - Fever (often low-grade), back/flank pain - May have neurologic symptoms (cord compression) - Can mimic musculoskeletal pain initially; diagnosis delayed
+-   Risk factors: IVDU, age \>60, DM, immunosuppression
 
-::: notes
+-   Most common location: lumbar spine (50%), thoracic 40%, cervical 10%
+
+**Microbiology**
+
+-   S. aureus: 30-70% (especially IVDU)
+
+-   Streptococci: 10-20%
+
+-   Gram-negative: 5-15% (more common in IVDU)
+
+-   TB, Brucella: Consider if epidemiologic risk
+
+**Presentation**
+
+-   Fever (often low-grade), back/flank pain
+
+-   May have neurologic symptoms (cord compression)
+
+-   Can mimic musculoskeletal pain initially; diagnosis delayed
+:::
+
+::: {.column width="50%"}
+![](bone-joint-infections-images/fluid_collection.png){fig-align="center" width="350"}
+:::
+:::::
+
+::: aside
 Vertebral OM is easy to miss because it can present as simple back pain. Always maintain suspicion in elderly or high-risk patients with fever and back pain. MRI is essential for diagnosis. Early recognition prevents neurologic sequelae. IVDU with fever and back pain = vertebral OM until proven otherwise.
 :::
 
-## Sickle Cell Disease Osteomyelitis
+## Sickle cell disease osteomyelitis {.smaller}
 
 <br>
 
-**Unique Microbiology** - **Salmonella:** 50-70% of osteomyelitis (unusual organism for non-sickle OM) - **S. aureus:** 20-30% - **Streptococci, Pseudomonas:** Less common than other populations
+::::: columns
+::: {.column width="50%"}
+-   **Salmonella:** 50-70% of osteomyelitis <br> (unusual organism for non-sickle OM)
 
-**Why Salmonella?** - GI carriage increased in sickle disease - Sickling predisposes to bone infarcts → seeding - Damaged splenic function → impaired opsonization
+-   **S. aureus:** 20-30%
 
-**Clinical Presentation** - Acute fever, bone/joint pain - Multiple bones often involved - High mortality if untreated
+-   ***Streptococci, Pseudomonas*****:** Less common than other populations
 
-**Therapy** - Cover Salmonella empirically (fluoroquinolone, 3rd gen cephalosporin) - Add S. aureus coverage - Blood culture critical for organism identification
+-   **Why Salmonella?** - GI carriage increased in sickle disease
 
-::: notes
-This is a critical clinical pearl—if you see a sickle cell patient with osteomyelitis, cover Salmonella empirically. Most non-sickle OM therapies would miss Salmonella. Fluoroquinolone monotherapy is often adequate for Salmonella, but also cover S. aureus. The mortality of untreated salmonella OM in sickle disease is high, so don't miss it.
+    -   Sickling predisposes to bone infarcts → seeding
+
+    -   Damaged splenic function → impaired opsonization
+
+-   **Clinical Presentation**
+
+    -   Acute fever, bone/joint pain
+
+    -   Multiple bones often involved
+
+    -   High mortality if untreated
+
+-   **Therapy**
+
+    -   Cover Salmonella empirically (fluoroquinolone, 3rd gen cephalosporin)
+
+    -   Add S. aureus coverage
+
+    -   Blood culture critical for organism identification
 :::
 
-## Tuberculous Osteomyelitis (Pott Disease)
+::: {.column width="50%"}
+![](bone-joint-infections-images/sickel.png){width="300"}
+:::
+:::::
+
+::: aside
+Sickle cell patients with osteomyelitis need cover Salmonella empirically. Most non-sickle OM therapies would miss Salmonella. Fluoroquinolone monotherapy is often adequate for Salmonella, but may not adequately cover S. aureus.
+:::
+
+## Tuberculous osteomyelitis (Pott's Disease)
 
 <br>
 
-**Epidemiology** - 10-20% of TB patients have skeletal involvement - Spine: lumbar 50%, thoracic 49%, cervical 1% - Hip, knee: rarer - Increasing in TB-endemic areas; re-emerging in developed countries
+-   **Epidemiology** - 10-20% of TB patients have skeletal involvement - Spine: lumbar 50%, thoracic 49%, cervical 1% - Hip, knee: rarer - Increasing in TB-endemic areas; re-emerging in developed countries
 
-**Pathogenesis** - Hematogenous seeding (usually from pulmonary TB) - Affects vertebral bodies (not disc initially) - Slow progression with granulomatous inflammation - Can cause severe kyphosis, spinal cord compression
+-   **Pathogenesis** - Hematogenous seeding (usually from pulmonary TB) - Affects vertebral bodies (not disc initially) - Slow progression with granulomatous inflammation - Can cause severe kyphosis, spinal cord compression
 
-**Diagnosis** - MRI shows vertebral involvement - Biopsy: caseating granulomas (pathognomonic) - Culture: slow (4-8 weeks); PCR faster - Always evaluate for pulmonary TB concurrently
+-   **Diagnosis** - MRI shows vertebral involvement - Biopsy: caseating granulomas (pathognomonic) - Culture: slow (4-8 weeks); PCR faster - Always evaluate for pulmonary TB concurrently
 
-::: notes
+::: aside
 TB OM is easy to miss because it's chronic and imaging-intensive work-up is needed. Always ask about TB exposure, cough, constitutional symptoms in patients with chronic vertebral pain. Early diagnosis and anti-TB therapy prevent permanent neurologic damage. Pyrazinamide is critical for TB OM (penetrates bone well); standard TB regimens are 2 months intensive (HRZE) + 4 months continuation (HR).
 :::
 
-## IVDU-Related Osteomyelitis and Complications
+## IVDU-related osteomyelitis and complications {.smaller}
 
 <br>
 
-**Common Sites** - Vertebral (lumbar \> thoracic) - Sternoclavicular joint - Pubic bone - Sacroiliac joint
+::::: columns
+::: {.column width="50%"}
+-   **Common Sites**
 
-**Organisms** - S. aureus (MSSA and MRSA): 60-80% - Pseudomonas aeruginosa: 30-50% - Polymicrobial: 20-30%
+    -   Vertebral (lumbar \> thoracic)
 
-**Complications** - Spinal cord compression (vertebral) - Endocarditis (concurrent risk) - Embolic phenomena - High recurrence rates
+    -   Sternoclavicular joint
 
-**Management** - Medical therapy usually sufficient (avoid surgery if possible) - Source control: address continued IVDU - Long-term follow-up: recurrence common
+    -   Pubic bone
+
+    -   Sacroiliac joint
+
+-   **Organisms**
+
+    -   S. aureus (MSSA and MRSA): 60-80%
+
+    -   Pseudomonas aeruginosa: 30-50%
+
+    -   Polymicrobial: 20-30%
+
+-   **Complications**
+
+    -   Spinal cord compression (vertebral)
+
+    -   Endocarditis (concurrent risk)
+
+    -   Embolic phenomena
+
+    -   High recurrence rates
+
+-   **Management**
+
+    -   Medical therapy usually sufficient (avoid surgery if possible)
+
+    -   Source control: address continued IVDU
+
+    -   Long-term follow-up: recurrence common
+:::
+
+::: {.column width="50%"}
+![](bone-joint-infections-images/ivdu.png)
+:::
+:::::
 
 ::: notes
 IVDU-related OM is a growing problem. The organisms are predictable (Staph, Pseudomonas), so empirical therapy should cover both. The biggest challenge is patient compliance and addressing ongoing IV drug use. Many of these patients are on medication-assisted therapy; ensure it's continued during treatment. Social work and addiction medicine involvement is essential.
 :::
 
-# Part III: Prosthetic Joint Infection
+# Part III: Prosthetic Joint Infection {background-color="#b20e10"}
 
-## Prosthetic Joint Infection: Epidemiology and Definitions
+## Prosthetic joint infection: Epidemiology and definitions
 
 <br>
 
+::::: columns
+::: {.column width="50%"}
 **Incidence** - 1-2% of primary total joint arthroplasties (TJA) - Rising due to aging population, increased TJA volume - Costs: \$50,000-100,000+ per episode - Can be devastating (functional loss, multiple surgeries, potential amputation)
 
 **EBJIS Definition (European Bone and Joint Infection Society)** - Major criterion: Positive culture of ≥2 tissue/fluid samples - OR purulent joint fluid - OR sinus tract communicating to joint - Plus one minor criterion: elevated inflammatory markers + symptoms
-
-::: aside
-Patel, *N Engl J Med*, 2023; McNally et al., *Bone Joint J*, 2021
 :::
 
-::: notes
+::: {.column width="50%"}
+![](bone-joint-infections-images/pji.png)
+:::
+:::::
+
+::: aside
+[@patel2023a]
+:::
+
+::: aside
 PJI is becoming more common and more expensive to treat. Prevention through perioperative prophylaxis is essential. Treatment is complex, often requiring surgery, and outcomes even with modern therapy are imperfect (success rates 70-90% depending on strategy). The cost and morbidity motivate aggressive prevention.
 :::
 
-## Classification of Prosthetic Joint Infection
+## Classification of prosthetic joint infection
 
 <br>
 
@@ -1642,21 +1871,65 @@ PJI is becoming more common and more expensive to treat. Prevention through peri
 | **Chronic**            | \>4 weeks (usually months to years)  | CoNS (esp. if indolent), S. aureus, Cutibacterium (shoulder), gram-negatives | Two-stage exchange standard                       |
 +------------------------+--------------------------------------+------------------------------------------------------------------------------+---------------------------------------------------+
 
-**Early vs. Chronic Distinction** - Early: organisms typically from surgical site/inoculation - Chronic: biofilm established, lower inflammatory response, often CoNS - Clinical presentation drives management more than timing alone
+**Early vs. Chronic Distinction**
 
-::: notes
+-   Early: organisms typically from surgical site/inoculation
+
+-   Chronic: biofilm established, lower inflammatory response, often CoNS
+
+-   Clinical presentation drives management more than timing alone
+
+::: aside
 The classification by timing helps frame management decisions. Early infection caught within days of surgery might be salvageable with DAIR (debridement, antibiotics, implant retention). Chronic infection with established biofilm usually requires exchange. However, acute hematogenous infection (even years post-op) may respond to DAIR if caught early in the course.
 :::
 
-## Pathogenesis: Biofilm on Prosthetic Implants
+## Pathogenesis
 
 <br>
 
-**Biofilm Formation Timeline** 1. **Minutes to hours:** Bacterial adherence to implant surface 2. **Hours to days:** Microcolony formation, EPS (exopolysaccharide) production 3. **Days to weeks:** Mature biofilm with channel/void structure
+![](bone-joint-infections-images/prosthetic_joint.png){fig-align="center"}
 
-**Properties of Biofilm** - Resistance to antibiotics: 1000-fold higher than planktonic bacteria - Resistance to phagocytes: EPS shields bacteria - Impaired immune access (poor penetration of antibodies, complement) - Slow growth allows dormancy and phenotypic switching
+::: aside
+[@patel2023a]
+:::
 
-**Clinical Implications** - Biofilm must be mechanically removed (surgery) - Antibiotics alone insufficient for mature biofilm - Rifampin and daptomycin have better biofilm activity
+## Pathogenesis: Biofilm on prosthetic implants {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+-   **Biofilm formation timeline**
+
+    -   **Minutes to hours:** Bacterial adherence to implant surface
+
+    -   **Hours to days:** Microcolony formation, EPS (exopolysaccharide) production
+
+    -   **Days to weeks:** Mature biofilm with channel/void structure
+
+-   **Properties of biofilm**
+
+    -   Resistance to antibiotics: 1000-fold higher than planktonic bacteria
+
+    -   Resistance to phagocytes: EPS shields bacteria
+
+    -   Impaired immune access (poor penetration of antibodies, complement)
+
+    -   Slow growth allows dormancy and phenotypic switching
+
+-   **Clinical implications**
+
+    -   Biofilm must be mechanically removed (surgery)
+
+    -   Antibiotics alone insufficient for mature biofilm
+
+    -   Rifampin and daptomycin have better biofilm activity
+:::
+
+::: {.column width="50%"}
+![](bone-joint-infections-images/biofilm.png)
+:::
+:::::
 
 ::: notes
 The biofilm paradigm explains why PJI treatment requires both surgery (remove the implant and biofilm) and prolonged antibiotics (suppress remaining bacteria). Bacteria in biofilm are up to 1000× more resistant to antibiotics than free-floating cells, which is why standard durations and doses often fail. This is also why DAIR (keeping the implant) only works in early infection before mature biofilm forms.
