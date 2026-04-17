@@ -2275,17 +2275,45 @@ The organisms guide therapy. MSSA responds well to cephalosporins or anti-staphy
 | **Anaerobes**           | Meropenem OR Piperacillin-tazobactam                          | Amoxicillin-clavulanate OR Clindamycin                | Often polymicrobial; cover gram-negative       |
 +-------------------------+---------------------------------------------------------------+-------------------------------------------------------+------------------------------------------------+
 
-::: notes
+::: aside
 Enterococci are notoriously difficult to cure—they require synergistic therapy and high failure rates are expected. Cutibacterium acnes, especially on the shoulder, can be subtle; cultures require prolonged incubation (7-10 days). Anaerobes are often overlooked in polymicrobial PJI. Pseudomonas OM/PJI is challenging—fluoroquinolones are preferred for bioavailability, but cure rates remain suboptimal even with optimal therapy.
 :::
 
-## Rifampin in Prosthetic Joint Infections: Landmark Evidence
+## Rifampin in prosthetic joint infections: Landmark Evidence
 
 <br>
 
-**Zimmerli et al., Lancet 1998** (RCT) - Compared flucloxacillin alone vs. flucloxacillin + rifampin in MSSA PJI - All underwent surgical debridement and implant retention - **Rifampin group: 100% success** - **Fluoroquinolone alone group: 67% success** - Landmark trial establishing rifampin role
+::::: columns
+::: {.column width="50%"}
+-   **JAMA 1998** (RCT)[@zimmerli1998]
 
-**Current Use** - Rifampin added to IV phase (at least 2 weeks) - Continued in oral phase (with fluoroquinolone or other agent) - Essential for biofilm-related infections (prosthetic, osteomyelitis) - Always combination therapy; never monotherapy - Drug interactions and hepatotoxicity monitoring required
+    -   Compared flucloxacillin alone vs. flucloxacillin + rifampin in MSSA PJI
+
+    -   All underwent surgical debridement and implant retention
+
+    -   **Rifampin group: 100% success**
+
+    -   **Fluoroquinolone alone group: 67% success**
+
+    -   Landmark trial establishing rifampin role
+
+-   **Current Use**
+
+    -   Rifampin added to IV phase (at least 2 weeks)
+
+    -   Continued in oral phase (with fluoroquinolone or other agent)
+
+    -   Essential for biofilm-related infections (prosthetic, osteomyelitis)
+
+    -   Always combination therapy; never monotherapy
+
+    -   Drug interactions and hepatotoxicity monitoring required
+:::
+
+::: {.column width="50%"}
+![](bone-joint-infections-images/rifampin.png)
+:::
+:::::
 
 ::: aside
 Zimmerli et al., *JAMA*, 1998
