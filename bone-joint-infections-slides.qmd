@@ -105,23 +105,15 @@ The incidence varies by population studied and region. In developed countries, o
 
 <br>
 
-+-------------------------------+----------------------------------------+
 | Risk Factor                   | Mechanism                              |
-+===============================+========================================+
+|-------------------------------|----------------------------------------|
 | Rheumatoid arthritis          | Joint inflammation, immunosuppression  |
-+-------------------------------+----------------------------------------+
 | Age \>80 years                | Comorbidities, delayed diagnosis       |
-+-------------------------------+----------------------------------------+
 | Diabetes mellitus             | Impaired immunity, frequent procedures |
-+-------------------------------+----------------------------------------+
 | Prosthesis/recent surgery     | Direct inoculation, foreign body       |
-+-------------------------------+----------------------------------------+
 | IVDU                          | Bacteremia, unusual sites              |
-+-------------------------------+----------------------------------------+
 | Immunosuppression (HIV, TNFi) | Atypical organisms, fulminant course   |
-+-------------------------------+----------------------------------------+
 | Corticosteroid therapy        | Impaired phagocytosis                  |
-+-------------------------------+----------------------------------------+
 
 ::: aside
 Risk factors cluster into two groups: those that predispose to bacteremia (IVDU, DM, immunosuppression) and those affecting local joint defenses (RA, age, prior joint disease). Some patients have multiple risk factors, raising suspicion significantly. The presence of any one of these should lower the diagnostic threshold for septic arthritis. However, septic arthritis can occur even without obvious risk factors—don't anchor on "this patient is too healthy."
@@ -156,21 +148,14 @@ Risk factors cluster into two groups: those that predispose to bacteremia (IVDU,
 
 <br>
 
-+-----------------------------------------+----------------------------------------------------+
-| Category                                | Typical organisms                                  |
-+=========================================+====================================================+
-| **Community-acquired, low risk**        | S. aureus (MSSA), streptococci                     |
-+-----------------------------------------+----------------------------------------------------+
-| **IVDU/Needle users**                   | S. aureus (MRSA \>\>), Pseudomonas, Gram-negatives |
-+-----------------------------------------+----------------------------------------------------+
-| **Diabetes mellitus**                   | Group B Streptococcus, S. aureus                   |
-+-----------------------------------------+----------------------------------------------------+
-| **Animal bite (Pasteurella multocida)** | Pasteurella, Staph, anaerobes                      |
-+-----------------------------------------+----------------------------------------------------+
-| **Human bite (Eikenella corrodens)**    | Eikenella, Staph, anaerobes, Strep                 |
-+-----------------------------------------+----------------------------------------------------+
-| **Sexually active (age 15-40)**         | *Neisseria gonorrhoeae* \>\> others                |
-+-----------------------------------------+----------------------------------------------------+
+| Category | Typical organisms |
+|----|----|
+| **Community-acquired, low risk** | S. aureus (MSSA), streptococci |
+| **IVDU/Needle users** | S. aureus (MRSA \>\>), Pseudomonas, Gram-negatives |
+| **Diabetes mellitus** | Group B Streptococcus, S. aureus |
+| **Animal bite (Pasteurella multocida)** | Pasteurella, Staph, anaerobes |
+| **Human bite (Eikenella corrodens)** | Eikenella, Staph, anaerobes, Strep |
+| **Sexually active (age 15-40)** | *Neisseria gonorrhoeae* \>\> others |
 
 ::: aside
 These associations are critical for empirical therapy before culture results. A 32-year-old with acute monoarticular arthritis and no clear risk factors? Think gonorrhea. A 45-year-old with diabetes and knee arthritis? Add GBS to your empirical coverage. A patient with recent animal scratch and finger joint swelling? Pasteurella is likely. These clinical epidemiologic links are how you optimize initial therapy.
@@ -242,15 +227,11 @@ Hematogenous seeding is most common, which is why blood cultures matter—positi
 
 <br>
 
-+-----------------+-------------------------------------------------------------------------------------------+--------------------------------------+
-| Timeline        | Mechanism                                                                                 | Histology                            |
-+=================+===========================================================================================+======================================+
-| **0-48 hours**  | Bacterial multiplication, neutrophil influx, synovial inflammation                        | Purulent synovitis                   |
-+-----------------+-------------------------------------------------------------------------------------------+--------------------------------------+
+| Timeline | Mechanism | Histology |
+|----|----|----|
+| **0-48 hours** | Bacterial multiplication, neutrophil influx, synovial inflammation | Purulent synovitis |
 | **48-72 hours** | Proteolytic enzyme release (collagenase, hyaluronidase), cartilage surface erosion begins | Cartilage erosion, fibrin deposition |
-+-----------------+-------------------------------------------------------------------------------------------+--------------------------------------+
-| **\>5-7 days**  | Deep cartilage invasion, subchondral bone erosion, potential ankylosis                    | Advanced necrosis                    |
-+-----------------+-------------------------------------------------------------------------------------------+--------------------------------------+
+| **\>5-7 days** | Deep cartilage invasion, subchondral bone erosion, potential ankylosis | Advanced necrosis |
 
 <br>
 
@@ -383,21 +364,14 @@ Joint aspiration is both diagnostic and therapeutic—don't delay it for imaging
 
 <br>
 
-+----------------+------------------------------------------------------------------+
-| Parameter      | Typical finding                                                  |
-+================+==================================================================+
-| WBC            | Often elevated (\>12,000) but can be normal; higher in S. aureus |
-+----------------+------------------------------------------------------------------+
-| ESR            | Elevated \>90 mmHg in septic arthritis; rises within 24-48 hours |
-+----------------+------------------------------------------------------------------+
-| CRP            | Elevated 10-15 mg/dL; more sensitive than ESR in early infection |
-+----------------+------------------------------------------------------------------+
-| Procalcitonin  | Marked elevation (\>2 ng/mL) suggests bacteremia                 |
-+----------------+------------------------------------------------------------------+
-| Blood cultures | Positive in 50-60%                                               |
-+----------------+------------------------------------------------------------------+
-| Lactate        | Elevated if bacteremic/septic state                              |
-+----------------+------------------------------------------------------------------+
+| Parameter | Typical finding |
+|----|----|
+| WBC | Often elevated (\>12,000) but can be normal; higher in S. aureus |
+| ESR | Elevated \>90 mmHg in septic arthritis; rises within 24-48 hours |
+| CRP | Elevated 10-15 mg/dL; more sensitive than ESR in early infection |
+| Procalcitonin | Marked elevation (\>2 ng/mL) suggests bacteremia |
+| Blood cultures | Positive in 50-60% |
+| Lactate | Elevated if bacteremic/septic state |
 
 ::: aside
 Peripheral markers are nonspecific but support the diagnosis. A normal WBC doesn't exclude septic arthritis—up to 30% have WBC \<12,000. ESR is slow to rise, so absence in first 24 hours doesn't exclude disease. CRP is more sensitive early. Procalcitonin is high in septic arthritis (not just inflammation from RA or crystal disease), making it useful for differentiation. Positive blood culture changes management—indicates Staph aureus bacteremia with likely endocarditis risk, requiring echo and longer therapy consideration.
@@ -407,21 +381,14 @@ Peripheral markers are nonspecific but support the diagnosis. A normal WBC doesn
 
 <br>
 
-+--------------------+----------------+--------------+--------------------+-------------+
-| Parameter          | Normal         | Inflammatory | Septic             | Hemorrhagic |
-+====================+================+==============+====================+=============+
-| **WBC (cells/μL)** | \<200          | 2,000-50,000 | \>50,000           | RBC-filled  |
-+--------------------+----------------+--------------+--------------------+-------------+
-| **PMN %**          | \<50%          | 50-70%       | \>90%              | Variable    |
-+--------------------+----------------+--------------+--------------------+-------------+
-| **Glucose**        | Equal to serum | 50-150 mg/dL | \<25 mg/dL (often) | Variable    |
-+--------------------+----------------+--------------+--------------------+-------------+
-| **Protein**        | \<2 g/dL       | 2-4 g/dL     | \>4 g/dL           | Variable    |
-+--------------------+----------------+--------------+--------------------+-------------+
-| **Gram stain +**   | Negative       | Negative     | 50-90%             | Negative    |
-+--------------------+----------------+--------------+--------------------+-------------+
-| **Culture +**      | Negative       | Negative     | 80-90%             | Negative    |
-+--------------------+----------------+--------------+--------------------+-------------+
+| Parameter | Normal | Inflammatory | Septic | Hemorrhagic |
+|----|----|----|----|----|
+| **WBC (cells/μL)** | \<200 | 2,000-50,000 | \>50,000 | RBC-filled |
+| **PMN %** | \<50% | 50-70% | \>90% | Variable |
+| **Glucose** | Equal to serum | 50-150 mg/dL | \<25 mg/dL (often) | Variable |
+| **Protein** | \<2 g/dL | 2-4 g/dL | \>4 g/dL | Variable |
+| **Gram stain +** | Negative | Negative | 50-90% | Negative |
+| **Culture +** | Negative | Negative | 80-90% | Negative |
 
 ::: aside
 Septic fluid is inflammatory (high WBC, high PMN percentage) with very high protein and low glucose. The low glucose is thought to result from bacterial consumption and impaired glucose transport into inflamed synovium. Gram stain positivity in 50-90% is excellent—if you see cocci or rods, empirical therapy is clear. Culture positivity 80-90% means 10-20% are culture-negative; never rely on culture alone. Note: crystal arthritis can coexist with infection (you can have gout AND septic arthritis), so don't exclude septic arthritis based on crystal findings.
@@ -433,19 +400,13 @@ Septic fluid is inflammatory (high WBC, high PMN percentage) with very high prot
 
 **JAMA 2007 (2302 cases)** [@Margaretten2007]
 
-+--------------------+--------------+--------------+------------------------------+
-| WBC Count          | Sensitivity  | Specificity  | Notes                        |
-+====================+==============+==============+==============================+
-| \>50,000           | 62%          | 92%          | High spec, misses \~40%      |
-+--------------------+--------------+--------------+------------------------------+
-| \>25,000           | 77%          | 73%          | Better sensitivity           |
-+--------------------+--------------+--------------+------------------------------+
-| PMN \>90%          | 73%          | 79%          | Complements WBC count        |
-+--------------------+--------------+--------------+------------------------------+
-| Glucose \<25 mg/dL | 61%          | 98%          | Highly specific when present |
-+--------------------+--------------+--------------+------------------------------+
-| Culture positive   | —            | 100%         | Gold standard (but slow)     |
-+--------------------+--------------+--------------+------------------------------+
+| WBC Count          | Sensitivity | Specificity | Notes                        |
+|--------------------|-------------|-------------|------------------------------|
+| \>50,000           | 62%         | 92%         | High spec, misses \~40%      |
+| \>25,000           | 77%         | 73%         | Better sensitivity           |
+| PMN \>90%          | 73%         | 79%         | Complements WBC count        |
+| Glucose \<25 mg/dL | 61%         | 98%         | Highly specific when present |
+| Culture positive   | —           | 100%        | Gold standard (but slow)     |
 
 <br> <br>
 
@@ -773,15 +734,11 @@ The old dogma was "antibiotics alone are insufficient"—surgical drainage was a
 
 <br>
 
-+-----------------------+----------------------------------------------+-----------------------------------------------------------+-----------------------------------------+
-| Approach              | Indications                                  | Advantages                                                | Disadvantages                           |
-+=======================+==============================================+===========================================================+=========================================+
-| **Needle Aspiration** | Accessible joints, good cooperation          | Simple, repeatable, low morbidity                         | May miss loculated pus                  |
-+-----------------------+----------------------------------------------+-----------------------------------------------------------+-----------------------------------------+
-| **Arthroscopy**       | Large joint, difficult access, poor response | Excellent visualization, thorough debridement, can repeat | Operator-dependent, requires anesthesia |
-+-----------------------+----------------------------------------------+-----------------------------------------------------------+-----------------------------------------+
-| **Arthrotomy**        | Hip, deep joints, debris/fibrin              | Definitive source control, visualization                  | Most invasive, highest morbidity        |
-+-----------------------+----------------------------------------------+-----------------------------------------------------------+-----------------------------------------+
+| Approach | Indications | Advantages | Disadvantages |
+|----|----|----|----|
+| **Needle Aspiration** | Accessible joints, good cooperation | Simple, repeatable, low morbidity | May miss loculated pus |
+| **Arthroscopy** | Large joint, difficult access, poor response | Excellent visualization, thorough debridement, can repeat | Operator-dependent, requires anesthesia |
+| **Arthrotomy** | Hip, deep joints, debris/fibrin | Definitive source control, visualization | Most invasive, highest morbidity |
 
 <br> <br>
 
@@ -795,17 +752,12 @@ Clinical judgment is paramount. A knee with acute monoarticular arthritis and po
 
 <br>
 
-+----------------------------------------------+--------------------------------------------+-------------------------------------------------------+
-| Gram Stain                                   | Likely Organisms                           | Empirical Therapy                                     |
-+==============================================+============================================+=======================================================+
-| **Gram-positive cocci (chains/clusters)**    | S. aureus, streptococci, enterococci       | Vancomycin (or daptomycin)                            |
-+----------------------------------------------+--------------------------------------------+-------------------------------------------------------+
-| **Gram-negative cocci**                      | N. gonorrhoeae (intracellular diplococcus) | Ceftriaxone                                           |
-+----------------------------------------------+--------------------------------------------+-------------------------------------------------------+
-| **Gram-negative rods**                       | E. coli, Klebsiella, Pseudomonas, others   | Cefepime or meropenem                                 |
-+----------------------------------------------+--------------------------------------------+-------------------------------------------------------+
-| **Negative** <br> (or inadequate gram stain) | Broad differential                         | Combination: vancomycin + cephalosporin (3rd/4th gen) |
-+----------------------------------------------+--------------------------------------------+-------------------------------------------------------+
+| Gram Stain | Likely Organisms | Empirical Therapy |
+|----|----|----|
+| **Gram-positive cocci (chains/clusters)** | S. aureus, streptococci, enterococci | Vancomycin (or daptomycin) |
+| **Gram-negative cocci** | N. gonorrhoeae (intracellular diplococcus) | Ceftriaxone |
+| **Gram-negative rods** | E. coli, Klebsiella, Pseudomonas, others | Cefepime or meropenem |
+| **Negative** <br> (or inadequate gram stain) | Broad differential | Combination: vancomycin + cephalosporin (3rd/4th gen) |
 
 <br> <br>
 
@@ -991,19 +943,13 @@ The Gjika trial was practice-changing for streptococcal arthritis, but *S. aureu
 
 <br>
 
-+--------------------------------+-------------------------------------------------------------------------------------+
-| Diagnosis                      | Key Distinguishing Feature                                                          |
-+================================+=====================================================================================+
-| **Gout/pseudogout**            | Needle-shaped (gout) or rhomboid (CPPD) crystals; may coexist with infection        |
-+--------------------------------+-------------------------------------------------------------------------------------+
+| Diagnosis | Key Distinguishing Feature |
+|----|----|
+| **Gout/pseudogout** | Needle-shaped (gout) or rhomboid (CPPD) crystals; may coexist with infection |
 | **Rheumatoid arthritis flare** | Chronic polyarticular, rheumatoid factor positive; can have septic arthritis on top |
-+--------------------------------+-------------------------------------------------------------------------------------+
-| **Reactive arthritis**         | Preceding GI/GU infection, sterile cultures                                         |
-+--------------------------------+-------------------------------------------------------------------------------------+
-| **Viral arthritis**            | Mild systemic symptoms, high WBC but cultures negative, self-limited                |
-+--------------------------------+-------------------------------------------------------------------------------------+
-| **Traumatic arthritis**        | History of trauma; synovial WBC lower; culture negative                             |
-+--------------------------------+-------------------------------------------------------------------------------------+
+| **Reactive arthritis** | Preceding GI/GU infection, sterile cultures |
+| **Viral arthritis** | Mild systemic symptoms, high WBC but cultures negative, self-limited |
+| **Traumatic arthritis** | History of trauma; synovial WBC lower; culture negative |
 
 <br>
 
@@ -1205,19 +1151,13 @@ The transition from acute to chronic is insidious. Inadequately treated or delay
 
 <br>
 
-+--------------------+-------------+-------------+-------------------------------------------+
-| Marker             | Sensitivity | Specificity | Notes                                     |
-+====================+=============+=============+===========================================+
-| **WBC (elevated)** | Variable    | Low         | Often normal in chronic OM                |
-+--------------------+-------------+-------------+-------------------------------------------+
-| **ESR**            | 90%         | 60%         | Rises slowly; normalizes slowly           |
-+--------------------+-------------+-------------+-------------------------------------------+
-| **CRP**            | 90%         | 70%         | More sensitive early; faster to normalize |
-+--------------------+-------------+-------------+-------------------------------------------+
-| **Procalcitonin**  | 75-85%      | 75-85%      | Higher in acute; useful for monitoring    |
-+--------------------+-------------+-------------+-------------------------------------------+
-| **Lactate**        | —           | —           | Elevated if acute with systemic toxicity  |
-+--------------------+-------------+-------------+-------------------------------------------+
+| Marker | Sensitivity | Specificity | Notes |
+|----|----|----|----|
+| **WBC (elevated)** | Variable | Low | Often normal in chronic OM |
+| **ESR** | 90% | 60% | Rises slowly; normalizes slowly |
+| **CRP** | 90% | 70% | More sensitive early; faster to normalize |
+| **Procalcitonin** | 75-85% | 75-85% | Higher in acute; useful for monitoring |
+| **Lactate** | — | — | Elevated if acute with systemic toxicity |
 
 <br> <br>
 
@@ -1329,21 +1269,14 @@ Many clinicians start antibiotics empirically without bone culture, which create
 
 <br>
 
-+-----------------------------------+------------------------------------------------------------------------------+
-| Type                              | Common Organisms                                                             |
-+===================================+==============================================================================+
-| **Acute hematogenous (children)** | *S. aureus* (70-80%), streptococci, *H. influenza*e                          |
-+-----------------------------------+------------------------------------------------------------------------------+
-| **Acute hematogenous (adults)**   | S. *aureus* (40-60%), GNR, streptococci                                      |
-+-----------------------------------+------------------------------------------------------------------------------+
-| **IVDU, vertebral**               | *S. aureus* (incl. MRSA), *Pseudomonas, Serratia*                            |
-+-----------------------------------+------------------------------------------------------------------------------+
-| **Diabetic foot**                 | *S. aureus*, streptococci, *E. coli, Pseudomonas,* anaerobes (polymicrobial) |
-+-----------------------------------+------------------------------------------------------------------------------+
-| **Post-surgical, open fracture**  | *S. aureus*, streptococci, GNR, anaerobes, *Clostridium*                     |
-+-----------------------------------+------------------------------------------------------------------------------+
-| **Vertebral (non-IVDU)**          | *S. aureu*s (30-50%), TB, *Brucella*, <br> fungi (in endemic areas)          |
-+-----------------------------------+------------------------------------------------------------------------------+
+| Type | Common Organisms |
+|----|----|
+| **Acute hematogenous (children)** | *S. aureus* (70-80%), streptococci, *H. influenza*e |
+| **Acute hematogenous (adults)** | S. *aureus* (40-60%), GNR, streptococci |
+| **IVDU, vertebral** | *S. aureus* (incl. MRSA), *Pseudomonas, Serratia* |
+| **Diabetic foot** | *S. aureus*, streptococci, *E. coli, Pseudomonas,* anaerobes (polymicrobial) |
+| **Post-surgical, open fracture** | *S. aureus*, streptococci, GNR, anaerobes, *Clostridium* |
+| **Vertebral (non-IVDU)** | *S. aureu*s (30-50%), TB, *Brucella*, <br> fungi (in endemic areas) |
 
 ::: aside
 *S. aureus* dominates across categories. In IVDU, always cover for Pseudomonas. In diabetic foot, polymicrobial coverage is empirical standard. TB must be considered in vertebral OM, especially if patient is endemic-area resident or has TB risk. Anaerobes are often overlooked in polymicrobial infections like diabetic foot OM.
@@ -1437,15 +1370,11 @@ Historical preference for antistaphylococcal penicillins over cefazolin for deep
 
 <br>
 
-+----------------------------------------------+--------------------------------------------------------+------------------------------------------+-----------------------------------------------------------------------------+
-| Organism                                     | First-Line                                             | Alternative                              | Notes                                                                       |
-+==============================================+========================================================+==========================================+=============================================================================+
-| **Enterococci**                              | Ampicillin 2g q4h (if susceptible)                     | Vancomycin 15-20 mg/kg q8-12h            | High-dose ampicillin preferred; never monotherapy fluoroquinolone           |
-+----------------------------------------------+--------------------------------------------------------+------------------------------------------+-----------------------------------------------------------------------------+
-| **Gram-negative rods (E. coli, Klebsiella)** | Cefepime 2g q12h or Meropenem 1g q8h                   | Fluoroquinolone (levofloxacin 750 daily) | Cephalosporin or carbapenem preferred; fluoroquinolone inferior             |
-+----------------------------------------------+--------------------------------------------------------+------------------------------------------+-----------------------------------------------------------------------------+
-| **Pseudomonas aeruginosa**                   | Cefepime 2g q12h or Piperacillin-tazobactam 4.5g q6-8h | Meropenem 1g q8h, Fluoroquinolone        | Dual coverage sometimes advocated early; optimize based on susceptibilities |
-+----------------------------------------------+--------------------------------------------------------+------------------------------------------+-----------------------------------------------------------------------------+
+| Organism | First-Line | Alternative | Notes |
+|----|----|----|----|
+| **Enterococci** | Ampicillin 2g q4h (if susceptible) | Vancomycin 15-20 mg/kg q8-12h | High-dose ampicillin preferred; never monotherapy fluoroquinolone |
+| **Gram-negative rods (E. coli, Klebsiella)** | Cefepime 2g q12h or Meropenem 1g q8h | Fluoroquinolone (levofloxacin 750 daily) | Cephalosporin or carbapenem preferred; fluoroquinolone inferior |
+| **Pseudomonas aeruginosa** | Cefepime 2g q12h or Piperacillin-tazobactam 4.5g q6-8h | Meropenem 1g q8h, Fluoroquinolone | Dual coverage sometimes advocated early; optimize based on susceptibilities |
 
 ::: notes
 Gram-negative OM is challenging because fluoroquinolones, while oral-available, have lower efficacy than beta-lactams. Cefepime and piperacillin-tazobactam are better choices if patient tolerates IV. Pseudomonas is particularly difficult because of biofilm formation and resistance. High-dose antipseudomonal therapy is essential.
@@ -1485,17 +1414,12 @@ Gram-negative OM is challenging because fluoroquinolones, while oral-available, 
 
 <br>
 
-+---------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------+
-| Organism                  | First-Line Oral                                      | Duration      | Notes                                                               |
-+===========================+======================================================+===============+=====================================================================+
-| **MSSA**                  | Flucloxacillin 1-1.5g PO q6h (if available)          | Total 4-6 wks | Excellent oral MSSA option in Europe; not available in US           |
-+---------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------+
-| **MSSA (USA)**            | Cephalexin 500-750 mg PO q6h                         | Total 4-6 wks | Good absorption; limit to less severe                               |
-+---------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------+
-| **MSSA (USA, preferred)** | Levofloxacin 750 mg PO daily ± Rifampin 600 mg daily | Total 4-6 wks | Fluoroquinolone penetration excellent; add rifampin for biofilm     |
-+---------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------+
-| **MRSA (preferred)**      | Linezolid 600 mg PO q12h                             | Total 4-6 wks | Excellent bioavailability; monitor for bone marrow toxicity \>2 wks |
-+---------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------+
+| Organism | First-Line Oral | Duration | Notes |
+|----|----|----|----|
+| **MSSA** | Flucloxacillin 1-1.5g PO q6h (if available) | Total 4-6 wks | Excellent oral MSSA option in Europe; not available in US |
+| **MSSA (USA)** | Cephalexin 500-750 mg PO q6h | Total 4-6 wks | Good absorption; limit to less severe |
+| **MSSA (USA, preferred)** | Levofloxacin 750 mg PO daily ± Rifampin 600 mg daily | Total 4-6 wks | Fluoroquinolone penetration excellent; add rifampin for biofilm |
+| **MRSA (preferred)** | Linezolid 600 mg PO q12h | Total 4-6 wks | Excellent bioavailability; monitor for bone marrow toxicity \>2 wks |
 
 ::: notes
 The OVIVA trial used fluoroquinolones + rifampin for Staph OM because of excellent bioavailability and bone penetration. Linezolid offers similar advantages for MRSA but bone marrow toxicity limits duration. In Europe, flucloxacillin remains available and is an excellent MSSA option. In the US, oral options are more limited. Always confirm organism susceptibility (especially for fluoroquinolones and rifampin) before prescribing.
@@ -1505,17 +1429,12 @@ The OVIVA trial used fluoroquinolones + rifampin for Staph OM because of excelle
 
 <br>
 
-+---------------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------------+
-| Organism                        | First-Line Oral                                      | Duration      | Notes                                                                     |
-+=================================+======================================================+===============+===========================================================================+
-| **Streptococci (penicillin-S)** | Amoxicillin 500-750 mg PO q6h                        | Total 4-6 wks | Excellent absorption; standard option                                     |
-+---------------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------------+
-| **Enterococci**                 | Amoxicillin 500-750 mg PO q6h                        | Total 4-6 wks | Ampicillin equivalent; ensure susceptibility                              |
-+---------------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------------+
-| **Enterobacteriaceae**          | Cephalexin 500 mg PO q6h or Levofloxacin 750 daily   | Total 4-6 wks | Fluoroquinolone preferred for difficult organisms                         |
-+---------------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------------+
-| **Pseudomonas**                 | Levofloxacin 750 mg PO daily ± Rifampin 600 mg daily | Total 4-6 wks | High-dose fluoroquinolone; add rifampin preferred; monitor susceptibility |
-+---------------------------------+------------------------------------------------------+---------------+---------------------------------------------------------------------------+
+| Organism | First-Line Oral | Duration | Notes |
+|----|----|----|----|
+| **Streptococci (penicillin-S)** | Amoxicillin 500-750 mg PO q6h | Total 4-6 wks | Excellent absorption; standard option |
+| **Enterococci** | Amoxicillin 500-750 mg PO q6h | Total 4-6 wks | Ampicillin equivalent; ensure susceptibility |
+| **Enterobacteriaceae** | Cephalexin 500 mg PO q6h or Levofloxacin 750 daily | Total 4-6 wks | Fluoroquinolone preferred for difficult organisms |
+| **Pseudomonas** | Levofloxacin 750 mg PO daily ± Rifampin 600 mg daily | Total 4-6 wks | High-dose fluoroquinolone; add rifampin preferred; monitor susceptibility |
 
 ::: notes
 For enterobacteria and Pseudomonas, fluoroquinolone monotherapy (especially levofloxacin 750 mg daily) has decent outcomes in OM because of excellent bone penetration. However, resistance development is a risk—add rifampin for combination therapy if biofilm suspected. Always ensure adequate absorptive capacity (no severe diarrhea, functional GI tract).
@@ -1963,15 +1882,11 @@ PJI is becoming more common and more expensive to treat. Prevention through peri
 
 <br>
 
-+------------------------+--------------------------------------+------------------------------------------------------------------------------+---------------------------------------------------+
-| Timing                 | Definition                           | Organisms                                                                    | Management                                        |
-+========================+======================================+==============================================================================+===================================================+
-| **Early**              | \<4 weeks post-op                    | S. aureus, streptococci, gram-negatives                                      | Often DAIR; consider exchange if late in interval |
-+------------------------+--------------------------------------+------------------------------------------------------------------------------+---------------------------------------------------+
-| **Acute Hematogenous** | Any time post-op; acute presentation | S. aureus, streptococci, gram-negatives                                      | Often DAIR if early response                      |
-+------------------------+--------------------------------------+------------------------------------------------------------------------------+---------------------------------------------------+
-| **Chronic**            | \>4 weeks (usually months to years)  | CoNS (esp. if indolent), S. aureus, Cutibacterium (shoulder), gram-negatives | Two-stage exchange standard                       |
-+------------------------+--------------------------------------+------------------------------------------------------------------------------+---------------------------------------------------+
+| Timing | Definition | Organisms | Management |
+|----|----|----|----|
+| **Early** | \<4 weeks post-op | S. aureus, streptococci, gram-negatives | Often DAIR; consider exchange if late in interval |
+| **Acute Hematogenous** | Any time post-op; acute presentation | S. aureus, streptococci, gram-negatives | Often DAIR if early response |
+| **Chronic** | \>4 weeks (usually months to years) | CoNS (esp. if indolent), S. aureus, Cutibacterium (shoulder), gram-negatives | Two-stage exchange standard |
 
 <br>
 
@@ -2073,23 +1988,15 @@ The organism matters for prognosis and therapy selection. CoNS may present insid
 
 <br>
 
-+----------------------------------------------+-----------------------------------------------+---------------+
-| Risk factor                                  | Mechanism                                     | Relative risk |
-+==============================================+===============================================+===============+
-| **Obesity**                                  | Impaired immune response, wound complications | 1.5-2×        |
-+----------------------------------------------+-----------------------------------------------+---------------+
-| **Diabetes mellitus**                        | Impaired wound healing, immunosuppression     | 2-3×          |
-+----------------------------------------------+-----------------------------------------------+---------------+
-| **Rheumatoid arthritis**                     | Immunosuppressive therapy, joint inflammation | 2-3×          |
-+----------------------------------------------+-----------------------------------------------+---------------+
-| **Immunosuppression** (TNFi, steroids, etc.) | Direct immune suppression                     | 2-5×          |
-+----------------------------------------------+-----------------------------------------------+---------------+
-| **Prior arthroplasty**                       | Revision procedure, tissue trauma             | 2-3×          |
-+----------------------------------------------+-----------------------------------------------+---------------+
-| **Surgical site infection/complications**    | Direct inoculation                            | 3-5×          |
-+----------------------------------------------+-----------------------------------------------+---------------+
-| **Male sex** (controversial)                 | Possibly worse wound healing                  | 1.2-1.5×      |
-+----------------------------------------------+-----------------------------------------------+---------------+
+| Risk factor | Mechanism | Relative risk |
+|----|----|----|
+| **Obesity** | Impaired immune response, wound complications | 1.5-2× |
+| **Diabetes mellitus** | Impaired wound healing, immunosuppression | 2-3× |
+| **Rheumatoid arthritis** | Immunosuppressive therapy, joint inflammation | 2-3× |
+| **Immunosuppression** (TNFi, steroids, etc.) | Direct immune suppression | 2-5× |
+| **Prior arthroplasty** | Revision procedure, tissue trauma | 2-3× |
+| **Surgical site infection/complications** | Direct inoculation | 3-5× |
+| **Male sex** (controversial) | Possibly worse wound healing | 1.2-1.5× |
 
 ::: aside
 The modifiable risk factors (obesity, DM control) should be optimized pre-operatively. The non-modifiable factors (prior surgery, immunosuppression) should inform perioperative prophylaxis intensity and duration. Anticipate higher infection risk in obese, diabetic, or immunosuppressed patients and consider extended prophylaxis or alternative strategies.
@@ -2099,19 +2006,13 @@ The modifiable risk factors (obesity, DM control) should be optimized pre-operat
 
 <br>
 
-+-------------------+-------------+-------------+----------------------------------------------------------------------------------+
-| Marker            | Sensitivity | Specificity | Notes                                                                            |
-+===================+=============+=============+==================================================================================+
-| **CRP**           | 85-90%      | 60-65%      | Elevated \>10 mg/L suggestive; <br>returns to normal within weeks of eradication |
-+-------------------+-------------+-------------+----------------------------------------------------------------------------------+
-| **ESR**           | 75-80%      | 50-60%      | Less specific; rises slowly; slower to normalize than CRP                        |
-+-------------------+-------------+-------------+----------------------------------------------------------------------------------+
-| **D-dimer**       | 85-90%      | 40-50%      | Emerging marker; promising but not yet standard                                  |
-+-------------------+-------------+-------------+----------------------------------------------------------------------------------+
-| **Procalcitonin** | Variable    | Variable    | Limited data in PJI; not standard                                                |
-+-------------------+-------------+-------------+----------------------------------------------------------------------------------+
-| **Combination**   | \>95%       | \>70%       | ESR + CRP improves discrimination from aseptic loosening                         |
-+-------------------+-------------+-------------+----------------------------------------------------------------------------------+
+| Marker | Sensitivity | Specificity | Notes |
+|----|----|----|----|
+| **CRP** | 85-90% | 60-65% | Elevated \>10 mg/L suggestive; <br>returns to normal within weeks of eradication |
+| **ESR** | 75-80% | 50-60% | Less specific; rises slowly; slower to normalize than CRP |
+| **D-dimer** | 85-90% | 40-50% | Emerging marker; promising but not yet standard |
+| **Procalcitonin** | Variable | Variable | Limited data in PJI; not standard |
+| **Combination** | \>95% | \>70% | ESR + CRP improves discrimination from aseptic loosening |
 
 <br>
 
@@ -2289,15 +2190,11 @@ The choice of surgical strategy depends on the infection (early vs. chronic), or
 
 <br>
 
-+-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| Organism    | IV Phase                                                                     | Oral/Suppressive Phase                                                       | Duration                                             |
-+=============+==============================================================================+==============================================================================+======================================================+
-| **MSSA**    | Cefazolin 2g q8h or oxacillin/nafcillin 2g q4h                               | Cephalexin 500-750 PO q6h OR Levofloxacin 750 daily + Rifampin 600 daily     | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
-+-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| **MRSA**    | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h (AUC/MIC 400-600) | Linezolid 600 mg PO q12h OR Levofloxacin 750 + Rifampin 600 (if susceptible) | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
-+-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| **CoNS**    | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h                   | Linezolid 600 mg q12h OR Levofloxacin + Rifampin                             | IV 2 wks, then PO 4-6 wks (DAIR); longer if exchange |
-+-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
+| Organism | IV Phase | Oral/Suppressive Phase | Duration |
+|----|----|----|----|
+| **MSSA** | Cefazolin 2g q8h or oxacillin/nafcillin 2g q4h | Cephalexin 500-750 PO q6h OR Levofloxacin 750 daily + Rifampin 600 daily | IV 2 wks, then PO 4-6 wks (total 6-8 wks) |
+| **MRSA** | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h (AUC/MIC 400-600) | Linezolid 600 mg PO q12h OR Levofloxacin 750 + Rifampin 600 (if susceptible) | IV 2 wks, then PO 4-6 wks (total 6-8 wks) |
+| **CoNS** | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h | Linezolid 600 mg q12h OR Levofloxacin + Rifampin | IV 2 wks, then PO 4-6 wks (DAIR); longer if exchange |
 
 ::: aside
 The organisms guide therapy. MSSA responds well to cephalosporins or anti-staphylococcal penicllins. MRSA and CoNS require daptomycin or vancomycin initially. Rifampin is often added to the oral phase because of its biofilm activity, though evidence for benefit is stronger in PJI than elsewhere. Duration depends on surgical strategy: DAIR may be shorter if successful; two-stage exchange typically 6 weeks IV spacer + 4-6 weeks final antibiotics = 10-12 weeks total.
@@ -2307,21 +2204,14 @@ The organisms guide therapy. MSSA responds well to cephalosporins or anti-staphy
 
 <br>
 
-+-------------------------+---------------------------------------------------------------+-------------------------------------------------------+------------------------------------------------+
-| Organism                | IV Phase                                                      | Oral/Suppressive Phase                                | Notes                                          |
-+=========================+===============================================================+=======================================================+================================================+
-| **Streptococci**        | Penicillin G 4 MU q4h OR Cefazolin 2g q8h                     | Amoxicillin 500 mg PO q6h OR Cephalexin 500 mg q6h    | Excellent outcomes; can de-escalate early      |
-+-------------------------+---------------------------------------------------------------+-------------------------------------------------------+------------------------------------------------+
-| **Enterococci**         | Ampicillin 2g q4h (if susceptible) OR Vancomycin + Gentamicin | Amoxicillin 500 mg q6h (if susceptible)               | Require synergistic therapy; difficult to cure |
-+-------------------------+---------------------------------------------------------------+-------------------------------------------------------+------------------------------------------------+
-| **Enterobacteriaceae**  | Cefepime 2g q12h OR Meropenem 1g q8h                          | Levofloxacin 750 daily OR Cephalexin (if susceptible) | Fluoroquinolone high bioavailability           |
-+-------------------------+---------------------------------------------------------------+-------------------------------------------------------+------------------------------------------------+
-| **Pseudomonas**         | Cefepime 2g q12h OR Piperacillin-tazobactam 4.5g q6h          | Levofloxacin 750 daily ± Rifampin                     | High-dose fluoroquinolone; poor cure rates     |
-+-------------------------+---------------------------------------------------------------+-------------------------------------------------------+------------------------------------------------+
-| **Cutibacterium acnes** | Penicillin G 4 MU q4h                                         | Amoxicillin 500 mg q6h                                | Slow-growing; shoulder joint common            |
-+-------------------------+---------------------------------------------------------------+-------------------------------------------------------+------------------------------------------------+
-| **Anaerobes**           | Meropenem OR Piperacillin-tazobactam                          | Amoxicillin-clavulanate OR Clindamycin                | Often polymicrobial; cover gram-negative       |
-+-------------------------+---------------------------------------------------------------+-------------------------------------------------------+------------------------------------------------+
+| Organism | IV Phase | Oral/Suppressive Phase | Notes |
+|----|----|----|----|
+| **Streptococci** | Penicillin G 4 MU q4h OR Cefazolin 2g q8h | Amoxicillin 500 mg PO q6h OR Cephalexin 500 mg q6h | Excellent outcomes; can de-escalate early |
+| **Enterococci** | Ampicillin 2g q4h (if susceptible) OR Vancomycin + Gentamicin | Amoxicillin 500 mg q6h (if susceptible) | Require synergistic therapy; difficult to cure |
+| **Enterobacteriaceae** | Cefepime 2g q12h OR Meropenem 1g q8h | Levofloxacin 750 daily OR Cephalexin (if susceptible) | Fluoroquinolone high bioavailability |
+| **Pseudomonas** | Cefepime 2g q12h OR Piperacillin-tazobactam 4.5g q6h | Levofloxacin 750 daily ± Rifampin | High-dose fluoroquinolone; poor cure rates |
+| **Cutibacterium acnes** | Penicillin G 4 MU q4h | Amoxicillin 500 mg q6h | Slow-growing; shoulder joint common |
+| **Anaerobes** | Meropenem OR Piperacillin-tazobactam | Amoxicillin-clavulanate OR Clindamycin | Often polymicrobial; cover gram-negative |
 
 ::: aside
 Enterococci are notoriously difficult to cure—they require synergistic therapy and high failure rates are expected. Cutibacterium acnes, especially on the shoulder, can be subtle; cultures require prolonged incubation (7-10 days). Anaerobes are often overlooked in polymicrobial PJI. Pseudomonas OM/PJI is challenging—fluoroquinolones are preferred for bioavailability, but cure rates remain suboptimal even with optimal therapy.
@@ -2445,19 +2335,13 @@ Perioperative prophylaxis is evidence-based and highly effective. The challenge 
 
 <br>
 
-+-----------+----------------------------------------------+-----------------------------+--------------------------------------+-------------+
-| Type      | Definition                                   | Soft Tissue Injury          | Antibiotic Regimen                   | Duration    |
-+===========+==============================================+=============================+======================================+=============+
-| **I**     | \<1 cm wound, clean, low energy              | Minimal                     | Cefazolin 1-2 g IV q8h               | 24 hours    |
-+-----------+----------------------------------------------+-----------------------------+--------------------------------------+-------------+
-| **II**    | 1-10 cm wound, moderate energy               | Moderate soft tissue injury | Cefazolin + Gentamicin               | 24 hours    |
-+-----------+----------------------------------------------+-----------------------------+--------------------------------------+-------------+
-| **IIIA**  | \>10 cm wound, high energy, flap needed      | Extensive                   | Cefazolin + Gentamicin + Clindamycin | 24-72 hours |
-+-----------+----------------------------------------------+-----------------------------+--------------------------------------+-------------+
-| **IIIB**  | Type IIIA + vascular injury requiring repair | Extensive                   | Cefazolin + Gentamicin + Clindamycin | 72 hours    |
-+-----------+----------------------------------------------+-----------------------------+--------------------------------------+-------------+
-| **IIIC**  | Type III + arterial injury                   | Extensive                   | Cefazolin + Gentamicin + Clindamycin | 72 hours    |
-+-----------+----------------------------------------------+-----------------------------+--------------------------------------+-------------+
+| Type | Definition | Soft Tissue Injury | Antibiotic Regimen | Duration |
+|----|----|----|----|----|
+| **I** | \<1 cm wound, clean, low energy | Minimal | Cefazolin 1-2 g IV q8h | 24 hours |
+| **II** | 1-10 cm wound, moderate energy | Moderate soft tissue injury | Cefazolin + Gentamicin | 24 hours |
+| **IIIA** | \>10 cm wound, high energy, flap needed | Extensive | Cefazolin + Gentamicin + Clindamycin | 24-72 hours |
+| **IIIB** | Type IIIA + vascular injury requiring repair | Extensive | Cefazolin + Gentamicin + Clindamycin | 72 hours |
+| **IIIC** | Type III + arterial injury | Extensive | Cefazolin + Gentamicin + Clindamycin | 72 hours |
 
 ::: aside
 Open fractures have high infection risk proportional to injury severity. Gustilo Type III (especially IIIB/C) have 10-50% infection rates despite antibiotics. The key is rapid administration (within 1 hour) plus early surgical debridement. Clindamycin is added for anaerobic and Clostridium coverage in Type III. Always consider tetanus prophylaxis and irrigation/debridement at bedside or OR within hours of injury.
