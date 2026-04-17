@@ -901,6 +901,51 @@ Cefazolin is now preferred over antistaphylococal PCNs. Nafcillin and oxacillin 
 Dalbavancin is interesting because less frequent dosing may improve adherence, but clinical outcome data in septic arthritis are sparse. Don't use these agents empirically—stick with daptomycin or vancomycin for proven outcomes. Ceftaroline offers a bridge between MSSA agents and MRSA coverage; consider in empirical regimens if MRSA risk is high but not certain.
 :::
 
+## DOTS trial
+
+::::: columns
+
+::: {.column width="50%"}
+-    **Noninferior efficacy**
+
+    -    Comparable safety
+
+    -    Major logistical advantage (no long-term IV access)
+
+    -    Patients where **OPAT is difficult or unsafe**
+
+    -    IVDU, poor access, adherence concerns
+
+-    Situations where avoiding central lines is valuable
+
+Important nuance:
+
+-    Trial population was **selected (post-clearance, lower-risk)** → limits generalizability to:
+
+    -    Persistent bacteremia
+
+    -    Left-sided endocarditis
+
+    -    Deep uncontrolled foci
+:::
+
+::: {.column width="50%"}
+![](bone-joint-infections-images/DOTS trial.png){fig-align="center"}
+:::
+:::::
+
+::: aside
+[@turner2025a]
+:::
+
+## Dalbavancin TDM
+
+![](bone-joint-infections-images/dalbavancin.png){fig-align="center"}
+
+::: aside
+[@volk2024]
+:::
+
 ## Duration of septic arthritis therapy: Evolving evidence {.smaller}
 
 <br>
@@ -1337,7 +1382,7 @@ Many clinicians start antibiotics empirically without bone culture, which create
 
 <br>
 
-**Source control (Surgical)**: Debridement of all necrotic, infected bone and soft tissue
+**Source control (surgical)**: Debridement of all necrotic, infected bone and soft tissue
 
 -   Adequate to achieve bleeding margin
 
@@ -1345,7 +1390,7 @@ Many clinicians start antibiotics empirically without bone culture, which create
 
 -   Dead space management (flap, cement spacer, bone graft)
 
-**Antimicrobial therapy (Medical)**: IV phase: weeks 1-4 (sometimes longer)
+**Antimicrobial therapy (medical)**: IV phase: weeks 1-4 (sometimes longer)
 
 -   Oral phase: weeks 4+ after clinical improvement
 
@@ -1453,7 +1498,7 @@ Gram-negative OM is challenging because fluoroquinolones, while oral-available, 
 The OVIVA trial used fluoroquinolones + rifampin for Staph OM because of excellent bioavailability and bone penetration. Linezolid offers similar advantages for MRSA but bone marrow toxicity limits duration. In Europe, flucloxacillin remains available and is an excellent MSSA option. In the US, oral options are more limited. Always confirm organism susceptibility (especially for fluoroquinolones and rifampin) before prescribing.
 :::
 
-## Oral Therapy Regimens for Osteomyelitis (Part 2)
+## Oral therapy regimens for osteomyelitis (Part 2)
 
 <br>
 
@@ -1483,13 +1528,13 @@ For enterobacteria and Pseudomonas, fluoroquinolone monotherapy (especially levo
 :::
 
 ::: {.column width="50%"}
--   **Unique Properties**:
+-   **Unique properties**:
 
     -   Excellent intracellular penetration, kills biofilm-associated bacteria (10-100× better than monotherapy)
 
     -   Penetrates bone better than most antibiotics - Achieves high synovial concentrations
 
--   **Rules for Use**
+-   **Rules for use**
 
     -   **NEVER monotherapy** — rapidly selects resistance
 
@@ -1885,7 +1930,7 @@ IVDU-related OM is a growing problem. The organisms are predictable (Staph, Pseu
 
 -   Major criterion: Positive culture of ≥2 tissue/fluid samples
 
-    -    *OR* purulent joint fluid
+    -   *OR* purulent joint fluid
 
     -   *OR* sinus tract communicating to joint
 
@@ -2007,7 +2052,7 @@ The biofilm paradigm explains why PJI treatment requires both surgery (remove th
 
     -   **Knee/Hip:** CoNS, S. aureus dominate
 
-    -    **IVDU patients:** S. aureus (MRSA common), Pseudomonas, polymicrobial
+    -   **IVDU patients:** S. aureus (MRSA common), Pseudomonas, polymicrobial
 
 -   **Organism-prognosis correlation**
 
@@ -2079,7 +2124,7 @@ Serum markers help guide suspicion and are useful in combination (ESR + CRP elev
 
 ::::: columns
 ::: {.column width="50%"}
-![](bone-joint-infections-images/aspiration 3.png){fig-align="center" width="350"}
+![](bone-joint-infections-images/aspiration%203.png){fig-align="center" width="350"}
 :::
 
 ::: {.column width="50%"}
@@ -2159,7 +2204,7 @@ Alpha-defensin is an antimicrobial peptide elevated in infected joints; it's hig
 Obtaining multiple tissue samples from different sites increases diagnostic yield and confidence (≥2 positive samples = diagnostic for PJI per EBJIS criteria). Sonication is increasingly standard practice in PJI surgery centers. The 14-day holding period is essential—don't sign out as negative at 48 hours. CoNS and Cutibacterium may take 5-7 days to grow.
 :::
 
-## Diagnostic Algorithm for Suspected PJI
+## Diagnostic algorithm for suspected PJI
 
 <br>
 
@@ -2179,7 +2224,7 @@ Obtaining multiple tissue samples from different sites increases diagnostic yiel
 
     -   Novel biomarkers (alpha-defensin) if available
 
-    -    Molecular testing if culture-negative suspected
+    -   Molecular testing if culture-negative suspected
 
 -   **Step 3: Imaging**
 
@@ -2199,7 +2244,7 @@ Obtaining multiple tissue samples from different sites increases diagnostic yiel
 The diagnostic algorithm balances speed with accuracy. A patient with acute fever, purulent drainage from sinus tract, and WBC 10,000 in synovial fluid has PJI until proven otherwise—go to surgery. A patient with insidious pain, elevated ESR, but negative initial aspiration might warrant repeat aspiration or observation. Culture-negative results require correlation with clinical suspicion and operative findings.
 :::
 
-## Treatment Algorithm: <br> DAIR vs. One-Stage vs. Two-Stage Exchange {.smaller}
+## Treatment algorithm: <br> DAIR vs. one-stage vs. two-stage exchange {.smaller}
 
 -   **DAIR (Debridement, Antibiotics, Implant Retention)**
 
@@ -2229,7 +2274,7 @@ The diagnostic algorithm balances speed with accuracy. A patient with acute feve
 
     -   **Advantages:** Highest success rate, bone stock remodeling, staged risk
 
-    -    **Disadvantages:** Two surgeries, extended treatment period, temporary disability
+    -   **Disadvantages:** Two surgeries, extended treatment period, temporary disability
 
     <br> <br>
 
@@ -2237,25 +2282,25 @@ The diagnostic algorithm balances speed with accuracy. A patient with acute feve
 The choice of surgical strategy depends on the infection (early vs. chronic), organism (biofilm burden), patient factors (age, comorbidities), and bone quality. DAIR works best in early infections caught within 2 weeks and with susceptible organisms like streptococci. Two-stage is the traditional gold standard for chronic infections with high success rates. One-stage exchange is gaining acceptance as outcomes data accumulate and surgical techniques improve.
 :::
 
-## Pathogen-Specific Therapy for PJI (Part 1)
+## Pathogen-specific therapy for PJI (Part 1)
 
 <br>
 
-+-------------+-------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| Organism    | IV Phase                                                                      | Oral/Suppressive Phase                                                       | Duration                                             |
-+=============+===============================================================================+==============================================================================+======================================================+
-| **MSSA**    | Cefazolin 2g q8h or oxacillin/nafcillin 2g q4h                                | Cephalexin 500-750 PO q6h OR Levofloxacin 750 daily + Rifampin 600 daily     | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
-+-------------+-------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| **MRSA**    | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h (AUC/MIC 400-600)  | Linezolid 600 mg PO q12h OR Levofloxacin 750 + Rifampin 600 (if susceptible) | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
-+-------------+-------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
-| **CoNS**    | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h                    | Linezolid 600 mg q12h OR Levofloxacin + Rifampin                             | IV 2 wks, then PO 4-6 wks (DAIR); longer if exchange |
-+-------------+-------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
++-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
+| Organism    | IV Phase                                                                     | Oral/Suppressive Phase                                                       | Duration                                             |
++=============+==============================================================================+==============================================================================+======================================================+
+| **MSSA**    | Cefazolin 2g q8h or oxacillin/nafcillin 2g q4h                               | Cephalexin 500-750 PO q6h OR Levofloxacin 750 daily + Rifampin 600 daily     | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
++-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
+| **MRSA**    | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h (AUC/MIC 400-600) | Linezolid 600 mg PO q12h OR Levofloxacin 750 + Rifampin 600 (if susceptible) | IV 2 wks, then PO 4-6 wks (total 6-8 wks)            |
++-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
+| **CoNS**    | Daptomycin 10 mg/kg daily OR Vancomycin 15-20 mg/kg q8-12h                   | Linezolid 600 mg q12h OR Levofloxacin + Rifampin                             | IV 2 wks, then PO 4-6 wks (DAIR); longer if exchange |
++-------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------+------------------------------------------------------+
 
 ::: aside
 The organisms guide therapy. MSSA responds well to cephalosporins or anti-staphylococcal penicllins. MRSA and CoNS require daptomycin or vancomycin initially. Rifampin is often added to the oral phase because of its biofilm activity, though evidence for benefit is stronger in PJI than elsewhere. Duration depends on surgical strategy: DAIR may be shorter if successful; two-stage exchange typically 6 weeks IV spacer + 4-6 weeks final antibiotics = 10-12 weeks total.
 :::
 
-## Pathogen-Specific Therapy for PJI (Part 2)
+## Pathogen-specific therapy for PJI (Part 2)
 
 <br>
 
@@ -2279,7 +2324,7 @@ The organisms guide therapy. MSSA responds well to cephalosporins or anti-staphy
 Enterococci are notoriously difficult to cure—they require synergistic therapy and high failure rates are expected. Cutibacterium acnes, especially on the shoulder, can be subtle; cultures require prolonged incubation (7-10 days). Anaerobes are often overlooked in polymicrobial PJI. Pseudomonas OM/PJI is challenging—fluoroquinolones are preferred for bioavailability, but cure rates remain suboptimal even with optimal therapy.
 :::
 
-## Rifampin in prosthetic joint infections: Landmark Evidence
+## Rifampin in prosthetic joint infections: <br> Landmark Evidence
 
 <br>
 
@@ -2295,8 +2340,6 @@ Enterococci are notoriously difficult to cure—they require synergistic therapy
 
     -   **Fluoroquinolone alone group: 67% success**
 
-    -   Landmark trial establishing rifampin role
-
 -   **Current Use**
 
     -   Rifampin added to IV phase (at least 2 weeks)
@@ -2311,7 +2354,9 @@ Enterococci are notoriously difficult to cure—they require synergistic therapy
 :::
 
 ::: {.column width="50%"}
-![](bone-joint-infections-images/rifampin.png)
+<br> <br> <br>
+
+![](bone-joint-infections-images/rifampin.png){width="350"}
 :::
 :::::
 
@@ -2319,39 +2364,81 @@ Enterococci are notoriously difficult to cure—they require synergistic therapy
 Zimmerli et al., *JAMA*, 1998
 :::
 
-::: notes
+::: aside
 The Zimmerli trial is the basis for modern PJI therapy with rifampin. The 100% success with combination therapy was striking compared to 67% with monotherapy. However, note that all patients underwent surgery (DAIR)—antibiotics alone are insufficient even with rifampin. Monitor for CYP3A4 interactions and AST/ALT elevation. Orange discoloration of body fluids is common and benign.
 :::
 
-## Suppressive Therapy in Prosthetic Joint Infection
+## Suppressive therapy in prosthetic joint infection
 
 <br>
 
-**Indications** - Patient unfit for surgery or refuses surgery - Multiple failed eradication attempts - Immunocompromised unable to tolerate multiple surgeries - Palliative care goals
+-   **Indications** - Patient unfit for surgery or refuses surgery
 
-**Agents Used** - Fluoroquinolone (levofloxacin 750 mg daily) + Rifampin 600 mg daily - Linezolid 600 mg q12h (if Staph) - Doxycycline (if susceptible) - Continued indefinitely (until death, implant removal, or status change)
+    -   Multiple failed eradication attempts
 
-**Outcomes** - Suppresses symptoms (pain, drainage) but doesn't eradicate infection - Biofilm remains; recurrence if therapy stopped - Quality of life improved vs. surgery in selected patients - Long-term antimicrobial toxicity (bone marrow, GI, hepatic) risk
+    -   Immunocompromised unable to tolerate multiple surgeries
 
-::: notes
+    -   Palliative care goals
+
+-   **Agents used**
+
+    -   Fluoroquinolone (levofloxacin 750 mg daily) + Rifampin 600 mg daily
+
+    -   Linezolid 600 mg q12h (if Staph)
+
+    -   Doxycycline (if susceptible)
+
+    -   Continued indefinitely (until death, implant removal, or status change)
+
+-   **Outcomes**
+
+    -   Suppresses symptoms (pain, drainage) but doesn't eradicate infection
+
+    -   Biofilm remains; recurrence if therapy stopped
+
+    -   Quality of life improved vs. surgery in selected patients
+
+    -   Long-term antimicrobial toxicity (bone marrow, GI, hepatic) risk
+
+::: aside
 Suppressive therapy is a realistic option for elderly, frail, or immunocompromised patients who can't tolerate surgery. It's not a cure—it's managing a chronic infection. Explain this clearly to patients. Some will choose suppression over repeat surgery; others will proceed with aggressive therapy. Ensure adequate monitoring for drug toxicity with prolonged use.
 :::
 
-## Prevention of Prosthetic Joint Infection: Perioperative Prophylaxis
+## Prevention of prosthetic joint infection: Perioperative prophylaxis
 
 <br>
 
-**Standard Prophylaxis (Most Cases)** - **Cefazolin 1-2 g IV** within 60 minutes preoperative - Redose: 1 g IV intraoperatively (if procedure \>2 hours) - Discontinue within 24 hours postoperative - Vancomycin (1-1.5 g IV) if beta-lactam allergy or MRSA colonization
+-   **Standard prophylaxis (most cases)**
 
-**Allergy Alternatives** - **PCN allergy (non-anaphylaxis):** Cephalosporin safe (1% cross-reactivity) - **True IgE-mediated/anaphylaxis:** Vancomycin 1-1.5 g IV - **PCN + cephalosporin allergy:** Fluoroquinolone (levofloxacin) or clindamycin
+    -   **Cefazolin 1-2 g IV** within 60 minutes preoperative
 
-**Timing** - Preoperative: Within 60 minutes (120 min for vancomycin) - Redosing: Every 2 hours (or 1 lifetime dose if long case) - Discontinue: \<24 hours postop; \<48 hours if vancomycin
+    -   Redose: 1 g IV intraoperatively (if procedure \>2 hours)
 
-::: notes
+    -   Discontinue within 24 hours postoperative
+
+    -   Vancomycin (1-1.5 g IV) if beta-lactam allergy or MRSA colonization
+
+-   **Allergy alternatives**
+
+    -   **PCN allergy (non-anaphylaxis):** Cephalosporin safe (1% cross-reactivity)
+
+    -   **True IgE-mediated/anaphylaxis:** Vancomycin 1-1.5 g IV
+
+    -   **PCN + cephalosporin allergy:** Fluoroquinolone (levofloxacin) or clindamycin
+
+-   **Timing**
+
+    -   Preoperative: Within 60 minutes (120 min for vancomycin)
+
+    -   Redosing: Every 2 hours (or 1 lifetime dose if long case)
+
+    -   Discontinue: \<24 hours postop; \<48 hours if vancomycin
+
+::: aside
 Perioperative prophylaxis is evidence-based and highly effective. The challenge is compliance with timing. Many surgical delays result in extended or inadequate prophylaxis. Work with surgical teams to ensure preoperative dosing is optimized. Prolonged prophylaxis (\>24 hours) provides no additional benefit and risks resistance selection.
 :::
 
-## Open Fractures: Gustilo-Anderson Classification and Prophylaxis
+## Open fractures: Gustilo-Anderson classification and prophylaxis
 
 <br>
 
@@ -2369,97 +2456,97 @@ Perioperative prophylaxis is evidence-based and highly effective. The challenge 
 | **IIIC**  | Type III + arterial injury                   | Extensive                   | Cefazolin + Gentamicin + Clindamycin | 72 hours    |
 +-----------+----------------------------------------------+-----------------------------+--------------------------------------+-------------+
 
-::: notes
+::: aside
 Open fractures have high infection risk proportional to injury severity. Gustilo Type III (especially IIIB/C) have 10-50% infection rates despite antibiotics. The key is rapid administration (within 1 hour) plus early surgical debridement. Clindamycin is added for anaerobic and Clostridium coverage in Type III. Always consider tetanus prophylaxis and irrigation/debridement at bedside or OR within hours of injury.
 :::
 
-## Summary and Key Clinical Pearls: Native Joint Septic Arthritis
+## Summary and key clinical pearls: Native joint septic arthritis
 
 <br>
 
-**Diagnosis** - Think septic arthritis in every acutely hot joint with fever - Aspire ASAP—don't wait for imaging or labs - Gram stain directs empirical therapy; culture takes 48-72 hours - WBC \>50,000 common but not required; use multiparameter assessment
+-   **Diagnosis** - Think septic arthritis in every acutely hot joint with fever - Aspire ASAP—don't wait for imaging or labs - Gram stain directs empirical therapy; culture takes 48-72 hours - WBC \>50,000 common but not required; use multiparameter assessment
 
-**Empirical Therapy** - Gram stain positive GPC → Vancomycin - Gram stain positive GNR → Cefepime or carbapenem - Unknown → Vancomycin + Cephalosporin - De-escalate once susceptibilities known
+-   **Empirical Therapy** - Gram stain positive GPC → Vancomycin - Gram stain positive GNR → Cefepime or carbapenem - Unknown → Vancomycin + Cephalosporin - De-escalate once susceptibilities known
 
-**Source Control** - Needle aspiration adequate for streptococci and some MSSA - Arthroscopy/arthrotomy needed if poor response or hip involvement - Repeat aspirations acceptable; monitor for improvement
+-   **Source Control** - Needle aspiration adequate for streptococci and some MSSA - Arthroscopy/arthrotomy needed if poor response or hip involvement - Repeat aspirations acceptable; monitor for improvement
 
-**Duration & Outcomes** - 2-4 weeks IV therapy standard (shorter courses being studied for strep) - Consider oral switch for MSSA uncomplicated cases - Permanent disability common (25-50%) even with appropriate therapy
+-   **Duration & Outcomes** - 2-4 weeks IV therapy standard (shorter courses being studied for strep) - Consider oral switch for MSSA uncomplicated cases - Permanent disability common (25-50%) even with appropriate therapy
 
-::: notes
+::: aside
 Native joint septic arthritis is a medical and surgical emergency. The mnemonic is: Suspect → Aspirate → Stain → Treat. Gram stain results within 1 hour drive empirical therapy selection. Source control (aspiration, potentially arthroscopy) combined with high-dose antibiotics gives best outcomes. Don't be complacent about diagnosis—missed septic arthritis leads to permanent joint destruction.
 :::
 
-## Summary and Key Clinical Pearls: Osteomyelitis
+## Summary and Key clinical pearls: Osteomyelitis
 
 <br>
 
-**Diagnosis** - Bone pain + fever + imaging abnormalities = osteomyelitis until proven otherwise - X-ray lags; MRI is gold standard - Bone biopsy (not swab!) is gold standard for organism identification - Culture and susceptibilities guide directed therapy
+-   **Diagnosis** - Bone pain + fever + imaging abnormalities = osteomyelitis until proven otherwise - X-ray lags; MRI is gold standard - Bone biopsy (not swab!) is gold standard for organism identification - Culture and susceptibilities guide directed therapy
 
-**Empirical Therapy** - S. aureus coverage essential (nafcillin if MSSA, vancomycin if MRSA) - Consider gram-negatives if IVDU or elderly - High-dose IV therapy critical; bone penetration poor
+-   **Empirical Therapy** - S. aureus coverage essential (nafcillin if MSSA, vancomycin if MRSA) - Consider gram-negatives if IVDU or elderly - High-dose IV therapy critical; bone penetration poor
 
-**Source Control** - Surgical debridement of all necrotic bone essential - Multiple debridements often needed - Dead space management critical
+-   **Source Control** - Surgical debridement of all necrotic bone essential - Multiple debridements often needed - Dead space management critical
 
-**Duration & Oral Therapy** - OVIVA trial: IV 2 weeks → oral 4 weeks acceptable for selected cases - Fluoroquinolone + rifampin excellent for oral MSSA/MRSA - Total 4-6 weeks standard; vertebral may be shorter (Bernard trial) - Monitor for clinical improvement + inflammatory marker decline
+-   **Duration & Oral Therapy** - OVIVA trial: IV 2 weeks → oral 4 weeks acceptable for selected cases - Fluoroquinolone + rifampin excellent for oral MSSA/MRSA - Total 4-6 weeks standard; vertebral may be shorter (Bernard trial) - Monitor for clinical improvement + inflammatory marker decline
 
-::: notes
+::: aside
 Osteomyelitis is fundamentally different from bacteremia—antibiotics alone are insufficient if devitalized bone remains. The surgical team is as important as the medical team. Adequate source control, even if multiple surgeries needed, is worth it to prevent chronic OM with recurrent infection. The OVIVA and Bernard trials changed practice by showing shorter durations can work, improving quality of life.
 :::
 
-## Summary and Key Clinical Pearls: Prosthetic Joint Infection
+## Summary and key clinical pearls: Prosthetic joint infection
 
 <br>
 
-**Diagnosis** - Lower WBC threshold than native joint (\>2,000/μL concern) - Alpha-defensin excellent test (95-97% sens/spec) - Multiple tissue cultures (≥3 from different sites) increase yield - Sonication of explant adds sensitivity - 14-day culture hold essential (CoNS, Cutibacterium slow)
+-   **Diagnosis** - Lower WBC threshold than native joint (\>2,000/μL concern) - Alpha-defensin excellent test (95-97% sens/spec) - Multiple tissue cultures (≥3 from different sites) increase yield - Sonication of explant adds sensitivity - 14-day culture hold essential (CoNS, Cutibacterium slow)
 
-**Surgical Strategy** - DAIR: 50-70% success if early (\<4 weeks) and susceptible organism - Two-stage exchange: 85-95% success, gold standard for chronic OM - One-stage exchange: Growing evidence, selected cases
+-   **Surgical Strategy** - DAIR: 50-70% success if early (\<4 weeks) and susceptible organism - Two-stage exchange: 85-95% success, gold standard for chronic OM - One-stage exchange: Growing evidence, selected cases
 
-**Empirical Therapy** - Cover CoNS and S. aureus: vancomycin or daptomycin - Add gram-negative coverage if at risk - Rifampin essential for biofilm (Zimmerli trial) - IV 2 weeks, then oral 4-6 weeks typical
+-   **Empirical Therapy** - Cover CoNS and S. aureus: vancomycin or daptomycin - Add gram-negative coverage if at risk - Rifampin essential for biofilm (Zimmerli trial) - IV 2 weeks, then oral 4-6 weeks typical
 
-**Suppression** - Option for unfit/refused surgery patients - Fluoroquinolone + rifampin long-term - Doesn't eradicate; manages chronic infection
+-   **Suppression** - Option for unfit/refused surgery patients - Fluoroquinolone + rifampin long-term - Doesn't eradicate; manages chronic infection
 
-::: notes
+::: aside
 Prosthetic joint infections are complex and outcomes depend on early diagnosis, appropriate organism identification, and optimal surgical-medical integration. The paradigm has shifted from empirical two-stage exchange toward selective DAIR in early infection and one-stage in selected cases. However, two-stage remains gold standard for chronic infection. The key is aggressive diagnosis (aspiration, sonication, prolonged cultures, molecular testing) to identify the organism, and then targeted therapy.
 :::
 
-## Take-Home Messages: Final Synthesis
+## Take-home messages: Final synthesis
 
 <br>
 
 **The "Three Commandments" of Bone and Joint Infection**
 
-1.  **Diagnosis First, Therapy Second**
+1.  **Diagnosis first, therapy s econd**
     -   Aspiration/biopsy before empirical antibiotics when possible
     -   Know the organism—this guides optimal therapy
     -   Culture and susceptibility are non-negotiable
-2.  **Combine Medical and Surgical Approaches**
+2.  **Combine medical and surgical approaches**
     -   Antibiotics + source control (drainage, debridement, exchange)
     -   Neither alone is sufficient
     -   Surgical and medical teams must communicate
-3.  **Duration and Bioavailability Matter**
+3.  **Duration and bioavailability matter**
     -   High-dose IV therapy for bone/joint penetration
     -   Transition to oral with proven bioavailability (fluoroquinolone, linezolid, etc.)
     -   Shorter durations are evidence-supported for streptococci; Staph needs longer
     -   Rifampin for biofilm-related infections (PJI, chronic OM)
 
-::: notes
+::: aside
 These three principles underpin all successful outcomes in bone and joint infections. Rushing to empirical broad-spectrum antibiotics without diagnosis, neglecting source control, or using suboptimal bioavailability in oral phase leads to failure. The evidence from OVIVA (osteomyelitis), Zimmerli (PJI), Bernard (vertebral OM), and Gjika (septic arthritis) supports shorter, more targeted therapy with high bioavailability agents. Apply these principles and outcomes improve.
 :::
 
-## Key References and Evidence Highlights
+## Key references and evidence highlights
 
 <br>
 
-**Septic Arthritis** - Margaretten et al., JAMA 2007: Synovial fluid thresholds (2,302 cases) - Gjika et al., Lancet 2019: 2-week vs. 4-week IV therapy (streptococci)
+-   **Septic Arthritis** - Margaretten et al., JAMA 2007: Synovial fluid thresholds (2,302 cases) - Gjika et al., Lancet 2019: 2-week vs. 4-week IV therapy (streptococci)
 
-**Osteomyelitis** - OVIVA trial, Lancet 2019: IV → oral transition for bone/joint infection - Bernard et al., Lancet 2015: 6-week vs. 12-week therapy for vertebral OM - Cierny-Mader classification: Staging and prognostication
+-   **Osteomyelitis** - OVIVA trial, Lancet 2019: IV → oral transition for bone/joint infection - Bernard et al., Lancet 2015: 6-week vs. 12-week therapy for vertebral OM - Cierny-Mader classification: Staging and prognostication
 
-**Prosthetic Joint Infection** - Zimmerli et al., Lancet 1998: Rifampin + fluoroquinolone for MSSA PJI (100% vs. 67% success) - EBJIS criteria: Diagnostic standards - Salzmann et al., Clin Microbiol Infect 2015: Updated PJI diagnosis and management
+-   **Prosthetic Joint Infection** - Zimmerli et al., Lancet 1998: Rifampin + fluoroquinolone for MSSA PJI (100% vs. 67% success) - EBJIS criteria: Diagnostic standards - Salzmann et al., Clin Microbiol Infect 2015: Updated PJI diagnosis and management
 
-::: notes
+::: aside
 These landmark trials and papers form the evidence backbone for modern practice. Familiarize yourself with them—they justify shorter durations, oral switch therapies, and combination regimens that might otherwise seem risky. The OVIVA and Bernard trials especially have transformed practice by demonstrating non-inferiority of shorter therapies compared to traditional prolonged regimens.
 :::
 
-## Closing: Clinical Integration and Rapid Assessment
+## Closing: Clinical integration and rapid assessment
 
 <br>
 
@@ -2472,13 +2559,15 @@ These landmark trials and papers form the evidence backbone for modern practice.
 5.  **By 7-10 days:** Clinical improvement visible? Continue course.
 6.  **Consider early:** Oral step-down if organism susceptible and improving.
 
-**The Red Flags**
+**The red flags**
 
 -   Hip infection with delayed diagnosis → permanent necrosis
 -   IVDU with fever and back pain → vertebral OM
 -   Diabetic with probe-to-bone → osteomyelitis present
 -   PJI with persistent fever despite surgery → inadequate source control or biofilm
 
-::: notes
+::: aside
 This rapid assessment framework integrates diagnosis, therapy, and clinical monitoring into a coherent workflow. The red flags are the "don't miss" presentations that, if overlooked, lead to permanent disability or death. Keep them front-of-mind when evaluating febrile patients with joint or bone complaints.
 :::
+
+## References
